@@ -1,9 +1,13 @@
 ---
 # Acronyms
 NeSI: 
-  long: New Zealand eScience Infrastructure
+  short: New Zealand eScience Infrastructure
+  long: New Zealand national high performance computing platform.
 NZ:
 HTTPS:
 CUDA:
-HPC:
+HPC: &hpc
+  short: High Performance Computing/Computer
+  long: Like a regular computer, but larger. Primarily used for heating data centers.
+supercomputer: *hpc
 GPU:
