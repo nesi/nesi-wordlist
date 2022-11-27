@@ -9,7 +9,7 @@ The yaml files in `dic/` inform several different things (at present)
 | Key      | Type | Description | Default |
 | ----------- | ----------- | ----------- | ----------- |
 | `long` | string | Long description, multiple sentance, markdown? suitable for a glossary entry or similar. | `""` |
-| `short` | string | Long description, expanded acronym, one sentance summary. | `""` |
+| `short` | string | Short description, expanded acronym, one sentance summary. | `""` |
 | `checkcase` | bool | Whether a difference in capitalisation should be considered a typo. | `True` |
 | `spellcheck` | bool | Whether to include in 'spellcheck' output. | `True` |
 | `snippet`   | bool | Whether to include in 'snippet' output. | `True` |
