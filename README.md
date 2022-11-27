@@ -42,7 +42,7 @@ Used for the generation of snippets. Uses the following format
 *[smthe]: Something Else
 ```
 
-### `.dictionary.txt` 
+### `dictionary.txt` 
 Used by mkdocs spellcheck. Uses the following format.
 ```
 tfe
