@@ -16,10 +16,16 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Generate outputs
       run: python3 generate.py
-    - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v4.2.2
-      with:
-        delete-branch: true
-        title: "Updated output files"
-        labels: |
-          automated
+    - name: commit
+    - run: |
+        git add outputs/*
+        git commit -m "Automated updated output files" 
+        git push -f origin main
+
+#     - name: Create Pull Request
+#       uses: peter-evans/create-pull-request@v4.2.2
+#       with:
+#         delete-branch: true
+#         title: "Updated output files"
+#         labels: |
+#           automated
