@@ -16,8 +16,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Generate outputs
       run: python3 generate.py
-    - name: commit
-    - run: |
+    - name: Commit to main
+      run: |
         git add outputs/*
         git commit -m "Automated updated output files" 
         git push -f origin main
