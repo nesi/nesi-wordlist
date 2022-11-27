@@ -2,7 +2,7 @@ A wordlist for use across various projects.
 
 ## How to use.
 
-The yaml files in `dic/` inform several different things (at present)
+The yaml files in `dic/` inform several different things (at present). Editing any of these files should trigger regeneration of the outputs.
 
 ### Parameters
 
@@ -38,7 +38,9 @@ Example entry and alias.
 
 ## Implimentation
 
-Running `./generate.py` should create several outputs based on defined patterns. Currently these are the outputs;
+Running `./generate.py` should create several outputs based on defined patterns. 
+
+Currently these are the outputs;
 
 ### `snippets.md` 
 Used for the generation of snippets (for use with mkdocs-material tooltips and glossary ). 
