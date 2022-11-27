@@ -18,6 +18,8 @@ jobs:
       run: python3 generate.py
     - name: Commit to main
       run: |
+        git config user.name "${GITHUB_ACTOR}"
+        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add outputs/*
         git commit -m "Automated updated output files" 
         git push -f origin main
