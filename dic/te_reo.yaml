@@ -1,0 +1,10 @@
+---
+# Maori
+# While 'mi_NZ' dictionaries exist, not all spellcheckers can handle multiple.
+# Easier to just impliment through a word list.
+Māui:
+Mahuika:
+ngā:
+mihi:
+kia:
+ora:

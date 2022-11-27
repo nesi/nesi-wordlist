@@ -1,6 +1,8 @@
+A wordlist for use across various projects.
+
 ## How to use.
 
-The `dictionary.yaml` informs three different things.
+The yaml files in `dic/` inform three different things (at present)
 
 ### Spellcheck
  - All words listed will be included in spellcheck unless `spellcheck: false`.
@@ -31,24 +33,29 @@ example entry.
 
 ## Implimentation
 
-
-Running `./glossary.py` should create the following outputs.
-### `.snippets.md` 
-Used for the generation of snippets. Uses the following format
+Running `./generate.py` should create the following outputs.
+### `snippets.md` 
+Used for the generation of snippets (for use with mkdocs-material tooltips and glossary ). Uses the following format
 
 ```
 *[tfe]: The Full Explanation 
 *[smth-e]: Something Else
 *[smthe]: Something Else
 ```
+#### Currently used in
+* [mkdocs](https://git.hpcf.nesi.org.nz/nesi-apps/mkdocs)
 
-### `.dictionary.txt` 
+### `dictionary.txt` 
 Used by mkdocs spellcheck. Uses the following format.
 ```
 tfe
 smth-e
 smthe
 ```
+#### Currently used in
+* [zendesk-macros](https://git.hpcf.nesi.org.nz/nesi-apps/zendesk-macros)
+* [mkdocs](https://git.hpcf.nesi.org.nz/nesi-apps/mkdocs)
+* [migratedocs](https://git.hpcf.nesi.org.nz/cwal219/migratedocs)
 
 ### `Glossary.md`
 Nicely formatted markdown page for human reading.
@@ -60,3 +67,7 @@ The Full Explanation.
 #### - smth-e, smthe : 
 Something Else
 ```
+#### Currently used in
+* This repo I guess?
+
+#### Could be used in software carpentrty lessons

@@ -1,11 +1,12 @@
 #!/usr/bin/python3.9
 
 import yaml
+import glob
 
-YAML_FILE = "dictionary.yaml"
-SPELLCHECK_FILE = "dictionary.txt"
-SNIPPET_FILE = "snippets.md"
-GLOSSARY_FILE = "Glossary.md"
+YAML_FILES = "dic/*.y*ml"
+SPELLCHECK_FILE = "outputs/dictionary.txt"
+SNIPPET_FILE = "outputs/snippets.md"
+GLOSSARY_FILE = "outputs/Glossary.md"
 
 default_values = {
     "long": "",
@@ -18,15 +19,19 @@ word_list = {}
 
 
 def main():
-    word_list = read_in()
+
+    word_list = {}
+    for yaml_list in glob.glob(YAML_FILES):
+        word_list = {**read_in(yaml_list), **word_list}
+
     write_out(SNIPPET_FILE, "snippet", "*[{0}]: {1[long]}\n")
     write_out(GLOSSARY_FILE, "glossary", "### {0}:\n\t{1[long]}\n")
     write_out(SPELLCHECK_FILE, "spellcheck", "{0}\n")
 
 
-def read_in():
+def read_in(yaml_file):
     """parse yaml file with defaults"""
-    with open(YAML_FILE, "r") as f:
+    with open(yaml_file, "r") as f:
         yaml_list = yaml.load(f, Loader=yaml.FullLoader)
 
     for key, val in yaml_list.items():
