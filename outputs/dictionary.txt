@@ -1,3 +1,13 @@
+lockdown
+onboarding
+rollout
+deprioritised
+NeSI
+NZ
+HTTPS
+CUDA
+HPC
+GPU
 srun
 Nano
 Māui
@@ -6,10 +16,6 @@ ngā
 mihi
 kia
 ora
-lockdown
-onboarding
-rollout
-deprioritised
 eScience
 nearline
 nobackup
@@ -21,12 +27,6 @@ walltime
 libio
 inode
 parallelisation
-NeSI
-NZ
-HTTPS
-CUDA
-HPC
-GPU
 Globus
 Jupyter
 Slurm
