@@ -33,7 +33,7 @@ example entry.
 
 
 Running `./glossary.py` should create the following outputs.
-### `.snippets.md` 
+### `snippets.md` 
 Used for the generation of snippets. Uses the following format
 
 ```
