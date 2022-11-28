@@ -6,7 +6,9 @@ NeSI
 NZ
 HTTPS
 CUDA
+HPCs
 HPC
+supercomputers
 supercomputer
 GPUs
 GPU
