@@ -8,6 +8,7 @@ HTTPS
 CUDA
 HPC
 supercomputer
+GPUs
 GPU
 srun
 Nano
