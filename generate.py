@@ -11,6 +11,7 @@ GLOSSARY_FILE = "outputs/Glossary.md"
 default_values = {
     "long": "",
     "checkcase": True,
+    "plural": False,
     "spellcheck": True,
     "snippet": True,
     "glossary": True,
@@ -45,7 +46,9 @@ def read_in(yaml_file):
         if not val["long"]:
             val["glossary"] = False
             val["snippet"] = False
-
+        # Add plural
+        if val["plural"]:
+            word_list[key + "s"] = val
         word_list[key] = val
     return word_list
 
