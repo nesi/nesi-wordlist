@@ -11,6 +11,7 @@ The yaml files in `dic/` inform several different things (at present). Editing a
 | `long` | string | Long description, multiple sentance, markdown? suitable for a glossary entry or similar. | `""` |
 | `short` | string | Short description, expanded acronym, one sentance summary. | `""` |
 | `checkcase` | bool | [NOT IMPLIMENTED] Whether a difference in capitalisation should be considered a typo. | `True` |
+| plural | bool | Whether the plural of this word is considered valid | False |
 | `spellcheck` | bool | Whether to include in 'spellcheck' output. | `True` |
 | `snippet`   | bool | Whether to include in 'snippet' output. | `True` |
 | `glossary`   | bool | Whether to include in 'glossary' output. | `True` |
