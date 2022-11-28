@@ -32,14 +32,7 @@ def main():
     Output(
         "glossary", GLOSSARY_FILE, "### {0}:\n\t{1[long]}\n", remove_if_no_long
     ).write_out()
-    Output(
-        "spellcheck",
-        SPELLCHECK_FILE,
-        "{0}\n",
-        # Add logic for generating plurals and possesives.
-        lambda word, val: [word + "s", val] if val["plural"] else [word, val],
-        lambda word, val: [word + "'s", val] if val["possessive"] else [word, val],
-    ).write_out()
+    Output("spellcheck", SPELLCHECK_FILE, "{0}\n").write_out()
 
 
 def read_in(yaml_file):
@@ -54,6 +47,12 @@ def read_in(yaml_file):
         for k, v in default_values.items():
             if k not in val:
                 val[k] = v
+        # Add plural
+        if val["plural"]:
+            word_list[key + "s"] = val
+        # Add possessive
+        if val["possessive"]:
+            word_list[key + "'s"] = val
         word_list[key] = val
     return word_list
 
