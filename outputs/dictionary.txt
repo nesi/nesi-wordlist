@@ -22,7 +22,7 @@ eScience
 nearline
 nobackup
 precompiled
-namespaces
+namespace
 runtime
 sudo
 walltime
