@@ -12,6 +12,7 @@ default_values = {
     "long": "",
     "checkcase": True,
     "plural": False,
+    "possessive": False,
     "spellcheck": True,
     "snippet": True,
     "glossary": True,
@@ -49,6 +50,9 @@ def read_in(yaml_file):
         # Add plural
         if val["plural"]:
             word_list[key + "s"] = val
+        # Add possessive
+        if val["possessive"]:
+            word_list[key + "'s"] = val
         word_list[key] = val
     return word_list
 
