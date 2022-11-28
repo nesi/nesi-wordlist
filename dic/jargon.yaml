@@ -4,10 +4,12 @@ eScience:
 nearline:
 nobackup:
 precompiled:
-namespaces:
+namespace:
+  plural: True
 runtime:
 sudo:
 walltime:
 libio:
 inode:
+  plural: True
 parallelisation:
