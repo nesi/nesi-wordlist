@@ -13,9 +13,7 @@ default_values = {
     "checkcase": True,
     "plural": False,
     "possessive": False,
-    "spellcheck": True,
-    "snippet": True,
-    "glossary": True,
+    "outputs": ["spellcheck", "snippet", "glossary"],
 }
 word_list = {}
 
@@ -26,9 +24,22 @@ def main():
     for yaml_list in glob.glob(YAML_FILES):
         word_list = {**read_in(yaml_list), **word_list}
 
-    write_out(SNIPPET_FILE, "snippet", "*[{0}]: {1[long]}\n")
-    write_out(GLOSSARY_FILE, "glossary", "### {0}:\n\t{1[long]}\n")
-    write_out(SPELLCHECK_FILE, "spellcheck", "{0}\n")
+    remove_if_no_long = lambda word, val: False if not val["long"] else [word, val]
+
+    Output(
+        "snippet", SNIPPET_FILE, "*[{0}]: {1[long]}\n", remove_if_no_long
+    ).write_out()
+    Output(
+        "glossary", GLOSSARY_FILE, "### {0}:\n\t{1[long]}\n", remove_if_no_long
+    ).write_out()
+    Output(
+        "spellcheck",
+        SPELLCHECK_FILE,
+        "{0}\n",
+        # Add logic for generating plurals and possesives.
+        lambda word, val: [word + "s", val] if val["plural"] else [word, val],
+        lambda word, val: [word + "'s", val] if val["possessive"] else [word, val],
+    ).write_out()
 
 
 def read_in(yaml_file):
@@ -43,26 +54,48 @@ def read_in(yaml_file):
         for k, v in default_values.items():
             if k not in val:
                 val[k] = v
-        # Disable glos and snip if no long value.
-        if not val["long"]:
-            val["glossary"] = False
-            val["snippet"] = False
-        # Add plural
-        if val["plural"]:
-            word_list[key + "s"] = val
-        # Add possessive
-        if val["possessive"]:
-            word_list[key + "'s"] = val
         word_list[key] = val
     return word_list
 
 
-def write_out(output, key, pattern):
-    """Write output"""
-    with open(output, "w+") as f:
-        for word, val in word_list.items():
-            if val[key]:
-                f.write(pattern.format(word, val))
+class Output:
+    """
+    A class used to represent an output format
+
+    name : str
+        Will be written if a word has this in its 'output'
+    path : str
+        Where to write this output
+    pattern : str
+        What to write out.
+    filter : lambda
+        Function to modify or skip words.
+
+    write_out:
+        write to output path
+    """
+
+    def __init__(self, name, path, pattern, *filters):
+        self.name = name
+        self.path = path
+        self.pattern = pattern
+        self.filters = filters
+
+    def write_out(self):
+        """Write output"""
+        with open(self.path, "w+") as f:
+            for word, val in word_list.items():
+                if self.name in val["outputs"]:
+                    skip = False
+                    for filter in self.filters:
+                        filtered = filter(word, val)
+                        # If filter returned False, skip this word.
+                        if filtered:
+                            word, val = filtered
+                        else:
+                            skip = True
+                    if not skip:
+                        f.write(self.pattern.format(word, val))
 
 
 main()
