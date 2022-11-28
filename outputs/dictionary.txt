@@ -6,8 +6,11 @@ NeSI
 NZ
 HTTPS
 CUDA
+HPCs
 HPC
+supercomputers
 supercomputer
+GPUs
 GPU
 srun
 Nano
@@ -22,11 +25,14 @@ eScience
 nearline
 nobackup
 precompiled
+namespaces
 namespace
 runtime
 sudo
+walltimes
 walltime
 libio
+inodes
 inode
 parallelisation
 Globus
