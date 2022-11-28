@@ -11,9 +11,9 @@ The yaml files in `dic/` inform several different things (at present). Editing a
 | `long` | string | Long description, multiple sentance, markdown? suitable for a glossary entry or similar. | `""` |
 | `short` | string | Short description, expanded acronym, one sentance summary. | `""` |
 | `checkcase` | bool | [NOT IMPLIMENTED] Whether a difference in capitalisation should be considered a typo. | `True` |
-| `plural` | bool | Whether the plural of this word is considered valid | False |
-| `possessive` | bool | Whether the plural of this word is considered valid | False |
-| `outputs` | list string | Which output patterns this word should be included in | `["spellcheck", "snippet", "glossary"]` |
+| `plural` | bool | Whether the plural of this word is considered valid | `False` |
+| `possessive` | bool | Whether the plural of this word is considered valid | `False` |
+| `outputs` | list | Which output patterns this word should be included in | `["spellcheck", "snippet", "glossary"]` |
 
 Defaults currently hardcoded in [`generate.py`](./generate.py)
 
@@ -31,6 +31,7 @@ Example entry and alias.
    short: High Performance Computing/Computer
    long: Like a regular computer, but larger. Primarily used for heating data centers.
    checkcase: false 
+   plural: true 
    outputs: ["glossary, "spellcheck"] 
 - supercomputer: *hpc #This is an alias of HPC.
 ```
