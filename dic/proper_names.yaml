@@ -1,13 +1,20 @@
 ---
 # Proper names
 Globus:
+  possessive: True
 Jupyter:
+  possessive: True
 Slurm:
+  possessive: True
 Glib: 
 Skylake:
 Lmod:
+  possessive: True
 JupyterHub:
+  possessive: True
 GitHub:
+  possessive: True
 OpenMP: &omp
   short: Open Multi-Processing
+  possessive: True
 OMP: *omp
