@@ -22,11 +22,14 @@ eScience
 nearline
 nobackup
 precompiled
+namespaces
 namespace
 runtime
 sudo
+walltimes
 walltime
 libio
+inodes
 inode
 parallelisation
 Globus
