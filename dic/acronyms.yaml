@@ -11,3 +11,4 @@ HPC: &hpc
   long: Like a regular computer, but larger. Primarily used for heating data centers.
 supercomputer: *hpc
 GPU:
+  plural: True
