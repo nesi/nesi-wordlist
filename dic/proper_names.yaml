@@ -8,3 +8,6 @@ Skylake:
 Lmod:
 JupyterHub:
 GitHub:
+OpenMP: &omp
+  short: Open Multi-Processing
+OMP: *omp
