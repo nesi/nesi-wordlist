@@ -9,6 +9,7 @@ namespace:
 runtime:
 sudo:
 walltime:
+  plural: True
 libio:
 inode:
   plural: True
