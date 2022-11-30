@@ -13,6 +13,7 @@ supercomputers
 supercomputer
 GPUs
 GPU
+MPI
 srun
 Nano
 Māui
