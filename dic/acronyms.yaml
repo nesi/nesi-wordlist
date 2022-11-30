@@ -14,3 +14,6 @@ HPC: &hpc
 supercomputer: *hpc
 GPU:
   plural: True
+MPI:
+  short: Message Passing Interface
+  long: A standardised message-passing standard designed to function on parallel computing architectures.
