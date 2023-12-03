@@ -1,16 +1,57 @@
 ---
 # Acronyms
-NeSI: 
-  short: New Zealand eScience Infrastructure
-  long: New Zealand national high performance computing platform.
+ACL:
+  short: Access Control List
+  plural: true
+CPU:
+  short: Central Processing Unit
+  long:  Slectronic circuitry executes instructions of a computer program.
+  plural: True
   possessive: True
-NZ:
-HTTPS:
 CUDA:
+  short: Compute Unified Device Architecture
+GPU:
+  short: Graphics Processing Unit
+  plural: True
+GPGPU:
+  short:  General Purpose Graphics Processing Unit
+  plural: True
+HDF: 
+  short: Hierarchical Data Format
+  long: A set of file formats designed to store and organize large amounts of data.
 HPC: &hpc
   short: High Performance Computing/Computer
   long: Like a regular computer, but larger. Primarily used for heating data centers.
   plural: True
+HTTPS:
+MPI:
+  short: Message Passing Interface
+  long: A standardised message-passing standard designed to function on parallel computing architectures.
+NeSI: 
+  short: New Zealand eScience Infrastructure
+  long: New Zealand national high performance computing platform.
+  possessive: True
+NIWA:
+  short: National Institute of Water and Atmospheric Research
+  long:  Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
+  possessive: True
+NZ:
+SCP: 
+  short: Secure Copy Protocol
+  long: Means of securely transferring files between over an SSH connection.
+SSH:
+  short: Secure Shell
+  long: A network communication protocol that enables two computers to communicate
+SIF: 
+  short: Singularity Image Format
+UDF:
+  short: User Defined Function
+VPN:
+  short: Virtual Private Network
+  long: Method of extending access to a private network.
+WSL: 
+  short: Windows Subsystem for Linux
+YAML:
+  short: Yet Another Markup Language
 supercomputer: *hpc
-GPU:
-  plural: True
+supercomputing: *hpc

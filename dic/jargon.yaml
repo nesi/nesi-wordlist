@@ -3,6 +3,12 @@
 eScience:
 nearline:
 nobackup:
+checkpointing:
+basecaller:
+checksum:
+  plural: True
+toolchain:
+  plural: True
 precompiled:
 namespace:
   plural: True
@@ -14,3 +20,12 @@ libio:
 inode:
   plural: True
 parallelisation:
+stdout:
+profiler:
+  plural: True
+  possessive: True
+stdin:
+stderr:
+fileset:
+tooltip:
+templating:
