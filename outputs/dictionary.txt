@@ -24,6 +24,8 @@ WSL
 YAML
 supercomputers
 supercomputer
+supercomputings
+supercomputing
 srun
 Nano
 Globus's

@@ -24,3 +24,7 @@
 	Like a regular computer, but larger. Primarily used for heating data centers.
 ### supercomputer:
 	Like a regular computer, but larger. Primarily used for heating data centers.
+### supercomputings:
+	Like a regular computer, but larger. Primarily used for heating data centers.
+### supercomputing:
+	Like a regular computer, but larger. Primarily used for heating data centers.
