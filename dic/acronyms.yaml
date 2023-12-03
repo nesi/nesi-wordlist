@@ -3,6 +3,11 @@
 ACL:
   short: Access Control List
   plural: true
+CPU:
+  short: Central Processing Unit
+  long:  Slectronic circuitry executes instructions of a computer program.
+  plural: True
+  possessive: True
 CUDA:
   short: Compute Unified Device Architecture
 GPU:
