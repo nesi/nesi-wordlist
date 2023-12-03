@@ -49,3 +49,4 @@ WSL:
 YAML:
   short: Yet Another Markup Language
 supercomputer: *hpc
+supercomputing: *hpc
