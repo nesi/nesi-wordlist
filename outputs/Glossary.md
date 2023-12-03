@@ -1,3 +1,9 @@
+### CPUs:
+	Slectronic circuitry executes instructions of a computer program.
+### CPU's:
+	Slectronic circuitry executes instructions of a computer program.
+### CPU:
+	Slectronic circuitry executes instructions of a computer program.
 ### HDF:
 	A set of file formats designed to store and organize large amounts of data.
 ### HPCs:

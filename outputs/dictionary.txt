@@ -1,5 +1,8 @@
 ACLs
 ACL
+CPUs
+CPU's
+CPU
 CUDA
 GPUs
 GPU
