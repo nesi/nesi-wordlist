@@ -23,6 +23,8 @@ def main():
     for yaml_list in glob.glob(YAML_FILES):
         word_list = {**read_in(yaml_list), **word_list}
 
+    word_list = dict(sorted(word_list.items()))
+
     Output(
         "snippet",
         SNIPPET_FILE,
@@ -32,7 +34,7 @@ def main():
         possessivise,
     ).write_out(word_list)
     Output(
-        "glossary", GLOSSARY_FILE, "*{0}:*\n  {1[long]}\n", remove_if_no_long
+        "glossary", GLOSSARY_FILE, "*{0}:*\n{1[long]}\n", remove_if_no_long
     ).write_out(word_list)
     Output("spellcheck", SPELLCHECK_FILE, "{0}\n", pluralise, possessivise).write_out(word_list)
 

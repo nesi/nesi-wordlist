@@ -1,22 +1,3 @@
-*[CPUs's]: Slectronic circuitry executes instructions of a computer program.
-*[CPUs]: Slectronic circuitry executes instructions of a computer program.
-*[CPU's]: Slectronic circuitry executes instructions of a computer program.
-*[CPU]: Slectronic circuitry executes instructions of a computer program.
-*[HDF]: A set of file formats designed to store and organize large amounts of data.
-*[HPCs]: Like a regular computer, but larger. Primarily used for heating data centers.
-*[HPC]: Like a regular computer, but larger. Primarily used for heating data centers.
-*[MPI]: A standardised message-passing standard designed to function on parallel computing architectures.
-*[NeSI's]: New Zealand national high performance computing platform.
-*[NeSI]: New Zealand national high performance computing platform.
-*[NIWA's]: Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
-*[NIWA]: Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
-*[SCP]: Means of securely transferring files between over an SSH connection.
-*[SSH]: A network communication protocol that enables two computers to communicate
-*[VPN]: Method of extending access to a private network.
-*[supercomputers]: Like a regular computer, but larger. Primarily used for heating data centers.
-*[supercomputer]: Like a regular computer, but larger. Primarily used for heating data centers.
-*[supercomputings]: Like a regular computer, but larger. Primarily used for heating data centers.
-*[supercomputing]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[ABAQUS's]: Finite Element Analysis software for modeling, visualization and best-in-class implicit and explicit dynamics FEA.
 *[ABAQUS]: Finite Element Analysis software for modeling, visualization and best-in-class implicit and explicit dynamics FEA.
 *[ABRicate's]: Mass screening of contigs for antimicrobial and virulence genes
@@ -193,6 +174,10 @@
 *[CONCOCT]: Program for unsupervised binning of metagenomic contigs by using nucleotide composition,
 *[CP2K's]: CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
 *[CP2K]: CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
+*[CPUs's]: Slectronic circuitry executes instructions of a computer program.
+*[CPUs]: Slectronic circuitry executes instructions of a computer program.
+*[CPU's]: Slectronic circuitry executes instructions of a computer program.
+*[CPU]: Slectronic circuitry executes instructions of a computer program.
 *[CRAMINO's]: A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 *[CRAMINO]: A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 *[CTPL's]: C++ Thread Pool Library
@@ -437,6 +422,7 @@
 *[Gubbins]: Genealogies Unbiased By recomBinations In Nucleotide Sequences
 *[Guile's]: Guile is the GNU Ubiquitous Intelligent Language for Extensions,
 *[Guile]: Guile is the GNU Ubiquitous Intelligent Language for Extensions,
+*[HDF]: A set of file formats designed to store and organize large amounts of data.
 *[HDF-EOS's]: HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing file format for transfer of various types of data between different machines based upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites: Terra, Aqua and Aura.
 *[HDF-EOS]: HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing file format for transfer of various types of data between different machines based upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites: Terra, Aqua and Aura.
 *[HDF-EOS5's]: HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing file format for transfer of various types of data between different machines based upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites: Terra, Aqua and Aura.
@@ -451,6 +437,8 @@
 *[HMMER2]: HMMER is used for searching sequence databases for homologs of protein sequences,
 *[HOPS's]: Pipeline which focuses on screening MALT data for the presence of a user-specified list of target species.
 *[HOPS]: Pipeline which focuses on screening MALT data for the presence of a user-specified list of target species.
+*[HPCs]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[HPC]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[HTSeq's]: HTSeq is a Python library to facilitate processing and analysis
 *[HTSeq]: HTSeq is a Python library to facilitate processing and analysis
 *[HTSlib's]: A C library for reading/writing high-throughput sequencing data.
@@ -593,6 +581,7 @@
 *[MODFLOW]: MODFLOW is the U.S. Geological Survey modular finite-difference flow model, which is a computer code that solves the groundwater flow equation. The program is used by hydrogeologists to simulate the flow of groundwater through aquifers.
 *[MPFR's]: The MPFR library is a C library for multiple-precision
 *[MPFR]: The MPFR library is a C library for multiple-precision
+*[MPI]: A standardised message-passing standard designed to function on parallel computing architectures.
 *[MSMC's]: Multiple Sequentially Markovian Coalescent, infers population size and gene flow from multiple genome sequences
 *[MSMC]: Multiple Sequentially Markovian Coalescent, infers population size and gene flow from multiple genome sequences
 *[MUMPS's]: A parallel sparse direct solver
@@ -677,6 +666,8 @@
 *[NCVIEW]: Ncview is a visual browser for netCDF format files. Typically you would use ncview to get a quick and easy, push-button look at your netCDF files. You can view simple movies of the data, view along various dimensions, take a look at the actual data values, change color maps, invert the data, etc.
 *[NGS's]: NGS is a new, domain-specific API for accessing reads, alignments and pileups produced from
 *[NGS]: NGS is a new, domain-specific API for accessing reads, alignments and pileups produced from
+*[NIWA's]: Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
+*[NIWA]: Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
 *[NLopt's]: NLopt is a free/open-source library for nonlinear optimization, providing a common interface for a number of different free optimization routines available online as well as original implementations of various other algorithms
 *[NLopt]: NLopt is a free/open-source library for nonlinear optimization, providing a common interface for a number of different free optimization routines available online as well as original implementations of various other algorithms
 *[NSPR's]: Netscape Portable Runtime (NSPR) provides a platform-neutral API for system level
@@ -695,6 +686,8 @@
 *[NanoPlot]: Plotting suite for Oxford Nanopore sequencing data and alignments.
 *[NanoStat's]: Tool for phasing genomic variants using DNA sequencing reads, also called read-based phasing or haplotype assembly.
 *[NanoStat]: Tool for phasing genomic variants using DNA sequencing reads, also called read-based phasing or haplotype assembly.
+*[NeSI's]: New Zealand national high performance computing platform.
+*[NeSI]: New Zealand national high performance computing platform.
 *[Newton-X's]: NX is a general-purpose program package for simulating the dynamics of electronically excited molecules and molecular assemblies.
 *[Newton-X]: NX is a general-purpose program package for simulating the dynamics of electronically excited molecules and molecular assemblies.
 *[NextGenMap's]: NextGenMap is a flexible highly sensitive short read mapping tool that
@@ -915,6 +908,7 @@
 *[SAS]: SAS is a statistical software suite developed by SAS Institute for data management, advanced analytics, multivariate analysis, business intelligence, criminal investigation, and predictive analytics. - Homepage: https://www.sas.com/en_nz/home.html/
 *[SCOTCH's]: Software package and libraries for sequential and parallel graph partitioning, static mapping, and sparse matrix block ordering, and sequential mesh and hypergraph partitioning.
 *[SCOTCH]: Software package and libraries for sequential and parallel graph partitioning, static mapping, and sparse matrix block ordering, and sequential mesh and hypergraph partitioning.
+*[SCP]: Means of securely transferring files between over an SSH connection.
 *[SCons's]: SCons is a software construction tool.
 *[SCons]: SCons is a software construction tool.
 *[SDL2's]: Simple DirectMedia Layer, a cross-platform multimedia library
@@ -949,6 +943,7 @@
 *[SQLplus]: SQL*Plus is an interactive and batch query tool that is installed with every Oracle Database installation. It has a command-line user interface and a Windows Graphical User Interface (GUI).
 *[SSAHA2's]: Pairwise sequence alignment program designed for the efficient mapping of sequencing
 *[SSAHA2]: Pairwise sequence alignment program designed for the efficient mapping of sequencing
+*[SSH]: A network communication protocol that enables two computers to communicate
 *[STAR's]: Fast universal RNA-seq aligner
 *[STAR]: Fast universal RNA-seq aligner
 *[STAR-Fusion's]: Processes the output generated by the STAR aligner to map junction reads and spanning reads to a reference annotation set
@@ -1071,6 +1066,7 @@
 *[VIBRANT]: Virus Identification By iteRative ANnoTation
 *[VMD's]: VMD is a molecular visualization program for displaying, animating, and analyzing large biomolecular
 *[VMD]: VMD is a molecular visualization program for displaying, animating, and analyzing large biomolecular
+*[VPN]: Method of extending access to a private network.
 *[VSEARCH's]: An open source alternative to the metagenomics tool USEARCH.
 *[VSEARCH]: An open source alternative to the metagenomics tool USEARCH.
 *[VTK's]: The Visualization Toolkit (VTK) is an open-source, freely available software system for  3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several  interpreted interface layers including Tcl/Tk, Java, and Python. VTK supports a wide variety of visualization  algorithms including: scalar, vector, tensor, texture, and volumetric methods; and advanced modeling techniques  such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay triangulation.
@@ -1641,6 +1637,10 @@
 *[srun-wrapper]: Provides an mpirun script which merely wraps the srun command.
 *[sublime's]: Text editor with GUI
 *[sublime]: Text editor with GUI
+*[supercomputers]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[supercomputer]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[supercomputings]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[supercomputing]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[swarm's]: A robust and fast clustering method for amplicon-based studies.
 *[swarm]: A robust and fast clustering method for amplicon-based studies.
 *[swissknife's]: Perl module for reading and writing UniProtKB data in plain text format.
