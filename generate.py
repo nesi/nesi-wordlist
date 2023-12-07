@@ -6,7 +6,7 @@ import glob
 YAML_FILES = "dic/*.y*ml"
 SPELLCHECK_FILE = "outputs/dictionary.txt"
 SNIPPET_FILE = "outputs/snippets.md"
-GLOSSARY_FILE = "outputs/Glossary.md"
+GLOSSARY_FILE = "outputs/glossary.md"
 
 default_values = {
     "long": "",
@@ -32,7 +32,7 @@ def main():
         possessivise,
     ).write_out(word_list)
     Output(
-        "glossary", GLOSSARY_FILE, "### {0}:\n\t{1[long]}\n", remove_if_no_long
+        "glossary", GLOSSARY_FILE, "*{0}:*\n  {1[long]}\n", remove_if_no_long
     ).write_out(word_list)
     Output("spellcheck", SPELLCHECK_FILE, "{0}\n", pluralise, possessivise).write_out(word_list)
 
