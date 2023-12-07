@@ -19,20 +19,22 @@ word_list = {}
 
 
 def main():
-
     word_list = {}
     for yaml_list in glob.glob(YAML_FILES):
         word_list = {**read_in(yaml_list), **word_list}
 
-    remove_if_no_long = lambda word, val: False if not val["long"] else [word, val]
-
     Output(
-        "snippet", SNIPPET_FILE, "*[{0}]: {1[long]}\n", remove_if_no_long
-    ).write_out()
+        "snippet",
+        SNIPPET_FILE,
+        "*[{0}]: {1[long]}\n",
+        remove_if_no_long,
+        pluralise,
+        possessivise,
+    ).write_out(word_list)
     Output(
         "glossary", GLOSSARY_FILE, "### {0}:\n\t{1[long]}\n", remove_if_no_long
-    ).write_out()
-    Output("spellcheck", SPELLCHECK_FILE, "{0}\n").write_out()
+    ).write_out(word_list)
+    Output("spellcheck", SPELLCHECK_FILE, "{0}\n", pluralise, possessivise).write_out(word_list)
 
 
 def read_in(yaml_file):
@@ -47,14 +49,29 @@ def read_in(yaml_file):
         for k, v in default_values.items():
             if k not in val:
                 val[k] = v
-        # Add plural
-        if val["plural"]:
-            word_list[key + "s"] = val
-        # Add possessive
-        if val["possessive"]:
-            word_list[key + "'s"] = val
-        word_list[key] = val
+            word_list[key] = val
     return word_list
+
+# Filters
+
+
+def remove_if_no_long(k, v):
+    if v["long"]:
+        yield k, v
+
+
+def pluralise(k, v):
+    # Add plural
+    if v["plural"]:
+        yield k + "s", v
+    yield k, v
+
+
+def possessivise(k, v):
+    # Add possessive
+    if v["possessive"]:
+        yield k + "'s", v
+    yield k, v
 
 
 class Output:
@@ -80,21 +97,20 @@ class Output:
         self.pattern = pattern
         self.filters = filters
 
-    def write_out(self):
+    def apply_filter(self, filter, word_list):
+        for word, val in word_list.items():
+            if self.name in val["outputs"]:
+                for kp in filter(word, val):
+                    if kp:
+                        yield kp
+
+    def write_out(self, word_list):
         """Write output"""
         with open(self.path, "w+") as f:
+            for filter in self.filters:
+                word_list = {k: v for k, v in self.apply_filter(filter, word_list)}
             for word, val in word_list.items():
-                if self.name in val["outputs"]:
-                    skip = False
-                    for filter in self.filters:
-                        filtered = filter(word, val)
-                        # If filter returned False, skip this word.
-                        if filtered:
-                            word, val = filtered
-                        else:
-                            skip = True
-                    if not skip:
-                        f.write(self.pattern.format(word, val))
+                f.write(self.pattern.format(word, val))
 
 
 main()
