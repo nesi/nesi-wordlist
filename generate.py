@@ -34,7 +34,7 @@ def main():
         possessivise,
     ).write_out(word_list)
     Output(
-        "glossary", GLOSSARY_FILE, "*{0}:*\n{1[long]}\n", remove_if_no_long
+        "glossary", GLOSSARY_FILE, "**{0}:**\n\n{1[long]}\n\n", remove_if_no_long
     ).write_out(word_list)
     Output("spellcheck", SPELLCHECK_FILE, "{0}\n", pluralise, possessivise).write_out(word_list)
 
