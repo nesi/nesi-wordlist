@@ -55,3 +55,21 @@ YAML:
   short: Yet Another Markup Language
 supercomputer: *hpc
 supercomputing: *hpc
+DTN:
+  short: Data Transfer Node
+CMIP:
+  short: Coupled Model Intercomparison Project
+PCIe:
+  short: Peripheral Component Interconnect Express
+VNC: 
+  short: Virtual Network Computing
+KNP:
+POSIX: 
+  short: Portable Operating System Interface
+  long: A set of standard operating system interfaces based on the Unix operating system
+JSON: 
+  short: JavaScript Object Notation
+SSHFS: 
+  short: Secure SHell File System
+REANNZ: 
+  short: Research Education Advanced Network New Zealand

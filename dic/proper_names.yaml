@@ -18,3 +18,11 @@ OpenMP: &omp
   short: Open Multi-Processing
   possessive: True
 OMP: *omp
+Broadwell:
+Tuakiri: 
+  possessive: True
+  short: New Zealand federated identity and access management.
+InfiniBand:
+Aotearoa:
+  possessive: True
+MathWorks:

@@ -2,3 +2,8 @@
 # Words not in the aspell dictionary for whatever reason
 "in situ":
 analytics:
+programme:
+  plural: True
+reproducibility:
+admonition:
+parallelise:

@@ -2,6 +2,7 @@
 
 import yaml
 import glob
+import re
 
 YAML_FILES = "dic/*.y*ml"
 SPELLCHECK_FILE = "outputs/dictionary.txt"
@@ -15,16 +16,10 @@ default_values = {
     "possessive": False,
     "outputs": ["spellcheck", "snippet", "glossary"],
 }
-word_list = {}
 
 
 def main():
-    word_list = {}
-    for yaml_list in glob.glob(YAML_FILES):
-        word_list = {**read_in(yaml_list), **word_list}
-
-    word_list = dict(sorted(word_list.items()))
-
+    word_list = read_in(YAML_FILES)
     Output(
         "snippet",
         SNIPPET_FILE,
@@ -39,19 +34,27 @@ def main():
     Output("spellcheck", SPELLCHECK_FILE, "{0}\n", pluralise, possessivise).write_out(word_list)
 
 
-def read_in(yaml_file):
+def read_in(yaml_files):
     """parse yaml file with defaults"""
-    with open(yaml_file, "r") as f:
-        yaml_list = yaml.load(f, Loader=yaml.FullLoader)
+    word_list = {}
+    for yaml_file in glob.glob(yaml_files):
 
-    for key, val in yaml_list.items():
-        # Coalese null
-        val = val or {}
-        # fill in defaults.
-        for k, v in default_values.items():
-            if k not in val:
-                val[k] = v
-            word_list[key] = val
+        with open(yaml_file, "r") as f:
+            yaml_list = yaml.load(f, Loader=yaml.FullLoader)
+
+        for key, val in yaml_list.items():
+            # Coalese null
+            val = val or {}
+            # fill in defaults.
+            for k, v in default_values.items():
+                if k not in val:
+                    val[k] = v
+            if key in word_list.keys():
+                print(f"Warning: Duplicate dictionary entry '{key}'.")
+            else:
+                word_list[key] = val
+
+    word_list = dict(sorted(word_list.items()))
     return word_list
 
 # Filters
@@ -65,7 +68,15 @@ def remove_if_no_long(k, v):
 def pluralise(k, v):
     # Add plural
     if v["plural"]:
-        yield k + "s", v
+        # Make it plural by adding es in end
+        if re.search('[sxz]$', k) or re.search('[^aeioudgkprt]h$', k):
+            yield re.sub('$', 'es', k), v
+        # Make it plural by removing y from end adding ies to end
+        elif re.search('[aeiou]y$', k):
+            yield re.sub('y$', 'ies', k)
+        # Make the plural of word by adding s in end
+        else:
+            yield k + "s", v
     yield k, v
 
 

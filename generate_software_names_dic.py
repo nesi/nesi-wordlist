@@ -4,7 +4,7 @@ from ruamel.yaml import YAML
 import urllib.request
 import json
 
-OUTFILE = "dic/software_names.yaml"
+OUTFILE = "dic/_software_names_auto.yaml"
 LISTURL = "https://raw.githubusercontent.com/nesi/modules-list/main/module-list.json"
 
 

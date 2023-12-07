@@ -1,0 +1,14 @@
+metagenomic:
+  plural: True
+phylogenetic:
+  plural: True
+basecaller:
+genomic:
+  plural: True
+transcriptome:
+  plural: True
+biomolecule:
+  plural: True
+genotype:
+  plural: True
+genotyping:

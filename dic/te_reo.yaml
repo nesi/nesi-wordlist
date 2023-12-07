@@ -3,7 +3,9 @@
 # While 'mi_NZ' dictionaries exist, not all spellcheckers can handle multiple.
 # Easier to just impliment through a word list.
 Māui:
+  possessive: True
 Mahuika:
+  possessive: True
 ngā:
 nga:  #Annoyingly pyspell doesn't acnowledge macrons? Hopefully this is temporary.
 mihi:

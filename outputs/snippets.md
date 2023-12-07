@@ -782,6 +782,7 @@
 *[PLINK]: PLINK is a free, open-source whole genome association analysis toolset,
 *[PLUMED's]: PLUMED is an open source library for free energy calculations in molecular systems which
 *[PLUMED]: PLUMED is an open source library for free energy calculations in molecular systems which
+*[POSIX]: A set of standard operating system interfaces based on the Unix operating system
 *[PRANK's]: Probabilistic multiple alignment program for DNA, codon and amino-acid sequences. .
 *[PRANK]: Probabilistic multiple alignment program for DNA, codon and amino-acid sequences. .
 *[PROJ's]: Program proj is a standard Unix filter function which converts  geographic longitude and latitude coordinates into cartesian coordinates

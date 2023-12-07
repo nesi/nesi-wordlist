@@ -4,7 +4,6 @@ eScience:
 nearline:
 nobackup:
 checkpointing:
-basecaller:
 checksum:
   plural: True
 toolchain:
@@ -27,5 +26,27 @@ profiler:
 stdin:
 stderr:
 fileset:
+  plural: True
 tooltip:
 templating:
+hyperthreading:
+multithread: &smp
+multithreaded: *smp
+XC:
+config:
+executable: &exe
+  plural: True
+dataset:  
+  plural: True
+filesystem:
+  plural: True
+localhost:
+repo:
+  plural: True
+subdirectory:  
+  plural: True
+exe: *exe
+scalable:
+validator:
+benchmark: &benchmark
+benchmarking: *benchmark

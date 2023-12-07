@@ -1,0 +1,3132 @@
+ABAQUS:
+  long: Finite Element Analysis software for modeling, visualization and best-in-class
+    implicit and explicit dynamics FEA.
+  possessive: true
+ABRicate:
+  long: Mass screening of contigs for antimicrobial and virulence genes
+  possessive: true
+ABySS:
+  long: Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler
+  possessive: true
+ACTC:
+  long: ACTC converts independent triangles into triangle strips or fans.
+  possessive: true
+AGAT:
+  long: Suite of tools to handle gene annotations in any GTF/GFF format.
+  possessive: true
+AGE:
+  long: Alignment of sequences with structural variants.
+  possessive: true
+AMOS:
+  long: Collection of tools for genome assembly
+  possessive: true
+AMRFinderPlus:
+  long: NCBI Antimicrobial Resistance Gene Finder Plus
+  possessive: true
+ANIcalculator:
+  long: Calculate the bidirectional average nucleotide identity (gANI) and
+  possessive: true
+ANNOVAR:
+  long: Efficient software tool to utilize update-to-date information to functionally
+  possessive: true
+ANSYS:
+  long: ''
+  possessive: true
+ANTLR:
+  long: ANTLR, ANother Tool for Language Recognition, (formerly PCCTS)  is a language
+    tool that provides a framework for constructing recognizers,  compilers, and translators
+    from grammatical descriptions containing  Java, C#, C++, or Python actions.
+  possessive: true
+ANTS:
+  long: Ants is a versatile, easy to use Python library for developing ancillary applications.                   This
+    package is restricted to the UM user group.
+  possessive: true
+ANTs:
+  long: ANTs extracts information from complex datasets that include imaging. ANTs
+    is useful for managing,
+  possessive: true
+AOCC:
+  long: AMD Optimized C/C++ & Fortran compilers (AOCC) based on LLVM 13.0
+  possessive: true
+AOCL-BLIS:
+  long: Optimized version of BLIS for AMD EPYC family of processors..
+  possessive: true
+AOCL-FFTW:
+  long: Optimized version of FFTW for AMD EPYC family of processors.
+  possessive: true
+AOCL-ScaLAPACK:
+  long: Optimized version of ScaLAPACK for AMD EPYC family of processors.
+  possessive: true
+APR:
+  long: Apache Portable Runtime (APR) libraries.
+  possessive: true
+APR-util:
+  long: Apache Portable Runtime (APR) util libraries.
+  possessive: true
+ARCSI:
+  long: The Atmospheric and Radiometric Correction of Satellite Imagery (ARCSI) software
+    provides a command line tool for the atmospheric correction of Earth Observation
+    imagery. The aim of ARCSI is to provide as automatic as possible method of retrieving
+    the atmospheric correction parameters and using them to parameterise 6S.Universal
+    Command Line Environment for AWS.
+  possessive: true
+ARIBA:
+  long: Antimicrobial Resistance Identification By Assembly
+  possessive: true
+ATK:
+  long: ATK provides the set of accessibility interfaces that are implemented by other
+    toolkits and applications.
+  possessive: true
+AUGUSTUS:
+  long: AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
+  possessive: true
+AdapterRemoval:
+  long: Ssearches for and removes remnant adapter sequences
+  possessive: true
+Advisor:
+  long: Vectorization Optimization and Thread Prototyping
+  possessive: true
+AlphaFold:
+  long: AlphaFold can predict protein structures with atomic accuracy even where no
+    similar structure is known
+  possessive: true
+AlphaFold2DB:
+  long: AlphaFold2 databases
+  possessive: true
+AlwaysIntelMKL:
+  long: Overrides the MKL internal utility function mkl_serv_intel_cpu_true
+  possessive: true
+Amber:
+  long: Amber (originally Assisted Model Building with Energy
+  possessive: true
+Anaconda2:
+  long: 'Built to complement the rich, open source Python community, the Anaconda
+    platform provides an enterprise-ready data analytics platform  that empowers companies
+    to adopt a modern open data science analytics architecture.  IMPORTANT: This version
+    of Anaconda Python comes with Intel MKL support to speed up            certain
+    types of mathematical computations, such as linear algebra or FFT.            The
+    module sets             MKL_NUM_THREADS=1             to run MKL on a single thread
+    by default, avoiding accidental oversubscription            of cores. The number
+    of threads can be increased for large problems, please            refer to the
+    Intel MKL documentation for guidance.'
+  possessive: true
+Anaconda3:
+  long: Built to complement the rich, open source Python community, the Anaconda platform
+    provides an enterprise-ready data analytics platform  that empowers companies
+    to adopt a modern open data science analytics architecture.
+  possessive: true
+Apptainer:
+  long: Apptainer is a portable application stack packaging and runtime utility.
+  possessive: true
+Armadillo:
+  long: C++ linear algebra library (matrix maths) aiming towards a good balance between
+    speed and ease of use.
+  possessive: true
+Arrow:
+  long: Apache Arrow, a cross-language development platform for in-memory data.
+  possessive: true
+Aspera-CLI:
+  long: IBM Aspera Command-Line Interface (the Aspera CLI) is
+  possessive: true
+Augustus:
+  long: AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences.
+  possessive: true
+AutoDock-GPU:
+  long: OpenCL and Cuda accelerated version of AutoDock. It leverages its embarrasingly
+  possessive: true
+AutoDock_Vina:
+  long: AutoDock Vina is an open-source program for doing molecular docking.
+  possessive: true
+BBMap:
+  long: BBMap short read aligner, and other bioinformatic tools.
+  possessive: true
+BCFtools:
+  long: Manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart
+    BCF.
+  possessive: true
+BCL-Convert:
+  long: Converts per cycle binary data output by Illumina sequencers containing basecall
+  possessive: true
+BEAST:
+  long: Bayesian MCMC phylogenetic analysis of molecular sequences for reconstructing
+  possessive: true
+BEDOPS:
+  long: BEDOPS is an open-source command-line toolkit that performs highly
+  possessive: true
+BEDTools:
+  long: The BEDTools utilities allow one to address common genomics tasks such as
+    finding feature overlaps
+  possessive: true
+BEEF:
+  long: 'BEEF is a library implementing the Bayesian Error Estimation Functional,
+    a description of which can be found here:  http://dx.doi.org/10.1103/PhysRevB.85.235149'
+  possessive: true
+BLASR:
+  long: BLASR (Basic Local Alignment with Successive Refinement) rapidly maps
+  possessive: true
+BLAST:
+  long: Basic Local Alignment Search Tool, or BLAST, is an algorithm
+  possessive: true
+BLASTDB:
+  long: BLAST databases downloaded from NCBI.
+  possessive: true
+BLAT:
+  long: BLAT on DNA is designed to quickly find sequences of 95% and greater similarity
+    of length 25 bases or more.
+  possessive: true
+BLIS:
+  long: BLIS is a portable software framework for instantiating high-performance
+  possessive: true
+BOLT-LMM:
+  long: The BOLT-LMM algorithm for mixed model association testing,
+  possessive: true
+BRAKER:
+  long: Pipeline for fully automated prediction of protein coding genes with GeneMark-ES/ET
+  possessive: true
+BUSCO:
+  long: Assessing genome assembly and annotation completeness with Benchmarking Universal
+    Single-Copy Orthologs
+  possessive: true
+BWA:
+  long: Burrows-Wheeler Aligner (BWA) is an efficient program that aligns
+  possessive: true
+BamTools:
+  long: BamTools provides both a programmer's API and an end-user's toolkit for handling
+    BAM files.
+  possessive: true
+Bandage:
+  long: Bandage is a program for visualising de novo assembly graphs
+  possessive: true
+Basilisk:
+  long: Basilisk is a Free Software program for the solution of partial differential
+    equations on adaptive Cartesian meshes.
+  possessive: true
+BayPass:
+  long: Genome-Wide Scan for Adaptive Differentiation and Association Analysis with
+    population-specific covariables
+  possessive: true
+BayeScan:
+  long: Identify candidate loci under natural selection from genetic data,
+  possessive: true
+BayesAss:
+  long: Program for inference of recent immigration rates between populations using
+    unlinked multilocus genotypes
+  possessive: true
+Bazel:
+  long: Bazel is a build tool that builds code quickly and reliably.
+  possessive: true
+Beagle:
+  long: Package for phasing genotypes and for imputing ungenotyped markers.
+  possessive: true
+BerkeleyGW:
+  long: The BerkeleyGW Package is a set of computer codes that calculates the quasiparticle
+  possessive: true
+Bifrost:
+  long: Highly parallel construction, indexing and querying of colored and compacted
+    de Bruijn graphs.
+  possessive: true
+Bio-DB-BigFile:
+  long: Read BigWig and BigBed genome feature databases
+  possessive: true
+Bio-DB-HTS:
+  long: Read files using HTSlib including BAM/CRAM, Tabix and BCF database files
+  possessive: true
+BioConductor:
+  long: Tools for the analysis of high-throughput genomic data in R.
+  possessive: true
+BioPP:
+  long: ''
+  possessive: true
+Bismark:
+  long: A tool to map bisulfite converted sequence reads and
+  possessive: true
+Bison:
+  long: Bison is a general-purpose parser generator that converts an annotated context-free
+    grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1)
+    parser tables.
+  possessive: true
+BlenderPy:
+  long: Blender provides a pipeline for 3D modeling, rigging, animation, simulation,
+    rendering,
+  possessive: true
+Boost:
+  long: Boost provides free peer-reviewed portable C++ source libraries.
+  possessive: true
+Bowtie:
+  long: Ultrafast, memory-efficient short read aligner.
+  possessive: true
+Bowtie2:
+  long: Ultrafast and memory-efficient tool for aligning
+  possessive: true
+Bpipe:
+  long: A platform for running big bioinformatics jobs that consist of a series of
+    processing stages
+  possessive: true
+Bracken:
+  long: Hghly accurate statistical method that computes the abundance of
+  possessive: true
+BreakDancer:
+  long: Genome-wide detection of structural variants from next generation paired-end
+    sequencing reads.
+  possessive: true
+BreakSeq2:
+  long: Nucleotide-resolution analysis of structural variants
+  possessive: true
+CCL:
+  long: Clozure CL (often called CCL for short) is a free Common Lisp implementation
+  possessive: true
+CD-HIT:
+  long: CD-HIT is a very widely used program for clustering and
+  possessive: true
+CDO:
+  long: CDO is a collection of command line Operators to manipulate and analyse Climate
+    and NWP model Data.
+  possessive: true
+CFITSIO:
+  long: CFITSIO is a library of C and Fortran subroutines for reading and writing
+    data files in
+  possessive: true
+CGAL:
+  long: The goal of the CGAL Open Source Project is to provide easy access to efficient
+  possessive: true
+CMake:
+  long: CMake, the cross-platform, open-source build system.  CMake is a family of
+    tools designed to build, test and package software.
+  possessive: true
+CNVnator:
+  long: Copy Number Variation discovery and genotyping from depth of read mapping.
+  possessive: true
+CNVpytor:
+  long: Python package and command line tool for CNV/CNA analysis from depth-of-coverage
+    by mapped read
+  possessive: true
+COMSOL:
+  long: COMSOL is a multiphysics solver that provides a unified workflow for electrical,
+    mechanical, fluid, and chemical applications.
+  possessive: true
+CONCOCT:
+  long: Program for unsupervised binning of metagenomic contigs by using nucleotide
+    composition,
+  possessive: true
+CP2K:
+  long: CP2K is a freely available (GPL) program, written in Fortran 95, to perform
+    atomistic and molecular
+  possessive: true
+CRAMINO:
+  long: A tool for quick quality assessment of cram and bam files, intended for long
+    read sequencing
+  possessive: true
+CTPL:
+  long: C++ Thread Pool Library
+  possessive: true
+CUDA:
+  long: CUDA (formerly Compute Unified Device Architecture) is a parallel  computing
+    platform and programming model created by NVIDIA and implemented by the  graphics
+    processing units (GPUs) that they produce. CUDA gives developers access  to the
+    virtual instruction set and memory of the parallel computational elements in CUDA
+    GPUs.
+  possessive: true
+CUnit:
+  long: Automated testing framework for C.
+  possessive: true
+Canu:
+  long: Sequence assembler designed for high-noise single-molecule sequencing.
+  possessive: true
+CapnProto:
+  long: Fast data interchange format and capability-based RPC system.
+  possessive: true
+Catch2:
+  long: A modern, C++-native, header-only,  test framework for unit-tests, TDD and
+    BDD
+  possessive: true
+CellRanger:
+  long: Cell Ranger is a set of analysis pipelines that process Chromium
+  possessive: true
+Centrifuge:
+  long: Classifier for metagenomic sequences
+  possessive: true
+Cereal:
+  long: C++11 serialization library
+  possessive: true
+Charm++:
+  long: An asynchronous message-driven C++ communication library targeted towards
+    tightly coupled, high-performance parallel machines.
+  possessive: true
+CheckM:
+  long: CheckM provides a set of tools for assessing the quality of genomes recovered
+    from isolates,
+  possessive: true
+CheckM2:
+  long: Rapid assessment of genome bin quality using machine learning
+  possessive: true
+CheckV:
+  long: Assess the quality of metagenome-assembled viral genomes.
+  possessive: true
+Circlator:
+  long: A tool to circularize genome assemblies
+  possessive: true
+Circos:
+  long: Package for visualizing data in a circular layout - this makes Circos ideal
+    for exploring
+  possessive: true
+Clair3:
+  long: Syumphonizing pileup and full-alignment for high-performance long-read variant
+    calling.
+  possessive: true
+Clustal-Omega:
+  long: Clustal Omega is a multiple sequence alignment
+  possessive: true
+ClustalW2:
+  long: ClustalW2 is a general purpose multiple sequence alignment program for DNA
+    or proteins.
+  possessive: true
+Corset:
+  long: Clusters contigs and counts reads from de novo assembled transcriptomes.
+  possessive: true
+CoverM:
+  long: DNA read coverage and relative abundance calculator focused on metagenomics
+    applications
+  possessive: true
+CppUnit:
+  long: C++ port of the JUnit framework for unit testing.
+  possessive: true
+CrayCCE:
+  long: 'Toolchain using Cray compiler wrapper, using PrgEnv-cray (PE release: February
+    2023).'
+  possessive: true
+CrayGNU:
+  long: 'Toolchain using Cray compiler wrapper, using PrgEnv-gnu module (PE release:
+    23.02).'
+  possessive: true
+CrayIntel:
+  long: 'Toolchain using Cray compiler wrapper, using PrgEnv-intel (PE release: February
+    2023 with Intel 19 compiler).'
+  possessive: true
+CubeGUI:
+  long: Graphical report explorer report explorer for Scalasca and Score-P
+  possessive: true
+CubeLib:
+  long: Cube general purpose C++ library component and command-line tools.
+  possessive: true
+CubeWriter:
+  long: Cube high-performance C writer library component.
+  possessive: true
+Cufflinks:
+  long: Transcript assembly, differential expression, and differential regulation
+    for RNA-Seq
+  possessive: true
+Cytoscape:
+  long: Cytoscape is an open source software platform for visualizing molecular interaction
+    networks and
+  possessive: true
+D-Genies:
+  long: D-Genies also allows to display dot plots from other aligners by uploading
+    their PAF or MAF alignment file.
+  possessive: true
+DAS_Tool:
+  long: DAS Tool is an automated method that integrates the results of a flexible
+    number of binning
+  possessive: true
+DB:
+  long: Berkeley DB enables the development of custom data management solutions,
+  possessive: true
+DBG2OLC:
+  long: DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of
+    the Third Generation
+  possessive: true
+DBus:
+  long: ''
+  possessive: true
+DIAMOND:
+  long: Sequence aligner for protein and translated DNA searches
+  possessive: true
+DISCOVARdenovo:
+  long: Assembler suitable for large genomes based on Illumina reads of length 250
+    or longer.
+  possessive: true
+DRAM:
+  long: Tool for annotating metagenomic assembled genomes and VirSorter identified
+    viral contigs..
+  possessive: true
+DaliLite:
+  long: Tool set for simulating/evaluating SVs, merging and comparing SVs within and
+    among samples,
+  possessive: true
+DeconSeq:
+  long: A tool that can be used to automatically detect and efficiently remove sequence
+    contaminations
+  possessive: true
+DeepLabCut:
+  long: Efficient method for 3D markerless pose estimation based on transfer learning
+    with deep neural networks.
+  possessive: true
+DefaultModules:
+  long: Defines the set of modules loaded by default
+  possessive: true
+Delft3D:
+  long: Integrated simulation of sediment transport and morphology, waves, water quality
+    and ecology.
+  possessive: true
+Delft3D_FM:
+  long: 3D modeling suite to investigate hydrodynamics, sediment transport and morphology
+    and water quality for fluvial, estuarine and coastal environments
+  possessive: true
+Delly:
+  long: Structural variant discovery by integrated paired-end and split-read analysis
+  possessive: true
+Dorado:
+  long: High-performance, easy-to-use, open source basecaller for Oxford Nanopore
+    reads.
+  possessive: true
+Doxygen:
+  long: ''
+  possessive: true
+Dsuite:
+  long: Fast calculation of the ABBA-BABA statistics across many populations/species
+  possessive: true
+EDTA:
+  long: Automated whole-genome de-novo TE annotation and benchmarking the annotation
+    performance of TE libraries.
+  possessive: true
+EIGENSOFT:
+  long: The EIGENSOFT package combines functionality from our population genetics
+    methods (Patterson et al.
+  possessive: true
+ELPA:
+  long: Eigenvalue SoLvers for Petaflop-Applications .
+  possessive: true
+EMAN:
+  long: EMAN is a powerful image processing library as well as a complete software
+    suite
+  possessive: true
+EMAN2:
+  long: Greyscale scientific image processing suite with a primary focus on processing
+    data from transmission electron microscopes
+  possessive: true
+EMBOSS:
+  long: EMBOSS is 'The European Molecular Biology Open Software Suite'.
+  possessive: true
+EMIRGE:
+  long: Reconstructs full length ribosomal genes from short read
+  possessive: true
+ENMTML:
+  long: R package for integrated construction of Ecological Niche Models.
+  possessive: true
+ESMF:
+  long: The Earth System Modeling Framework (ESMF) is software for building and coupling
+    weather,  climate, and related models.
+  possessive: true
+ETE:
+  long: A Python framework for the analysis and visualization of phylogenetic trees
+  possessive: true
+EasyBuild:
+  long: EasyBuild is a software build and installation framework
+  possessive: true
+Eigen:
+  long: 'Eigen is a C++ template library for linear algebra:'
+  possessive: true
+Elmer:
+  long: Elmer is an open source multiphysical simulation software mainly developed
+    by
+  possessive: true
+Embree:
+  long: Embree is a collection of high-performance ray tracing kernels, developed
+    at Intel. The target users of Embree are graphics application engineers who want
+    to improve the performance of their photo-realistic rendering application by leveraging
+    Embree's performance-optimized ray tracing kernels.
+  possessive: true
+EnergyPlus:
+  long: Energy simulation program used to model energy consumption and water use in
+    buildings.
+  possessive: true
+ErlangOTP:
+  long: Erlang is a programming language used to build massively scalable
+  possessive: true
+EukRep-EukCC:
+  long: Completeness and contamination estimator for metagenomic assembled microbial
+    eukaryotic genomes.
+  possessive: true
+ExaBayes:
+  long: Bayesian tree inference, particularly suitable for large-scale analyses.
+  possessive: true
+ExaML:
+  long: Exascale Maximum Likelihood for phylogenetic inference using MPI.
+  possessive: true
+Extrae:
+  long: Extrae is capable of instrumenting applications based on MPI, OpenMP, pthreads,
+    CUDA1, OpenCL1, and StarSs1 using different instrumentation approaches
+  possessive: true
+FALCON:
+  long: 'Falcon: a set of tools for fast aligning long reads for consensus and assembly'
+  possessive: true
+FASTX-Toolkit:
+  long: Tools for Short-Reads FASTA/FASTQ files preprocessing.
+  possessive: true
+FCM:
+  long: FCM Build - A powerful build system for modern Fortran software applications.
+    FCM Version Control - Wrappers to the Subversion version control system, usage
+    conventions and processes for scientific software development.
+  possessive: true
+FDS:
+  long: Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed
+    flows,  with an emphasis on smoke and heat transport from fires.
+  possessive: true
+FFTW:
+  long: FFTW is a C subroutine library for computing the discrete Fourier transform
+    (DFT)  in one or more dimensions, of arbitrary input size, and of both real and
+    complex data.
+  possessive: true
+FFmpeg:
+  long: A complete, cross-platform solution to record, convert and stream audio and
+    video.
+  possessive: true
+FLTK:
+  long: FLTK is a cross-platform C++ GUI toolkit for UNIX/Linux (X11), Microsoft Windows,
+  possessive: true
+FTGL:
+  long: FTGL is a free cross-platform Open Source C++ library that uses Freetype2
+    to simplify rendering fonts in OpenGL applications. FTGL supports bitmaps, pixmaps,
+    texture maps, outlines, polygon mesh, and extruded polygon rendering modes.
+  possessive: true
+FastANI:
+  long: Tool for fast alignment-free computation of
+  possessive: true
+FastME:
+  long: 'FastME: a comprehensive, accurate and fast distance-based phylogeny inference
+    program.'
+  possessive: true
+FastQC:
+  long: A set of tools (in Java) for working with next generation sequencing data
+    in the BAM format.
+  possessive: true
+FastQ_Screen:
+  long: FastQ Screen allows you to screen a library of sequences in FastQ
+  possessive: true
+FastTree:
+  long: FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments
+    of nucleotide
+  possessive: true
+File-Rename:
+  long: A Perl version of the rename utility, with support for regular expressions.
+  possessive: true
+Filtlong:
+  long: Tool for filtering long reads by quality.
+  possessive: true
+FimTyper:
+  long: Identifies the FimH type in total or partial sequenced isolates of E. coli..
+  possessive: true
+FlexiBLAS:
+  long: FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK
+    implementation
+  possessive: true
+Flye:
+  long: Flye is a de novo assembler for long and noisy reads, such as those produced
+    by PacBio
+  possessive: true
+FoX:
+  long: FoX is an XML library written in Fortran 95.
+  possessive: true
+FragGeneScan:
+  long: FragGeneScan is an application for finding (fragmented) genes in short reads.
+  possessive: true
+FreeBayes:
+  long: Genetic variant detector designed to find polymorphisms smaller than the length
+    of a short-read sequencing alignment.
+  possessive: true
+FreeSurfer:
+  long: FreeSurfer is a set of tools for analysis and visualization of structural
+    and functional brain imaging data.
+  possessive: true
+FreeXL:
+  long: ''
+  possessive: true
+FriBidi:
+  long: Free Implementation of the Unicode Bidirectional Algorithm.
+  possessive: true
+GATK:
+  long: The Genome Analysis Toolkit or GATK is a software package developed at the
+    Broad Institute
+  possessive: true
+GCC:
+  long: The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran,
+    Java, and Ada,
+  possessive: true
+GCCcore:
+  long: The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran,
+    Java, and Ada,
+  possessive: true
+GD:
+  long: Interface to Gd Graphics Library
+  possessive: true
+GDAL:
+  long: "GDAL is a translator library for raster geospatial data formats that is released
+    under an X/MIT style  Open Source license by the Open Source Geospatial Foundation.
+    As a library, it presents a single abstract data model  to the calling application
+    for all supported formats. It also comes with a variety of useful command-line
+    utilities for  data translation and processing.  NOTE: The GDAL IO cache by default
+    uses 5% of total memory. This seems not necessary. This module sets GDAL_CACHEMAX=256
+    (256MB),   which should have no performance impact. Feel free to change if necessary,
+    using 'export GDAL_CACHEMAX=xxx' (in your job script)   after loading the GDAL
+    module."
+  possessive: true
+GEMMA:
+  long: Genome-wide Efficient Mixed Model Association
+  possessive: true
+GEOS:
+  long: GEOS (Geometry Engine - Open Source) is a C++ port of the  Java Topology Suite
+    (JTS)
+  possessive: true
+GLM:
+  long: OpenGL Mathematics (GLM) is a header only C++ mathematics library for graphics
+    software based on
+  possessive: true
+GLPK:
+  long: GNU Linear Programming Kit is intended for solving large-scale linear programming
+    (LP), mixed integer programming (MIP), and other related problems.
+  possessive: true
+GLib:
+  long: GLib is one of the base libraries of the GTK+ project
+  possessive: true
+GMAP-GSNAP:
+  long: 'GMAP: A Genomic Mapping and Alignment Program for mRNA and EST Sequences'
+  possessive: true
+GMP:
+  long: GMP is a free library for arbitrary precision arithmetic,
+  possessive: true
+GMT:
+  long: GMT is an open source collection of about 80 command-line tools for manipulating  geographic
+    and Cartesian data sets (including filtering, trend fitting, gridding, projecting,  etc.)
+    and producing PostScript illustrations ranging from simple x-y plots via contour
+    maps  to artificially illuminated surfaces and 3D perspective views; the GMT supplements
+    add another  40 more specialized and discipline-specific tools.
+  possessive: true
+GOLD:
+  long: A genetic algorithm for docking flexible ligands into protein binding sites
+  possessive: true
+GObject-Introspection:
+  long: GObject introspection is a middleware layer between C libraries
+  possessive: true
+GRADS:
+  long: The Grid Analysis and Display System (GrADS) is an interactive desktop tool
+    that is used for easy access, manipulation, and visualization of earth science
+    data.
+  possessive: true
+GRASS:
+  long: The Geographic Resources Analysis Support System - used for geospatial data
+    management and analysis, image processing, graphics and maps production, spatial
+    modeling, and visualization
+  possessive: true
+GRIDSS:
+  long: GRIDSS is a module software suite containing tools useful for the detection
+    of genomic rearrangements.
+  possessive: true
+GROMACS:
+  long: GROMACS is a versatile package to perform molecular dynamics,  i.e. simulate
+    the Newtonian equations of motion for systems with hundreds to millions of particles.
+  possessive: true
+GSL:
+  long: The GNU Scientific Library (GSL) is a numerical library for C and C++  programmers.  The
+    library provides a wide range of mathematical routines  such as random number
+    generators, special functions and least-squares fitting.
+  possessive: true
+GST-plugins-base:
+  long: GStreamer plug-ins and elements.
+  possessive: true
+GStreamer:
+  long: GStreamer is a library for constructing graphs of media-handling  components.
+    The applications it supports range from simple  Ogg/Vorbis playback, audio/video
+    streaming to complex audio  (mixing) and video (non-linear editing) processing.
+  possessive: true
+GTDB-Tk:
+  long: A toolkit for assigning objective taxonomic classifications to bacterial and
+    archaeal genomes.
+  possessive: true
+GTK+:
+  long: GTK+ is the primary library used to construct user interfaces in GNOME.
+  possessive: true
+GTS:
+  long: GTS stands for the GNU Triangulated Surface Library.  It is an Open Source
+    Free Software Library intended to provide a set of useful  functions to deal with
+    3D surfaces meshed with interconnected triangles.
+  possessive: true
+GUSHR:
+  long: ''
+  possessive: true
+Gaussian:
+  long: ''
+  possessive: true
+Gdk-Pixbuf:
+  long: ''
+  possessive: true
+GeneMark-ES:
+  long: Eukaryotic gene prediction suite with automatic training
+  possessive: true
+GenomeThreader:
+  long: GenomeThreader is a software tool to compute gene structure predictions.
+  possessive: true
+Gerris:
+  long: Gerris is a Free Software program for the solution of the partial differential
+    equations describing fluid flow. This module also includes GfsView, a visualisation
+    application for Gerris output.
+  possessive: true
+GetOrganelle:
+  long: Toolkit to assemble organelle genome from genomic skimming data.
+  possessive: true
+GlimmerHMM:
+  long: Gene finder based on a Generalized Hidden Markov Model.
+  possessive: true
+Go:
+  long: An open source programming language
+  possessive: true
+Graphviz:
+  long: Graphviz is open source graph visualization software. Graph visualization
+  possessive: true
+Gubbins:
+  long: Genealogies Unbiased By recomBinations In Nucleotide Sequences
+  possessive: true
+Guile:
+  long: Guile is the GNU Ubiquitous Intelligent Language for Extensions,
+  possessive: true
+HDF:
+  long: HDF (also known as HDF4) is a library and multi-object file format for  storing
+    and managing data between machines.
+  possessive: true
+HDF-EOS:
+  long: 'HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing
+    file format for transfer of various types of data between different machines based
+    upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites:
+    Terra, Aqua and Aura.'
+  possessive: true
+HDF-EOS5:
+  long: 'HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing
+    file format for transfer of various types of data between different machines based
+    upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites:
+    Terra, Aqua and Aura.'
+  possessive: true
+HDF5:
+  long: HDF5 is a unique technology suite that makes possible the management of
+  possessive: true
+HISAT2:
+  long: HISAT2 is a fast and sensitive alignment program for mapping next-generation
+    sequencing reads
+  possessive: true
+HMMER:
+  long: HMMER is used for searching sequence databases for homologs of protein sequences,
+  possessive: true
+HMMER2:
+  long: HMMER is used for searching sequence databases for homologs of protein sequences,
+  possessive: true
+HOPS:
+  long: Pipeline which focuses on screening MALT data for the presence of a user-specified
+    list of target species.
+  possessive: true
+HTSeq:
+  long: HTSeq is a Python library to facilitate processing and analysis
+  possessive: true
+HTSlib:
+  long: A C library for reading/writing high-throughput sequencing data.
+  possessive: true
+HarfBuzz:
+  long: HarfBuzz is an OpenType text shaping engine.
+  possessive: true
+HpcGridRunner:
+  long: HPC GridRunner is a simple command-line interface to high throughput computing
+    using a variety of different grid computing platforms, including LSF, SGE, SLURM,
+    and PBS.
+  possessive: true
+Humann:
+  long: Pipeline for efficiently and accurately determining the coverage and abundance
+    of microbial pathways in a community from metagenomic data.
+  possessive: true
+HybPiper:
+  long: Extracting Coding Sequence and Introns for Phylogenetics from High-Throughput
+    Sequencing Reads Using Target Enrichment.
+  possessive: true
+Hypre:
+  long: Hypre is a library for solving large, sparse linear systems of equations on
+    massively
+  possessive: true
+ICU:
+  long: ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode
+    and Globalization  support for software applications.
+  possessive: true
+IDBA:
+  long: Iterative de Bruijn graph assembler for second-generation sequencing reads.
+  possessive: true
+IDBA-UD:
+  long: IDBA-UD is a iterative De Bruijn Graph De Novo Assembler for Short Reads
+  possessive: true
+IDL:
+  long: IDL is the trusted scientific programming language used across disciplines
+    to extract meaningful visualizations from complex numerical data.
+  possessive: true
+IGV:
+  long: The Integrative Genomics Viewer (IGV) is a high-performance visualization
+  possessive: true
+IMPUTE:
+  long: Genotype imputation and haplotype phasing.
+  possessive: true
+IQ-TREE:
+  long: Efficient phylogenomic software by maximum likelihood
+  possessive: true
+IQmol:
+  long: ''
+  possessive: true
+IRkernel:
+  long: R packages for providing R kernel for Jupyter.
+  possessive: true
+ISA-L:
+  long: Intelligent Storage Acceleration Library
+  possessive: true
+ImageMagick:
+  long: ImageMagick is a software suite to create, edit, compose, or convert bitmap
+    images
+  possessive: true
+Infernal:
+  long: Infernal ('INFERence of RNA ALignment') is for searching DNA sequence databases
+  possessive: true
+Inspector:
+  long: Intel Inspector XE is an easy to use memory error checker and thread checker
+    for serial
+  possessive: true
+InterProScan:
+  long: Sequence analysis application (nucleotide and protein sequences) that combines
+  possessive: true
+JAGS:
+  long: Just Another Gibbs Sampler - a program for the statistical analysis of Bayesian
+    hierarchical models by Markov Chain Monte Carlo.
+  possessive: true
+JUnit:
+  long: A programmer-oriented testing framework for Java.
+  possessive: true
+JasPer:
+  long: The JasPer Project is an open-source initiative to provide a free  software-based
+    reference implementation of the codec specified in the JPEG-2000 Part-1 standard.
+  possessive: true
+Java:
+  long: Java Platform, Standard Edition (Java SE) lets you develop and deploy  Java
+    applications on desktops and servers.
+  possessive: true
+Jellyfish:
+  long: Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.
+  possessive: true
+JsonCpp:
+  long: JsonCpp is a C++ library that allows manipulating JSON values,
+  possessive: true
+Julia:
+  long: A high-level, high-performance dynamic language for technical computing.  This
+    version was compiled from source with USE_INTEL_JITEVENTS=1 to enable profiling
+    with VTune.
+  possessive: true
+JupyterLab:
+  long: An extensible environment for interactive and reproducible computing, based
+    on the Jupyter Notebook and Architecture.
+  possessive: true
+KAT:
+  long: The K-mer Analysis Toolkit (KAT) contains a number of tools that analyse and
+    compare K-mer spectra.
+  possessive: true
+KEALib:
+  long: KEALib provides an implementation of the GDAL data model. The format supports
+    raster attribute tables, image pyramids, meta-data and in-built statistics while
+    also handling very large files and compression throughout. Based on the HDF5 standard,
+    it also provides a base from which other formats can be derived and is a good
+    choice for long term data archiving. An independent software library (libkea)
+    provides complete access to the KEA image format and a GDAL driver allowing KEA
+    images to be used from any GDAL supported software.
+  possessive: true
+KMC:
+  long: Disk-based programm for counting k-mers from (possibly gzipped) FASTQ/FASTA
+    files.
+  possessive: true
+Kaiju:
+  long: Kaiju is a program for sensitive taxonomic classification of high-throughput
+  possessive: true
+Kent_tools:
+  long: Collection of tools used by the UCSC genome browser.
+  possessive: true
+KorfSNAP:
+  long: Semi-HMM-based Nucleic Acid Parser
+  possessive: true
+Kraken2:
+  long: Taxonomic sequence classifier.
+  possessive: true
+KronaTools:
+  long: Krona Tools is a set of scripts to create Krona charts from
+  possessive: true
+KyotoCabinet:
+  long: Library of routines for managing a database.
+  possessive: true
+LAME:
+  long: LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the
+    LGPL.
+  possessive: true
+LAMMPS:
+  long: LAMMPS is a classical molecular dynamics code, and an acronym for Large-scale
+    Atomic/Molecular Massively Parallel Simulator. LAMMPS has potentials for solid-state
+    materials (metals, semiconductors) and soft matter (biomolecules, polymers) and
+    coarse-grained or mesoscopic systems. It can be used to model atoms or, more generically,
+    as a parallel particle simulator at the atomic, meso, or continuum scale. LAMMPS
+    runs on single processors or in parallel using message-passing techniques and
+    a spatial-decomposition of the simulation domain. The code is designed to be easy
+    to modify or extend with new functionality.
+  possessive: true
+LAST:
+  long: LAST finds similar regions between sequences.
+  possessive: true
+LASTZ:
+  long: LASTZ is a program for aligning DNA sequences, a pairwise aligner. Originally
+    designed to
+  possessive: true
+LDC:
+  long: D programming language compiler
+  possessive: true
+LEfSe:
+  long: Determines the features most likely to explain differences between classes
+    by coupling standard tests for statistical significance
+  possessive: true
+LINKS:
+  long: Alignment-free scaffolding of genome assembly drafts with long reads
+  possessive: true
+LLVM:
+  long: The LLVM Core libraries provide a modern source- and target-independent  optimizer,
+    along with code generation support for many popular CPUs  (as well as some less
+    common ones!) These libraries are built around a well  specified code representation
+    known as the LLVM intermediate representation  ("LLVM IR"). The LLVM Core libraries
+    are well documented, and it is  particularly easy to invent your own language
+    (or port an existing compiler)  to use LLVM as an optimizer and code generator.   This
+    build includes the clang C/C++ compiler frontend.
+  possessive: true
+LMDB:
+  long: LMDB is a fast, memory-efficient database. With memory-mapped files, it has
+    the read performance
+  possessive: true
+LSD2:
+  long: Least-squares methods to estimate rates and dates from phylogenies
+  possessive: true
+LTR_retriever:
+  long: Highly accurate and sensitive program for identification of LTR retrotransposons;
+    The LTR Assembly Index (LAI) is also included in this package.
+  possessive: true
+LUMPY:
+  long: A probabilistic framework for structural variant discovery.
+  possessive: true
+LZO:
+  long: Portable lossless data compression library
+  possessive: true
+LegacySystemLibs:
+  long: ''
+  possessive: true
+LibTIFF:
+  long: 'tiff: Library and tools for reading and writing TIFF data files'
+  possessive: true
+Libav:
+  long: Libraries for dealing with multimedia formats of all sorts.  Forked from FFmpeg
+  possessive: true
+Libint:
+  long: Libint library is used to evaluate the traditional (electron repulsion) and
+    certain novel two-body  matrix elements (integrals) over Cartesian Gaussian functions
+    used in modern atomic and molecular theory.
+  possessive: true
+LittleCMS:
+  long: Color management engine.
+  possessive: true
+Loki:
+  long: Loki is a C++ library of designs, containing flexible implementations of common
+    design patterns and
+  possessive: true
+LongStitch:
+  long: A genome assembly correction and scaffolding pipeline using long reads
+  possessive: true
+M4:
+  long: GNU M4 is an implementation of the traditional Unix macro processor. It is
+    mostly SVR4 compatible
+  possessive: true
+MAFFT:
+  long: Multiple sequence alignment program offering a range of methods.
+  possessive: true
+MAGMA:
+  long: Tool for gene analysis and generalized gene-set analysis of GWAS data.
+  possessive: true
+MAKER:
+  long: Genome annotation pipeline
+  possessive: true
+MATIO:
+  long: matio is an C library for reading and writing Matlab MAT files.
+  possessive: true
+MATLAB:
+  long: A high-level language and interactive environment for numerical computing.
+  possessive: true
+MCL:
+  long: The MCL algorithm is short for the Markov Cluster Algorithm, a fast
+  possessive: true
+MCR:
+  long: The Matlab Compiler Runtime is required for running compiled MATLAB executables
+    without MATLAB itself.
+  possessive: true
+MEGAHIT:
+  long: An ultra-fast single-node solution for large and complex
+  possessive: true
+METABOLIC:
+  long: Metabolic And Biogeochemistry anaLyses In microbes
+  possessive: true
+METIS:
+  long: METIS is a set of serial programs for partitioning graphs, partitioning finite
+    element meshes,
+  possessive: true
+MMseqs2:
+  long: 'MMseqs2: ultra fast and sensitive search and clustering suite'
+  possessive: true
+MOB-suite:
+  long: Software tools for clustering, reconstruction and typing of plasmids from
+    draft assemblies.
+  possessive: true
+MODFLOW:
+  long: MODFLOW is the U.S. Geological Survey modular finite-difference flow model,
+    which is a computer code that solves the groundwater flow equation. The program
+    is used by hydrogeologists to simulate the flow of groundwater through aquifers.
+  possessive: true
+MPFR:
+  long: The MPFR library is a C library for multiple-precision
+  possessive: true
+MSMC:
+  long: Multiple Sequentially Markovian Coalescent, infers population size and gene
+    flow from multiple genome sequences
+  possessive: true
+MUMPS:
+  long: A parallel sparse direct solver
+  possessive: true
+MUMmer:
+  long: MUMmer is a system for rapidly aligning entire genomes,
+  possessive: true
+MUSCLE:
+  long: MUSCLE is a program for creating multiple alignments of amino acid or nucleotide
+  possessive: true
+MUST:
+  long: MUST detects usage errors of the Message Passing Interface (MPI) and reports
+    them to the user.
+  possessive: true
+MaSuRCA:
+  long: MaSuRCA is whole genome assembly software. It combines the efficiency of the
+    de Bruijn graph
+  possessive: true
+Magma:
+  long: Magma is a large, well-supported software package designed for computations
+    in algebra, number theory, algebraic geometry and algebraic combinatorics. It
+    provides a mathematically rigorous environment     for defining and working with
+    structures such as groups, rings, fields, modules, algebras, schemes, curves,
+    graphs, designs, codes and many others. Magma also supports a number of databases
+    designed     to aid computational research in those areas of mathematics which
+    are algebraic in nature.
+  possessive: true
+MarkerMiner:
+  long: Workflow for effective discovery of SCN loci in flowering plants angiosperms
+  possessive: true
+Mash:
+  long: Fast genome and metagenome distance estimation using MinHash
+  possessive: true
+Maven:
+  long: Binary maven install, Apache Maven is a software project management and comprehension
+    tool. Based on
+  possessive: true
+MaxBin:
+  long: MaxBin is software for binning assembled metagenomic sequences based on
+  possessive: true
+Meraculous:
+  long: Eukaryotic genome assembler for Illumina sequence data.
+  possessive: true
+Mesa:
+  long: 'Mesa is an open-source implementation of the OpenGL specification -  a system
+    for rendering interactive 3D graphics.   Note that this build enables CPU-based
+    rendering with OpenSWR and LLVM.  The module is intended to be used with visualisation
+    software, such as  ParaView, on nodes where no GPU hardware is available.   Both
+    on-screen and off-screen rendering are supported.  IMPORTANT: The OpenSWR software
+    rasteriser can use multiple threads for            best performance. The number
+    of threads is controlled by the            environment variable KNOB_MAX_WORKER_THREADS.
+    The module sets             KNOB_MAX_WORKER_THREADS=1             by default to
+    avoid accidental oversubscription of nodes.'
+  possessive: true
+Meson:
+  long: Meson is a cross-platform build system designed to be both as fast and as
+    user friendly as possible.
+  possessive: true
+MetaBAT:
+  long: An efficient tool for accurately reconstructing single genomes from complex
+    microbial communities
+  possessive: true
+MetaEuk:
+  long: MetaEuk is a modular toolkit designed for large-scale gene discovery and annotation
+    in eukaryotic
+  possessive: true
+MetaGeneAnnotator:
+  long: MetaGeneAnnotator is a gene-finding program for prokaryote and phage.
+  possessive: true
+MetaPhlAn:
+  long: MetaPhlAn is a computational tool for profiling the composition of microbial
+  possessive: true
+MetaPhlAn2:
+  long: MetaPhlAn is a computational tool for profiling the composition of microbial
+  possessive: true
+MetaSV:
+  long: Structural-variant caller
+  possessive: true
+MetaVelvet:
+  long: A short read assember for metagenomics
+  possessive: true
+Metashape:
+  long: ''
+  possessive: true
+Metaxa2:
+  long: Taxonomic classification of rRNA.
+  possessive: true
+Miniconda3:
+  long: A platform for Python-based data analytics
+  possessive: true
+Minimac3:
+  long: Low memory and more computationally efficient implementation of the genotype
+    imputation algorithms.
+  possessive: true
+MitoZ:
+  long: Toolkit which aims to automatically filter pair-end raw data,
+  possessive: true
+Molcas:
+  long: Molcas is an ab initio quantum chemistry software package
+  possessive: true
+Molpro:
+  long: Molpro is a complete system of ab initio programs for molecular electronic
+    structure calculations.
+  possessive: true
+Mono:
+  long: An open source, cross-platform, implementation of C# and the CLR that is
+  possessive: true
+Monocle3:
+  long: An analysis toolkit for single-cell RNA-seq.
+  possessive: true
+Mothur:
+  long: Mothur is a single piece of open-source, expandable software
+  possessive: true
+MotionCorr:
+  long: Motion Correction for Dose-Fractionation Stack, by Dr. Xueming Li of the Cheng
+    Laboratory at UCSF. The actual executable is named dosefgpu_driftcorr
+  possessive: true
+MrBayes:
+  long: MrBayes is a program for the Bayesian estimation of phylogeny.
+  possessive: true
+Mule:
+  long: Mule is an API written in Python which allows you to access and manipulate
+    files produced by the UM (Unified Model, of the Met Office (UK)).
+  possessive: true
+MultiQC:
+  long: Aggregate results from bioinformatics analyses across many samples into a
+    single
+  possessive: true
+NAMD:
+  long: NAMD is a parallel molecular dynamics code designed for high-performance simulation
+    of
+  possessive: true
+NASM:
+  long: 'NASM: General-purpose x86 assembler'
+  possessive: true
+NCARG:
+  long: NCAR Graphics is a Fortran and C based software package for
+  possessive: true
+NCCL:
+  long: The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and
+    multi-node collective
+  possessive: true
+NCL:
+  long: NCL is an interpreted language designed specifically for scientific data analysis
+    and   visualization.
+  possessive: true
+NCO:
+  long: manipulates and analyzes data stored in netCDF-accessible formats, including
+    DAP, HDF4, and HDF5
+  possessive: true
+NCVIEW:
+  long: Ncview is a visual browser for netCDF format files. Typically you would use
+    ncview to get a quick and easy, push-button look at your netCDF files. You can
+    view simple movies of the data, view along various dimensions, take a look at
+    the actual data values, change color maps, invert the data, etc.
+  possessive: true
+NGS:
+  long: NGS is a new, domain-specific API for accessing reads, alignments and pileups
+    produced from
+  possessive: true
+NLopt:
+  long: NLopt is a free/open-source library for nonlinear optimization, providing
+    a common interface for a number of different free optimization routines available
+    online as well as original implementations of various other algorithms
+  possessive: true
+NONMEM:
+  long: ''
+  possessive: true
+NSPR:
+  long: Netscape Portable Runtime (NSPR) provides a platform-neutral API for system
+    level
+  possessive: true
+NSS:
+  long: Network Security Services (NSS) is a set of libraries designed to support
+    cross-platform development
+  possessive: true
+NVHPC:
+  long: 'C, C++ and Fortran compilers included with the NVIDIA HPC SDK (previously:
+    PGI)'
+  possessive: true
+NWChem:
+  long: NWChem aims to provide its users with computational chemistry tools that are
+    scalable both in
+  possessive: true
+NanoComp:
+  long: Comparing runs of Oxford Nanopore sequencing data and alignments
+  possessive: true
+NanoLyse:
+  long: Removing reads mapping to the lambda genome.
+  possessive: true
+NanoPlot:
+  long: Plotting suite for Oxford Nanopore sequencing data and alignments.
+  possessive: true
+NanoStat:
+  long: Tool for phasing genomic variants using DNA sequencing reads, also called
+    read-based phasing or haplotype assembly.
+  possessive: true
+Newton-X:
+  long: NX is a general-purpose program package for simulating the dynamics of electronically
+    excited molecules and molecular assemblies.
+  possessive: true
+NextGenMap:
+  long: NextGenMap is a flexible highly sensitive short read mapping tool that
+  possessive: true
+Nextflow:
+  long: Nextflow is a reactive workflow framework and a programming DSL
+  possessive: true
+Ninja:
+  long: Ninja is a small build system with a focus on speed.
+  possessive: true
+Nsight-Compute:
+  long: NVIDIA® Nsight™ Compute is an interactive kernel profiler for CUDA applications.
+    It provides detailed
+  possessive: true
+Nsight-Systems:
+  long: NVIDIA® Nsight™ Systems is a system-wide performance analysis tool designed
+    to visualize an
+  possessive: true
+OASIS3-MCT:
+  long: The OASIS coupler is a software allowing synchronized exchanges of coupling
+    information between numerical codes representing different components of the climate
+    system.
+  possessive: true
+OBITools:
+  long: Manipulate various data and sequence files.
+  possessive: true
+OCI:
+  long: 'Oracle Call Interface (OCI) is the comprehensive, high performance, native
+    C language interface to Oracle Database for custom or packaged applications.  NOTE:
+    This package is only available on Maui Ancil nodes that provide database access.'
+  possessive: true
+OMA:
+  long: Orthologous MAtrix project is a method and database for the inference
+  possessive: true
+OPARI2:
+  long: source-to-source instrumentation tool for OpenMP and hybrid codes.
+  possessive: true
+ORCA:
+  long: ORCA is a flexible, efficient and easy-to-use general purpose tool for quantum
+    chemistry
+  possessive: true
+OSPRay:
+  long: OSPRay features interactive CPU rendering capabilities geared towards Scientific
+    Visualization applications. Advanced shading effects such as Ambient Occlusion,
+    shadows, and transparency can be rendered interactively, enabling new insights
+    into data exploration.
+  possessive: true
+OSU-Micro-Benchmarks:
+  long: OSU Micro-Benchmarks for MPI
+  possessive: true
+OTF2:
+  long: ''
+  possessive: true
+Octave:
+  long: GNU Octave is a high-level interpreted language, primarily intended for numerical
+    computations.
+  possessive: true
+Octopus:
+  long: Octopus is a scientific program aimed at the ab initio virtual experimentation
+  possessive: true
+OpenBLAS:
+  long: OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+  possessive: true
+OpenBabel:
+  long: Open Babel is a chemical toolbox designed to speak the many
+  possessive: true
+OpenCMISS:
+  long: OpenCMISS is a set of libraries and applications which provide modelling and
+  possessive: true
+OpenCV:
+  long: OpenCV (Open Source Computer Vision Library) is an open source computer vision
+  possessive: true
+OpenFAST:
+  long: Wind turbine multiphysics simulation tool
+  possessive: true
+OpenFOAM:
+  long: OpenFOAM is a free, open source CFD software package.
+  possessive: true
+OpenJPEG:
+  long: An open-source JPEG 2000 codec written in C
+  possessive: true
+OpenMPI:
+  long: The Open MPI Project is an open source MPI-3 implementation. This version
+    is built with CUDA support enabled.
+  possessive: true
+OpenSSL:
+  long: The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade,
+    full-featured,
+  possessive: true
+OpenSees:
+  long: OpenSees is a software framework for developing applications to simulate the
+    performance of structural and geotechnical systems subjected to earthquakes.
+  possessive: true
+OpenSeesPy:
+  long: OpenSees is a software framework for developing applications to simulate the
+    performance of structural and geotechnical systems subjected to earthquakes.
+  possessive: true
+OpenSlide:
+  long: OpenSlide is a C library that provides a simple interface to
+  possessive: true
+OrfM:
+  long: A simple and not slow open reading frame (ORF) caller.
+  possessive: true
+OrthoFiller:
+  long: Identifies missing annotations for evolutionarily conserved genes.
+  possessive: true
+OrthoFinder:
+  long: OrthoFinder is a fast, accurate and comprehensive platform for comparative
+    genomics
+  possessive: true
+OrthoMCL:
+  long: Genome-scale algorithm for grouping orthologous protein sequences.
+  possessive: true
+PALEOMIX:
+  long: pipelines and tools designed to aid the rapid processing of High-Throughput
+    Sequencing (HTS) data.
+  possessive: true
+PAML:
+  long: PAML is a package of programs for phylogenetic
+  possessive: true
+PAPI:
+  long: PAPI provides the tool designer and application engineer with a consistent
+    interface and
+  possessive: true
+PBJelly:
+  long: PBJelly is a highly automated pipeline that aligns long sequencing reads (such
+    as PacBio RS reads or
+  possessive: true
+PCRE:
+  long: The PCRE library is a set of functions that implement regular expression pattern
+    matching using
+  possessive: true
+PCRE2:
+  long: The PCRE library is a set of functions that implement regular expression pattern
+    matching using the same syntax  and semantics as Perl 5.
+  possessive: true
+PDT:
+  long: Program Database Toolkit (PDT) is a framework for analyzing source code written
+    in several programming languages and for making rich program
+  possessive: true
+PEAR:
+  long: Memory-efficient,fully parallelized and highly accurate pair-end read merger.
+  possessive: true
+PEST++:
+  long: PEST++ is a software suite aimed at supporting
+  possessive: true
+PETSc:
+  long: PETSc, pronounced PET-see (the S is silent), is a suite of data structures
+    and routines for the
+  possessive: true
+PFFT:
+  long: PFFT is a software library for computing massively parallel, fast Fourier
+  possessive: true
+PGI:
+  long: C, C++ and Fortran compilers from The Portland Group - PGI
+  possessive: true
+PHASIUS:
+  long: A tool to visualize phase block structure from (many) BAM or CRAM files together
+    with BED annotation
+  possessive: true
+PLINK:
+  long: PLINK is a free, open-source whole genome association analysis toolset,
+  possessive: true
+PLUMED:
+  long: PLUMED is an open source library for free energy calculations in molecular
+    systems which
+  possessive: true
+PRANK:
+  long: Probabilistic multiple alignment program for DNA, codon and amino-acid sequences.
+    .
+  possessive: true
+PROJ:
+  long: Program proj is a standard Unix filter function which converts  geographic
+    longitude and latitude coordinates into cartesian coordinates
+  possessive: true
+Pango:
+  long: Pango is a library for laying out and rendering of text, with an emphasis
+    on internationalization.
+  possessive: true
+ParMETIS:
+  long: ParMETIS is an MPI-based parallel library that implements a variety of algorithms
+    for partitioning unstructured graphs,
+  possessive: true
+ParaView:
+  long: ParaView is a scientific parallel visualizer.  This version supports CPU-only
+    rendering without X context using the OSMesa library, it does not support GPU
+    rendering, and it does not provide a GUI.  Use the GALLIUM_DRIVER environment
+    variable to choose a software renderer, it is recommended to use  GALLIUM_DRIVER=swr  for
+    best performance.  Ray tracing using the OSPRay library is also supported.
+  possessive: true
+Parallel:
+  long: 'parallel: Build and execute shell commands in parallel'
+  possessive: true
+ParallelIO:
+  long: A high-level Parallel I/O Library for structured grid applications
+  possessive: true
+Paraver:
+  long: Performance visualization and analysis tool based on traces.
+  possessive: true
+Peregrine:
+  long: Genome assembler for long reads (length > 10kb, accuracy > 99%).
+  possessive: true
+Perl:
+  long: Larry Wall's Practical Extraction and Report Language
+  possessive: true
+PhyML:
+  long: Phylogenetic estimation using Maximum Likelihood
+  possessive: true
+PhyloPhlAn:
+  long: Integrated pipeline for large-scale phylogenetic profiling of genomes and
+    metagenomes.
+  possessive: true
+Pilon:
+  long: Pilon is an automated genome assembly improvement and variant detection tool
+  possessive: true
+PnetCDF:
+  long: 'Parallel netCDF: A Parallel I/O Library for NetCDF File Access'
+  possessive: true
+Porechop:
+  long: Porechop is a tool for finding and removing adapters from Oxford Nanopore
+    reads.
+  possessive: true
+PostgreSQL:
+  long: Client-side programs and libraries for accessing PostgreSQL databases.
+  possessive: true
+Prodigal:
+  long: Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
+  possessive: true
+ProtHint:
+  long: Pipeline for predicting and scoring hints (in the form of introns, start and
+  possessive: true
+Proteinortho:
+  long: Proteinortho is a tool to detect orthologous genes within different species.
+  possessive: true
+PyOpenGL:
+  long: PyOpenGL is the most common cross platform Python binding to OpenGL and related
+    APIs.
+  possessive: true
+PyQt:
+  long: PyQt5 is a set of Python bindings for v5 of the Qt application framework from
+    The Qt Company.
+  possessive: true
+PyTorch:
+  long: Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+  possessive: true
+Python:
+  long: Python is a programming language that lets you work more quickly and integrate
+    your systems more effectively.
+  possessive: true
+Python-GPU:
+  long: 'The python packages which depend on CUDA: pycuda, pygpu, and scikit-cuda.'
+  possessive: true
+Python-Geo:
+  long: Python packages for geospatial data I/O, mostly based on the OSGEO libraries
+    GDAL and OGR
+  possessive: true
+QChem:
+  long: ''
+  possessive: true
+QIIME2:
+  long: An open-source bioinformatics pipeline for microbiome analysis
+  possessive: true
+QUAST:
+  long: Evaluates genome assemblies
+  possessive: true
+Qt5:
+  long: Qt is a comprehensive cross-platform C++ application framework.
+  possessive: true
+QuantumESPRESSO:
+  long: Quantum ESPRESSO  is an integrated suite of computer codes
+  possessive: true
+QuickTree:
+  long: Efficient implementation of the Neighbor-Joining algorithm, capable of reconstructing
+    phylogenies from huge alignments .
+  possessive: true
+R:
+  long: R is a free software environment for statistical computing and graphics.
+  possessive: true
+R-Geo:
+  long: R packages for Geometric and Geospatial data which depend
+  possessive: true
+R-bundle-Bioconductor:
+  long: Bioconductor provides tools for the analysis and comprehension
+  possessive: true
+RANGS-GSHHS:
+  long: 'A binary file set RANGS (Regionally Accessible Nested Global Shorelines)
+    based on GSHHS (Global Self-consistent Hierarchical High-resolution Shorelines)
+    data.  Note: RANGS-GSHHS is used with NCL.'
+  possessive: true
+RAxML:
+  long: RAxML search algorithm for maximum likelihood based inference of phylogenetic
+    trees.
+  possessive: true
+RAxML-NG:
+  long: RAxML-NG is a phylogenetic tree inference tool which uses maximum-likelihood
+    (ML)
+  possessive: true
+RDP-Classifier:
+  long: The RDP Classifier is a naive Bayesian classifier that can rapidly and accurately
+    provides taxonomic
+  possessive: true
+RECON:
+  long: De novo identification and classification of repeat sequence families from
+    genomic sequences
+  possessive: true
+RMBlast:
+  long: 'RMBlast supports RepeatMasker searches by adding a few necessary features
+    to the stock NCBI blastn program. These include:'
+  possessive: true
+RNAmmer:
+  long: consistent and rapid annotation of ribosomal RNA genes.
+  possessive: true
+ROCm:
+  long: Platform for GPU Enabled HPC and UltraScale Computing
+  possessive: true
+ROOT:
+  long: The ROOT system provides a set of OO frameworks with all the functionality
+  possessive: true
+RSEM:
+  long: Estimates gene and isoform expression levels from RNA-Seq data
+  possessive: true
+RSGISLib:
+  long: The Remote Sensing and GIS software library (RSGISLib) is a
+  possessive: true
+Racon:
+  long: Ultrafast consensus module for raw de novo genome assembly of long uncorrected
+    reads.
+  possessive: true
+Ragout:
+  long: Tool for chromosome assembly using multiple references.
+  possessive: true
+RapidNJ:
+  long: An algorithmic engineered implementation of canonical neighbour-joining.
+  possessive: true
+Raven:
+  long: De novo genome assembler for long uncorrected reads.
+  possessive: true
+Rcorrector:
+  long: kmer-based error correction method for RNA-seq data.
+  possessive: true
+Relion:
+  long: RELION (for REgularised LIkelihood OptimisatioN, pronounce rely-on)
+  possessive: true
+RepeatMasker:
+  long: Screens DNA sequences for interspersed repeats and low complexity DNA sequences.
+  possessive: true
+RepeatModeler:
+  long: De novo transposable element (TE) family identification and modeling package.
+  possessive: true
+RepeatScout:
+  long: De novo identification of repeat families in large genomes
+  possessive: true
+Riskscape:
+  long: RiskScape is an open-source spatial data processing application used for multi-hazard
+    risk analysis. RiskScape is highly customisable, letting modellers tailor the
+    risk analysis to suit the problem domain and input data being modelled.
+  possessive: true
+Roary:
+  long: Rapid large-scale prokaryote pan genome analysis
+  possessive: true
+Rosetta:
+  long: Rosetta is the premier software suite for modeling macromolecular structures.
+    As a flexible,
+  possessive: true
+Rstudio:
+  long: RStudio is a set of integrated tools designed to help you be more productive
+    with R.
+  possessive: true
+Ruby:
+  long: Ruby is a dynamic, open source programming language with
+  possessive: true
+Rust:
+  long: Systems programming language that runs blazingly fast, prevents segfaults,
+  possessive: true
+SAGE:
+  long: Ppackage containing programs for use in the genetic analysis of
+  possessive: true
+SAMtools:
+  long: Samtools is a suite of programs for interacting with high-throughput sequencing
+    data.
+  possessive: true
+SAS:
+  long: 'SAS is a statistical software suite developed by SAS Institute for data management,
+    advanced analytics, multivariate analysis, business intelligence, criminal investigation,
+    and predictive analytics. - Homepage: https://www.sas.com/en_nz/home.html/'
+  possessive: true
+SCOTCH:
+  long: Software package and libraries for sequential and parallel graph partitioning,
+    static mapping, and sparse matrix block ordering, and sequential mesh and hypergraph
+    partitioning.
+  possessive: true
+SCons:
+  long: SCons is a software construction tool.
+  possessive: true
+SDL2:
+  long: Simple DirectMedia Layer, a cross-platform multimedia library
+  possessive: true
+SEPP:
+  long: SATe-enabled Phylogenetic Placement. Phylogenetic placement of short reads
+    into reference alignments and trees.
+  possessive: true
+SHAPEIT4:
+  long: Estimation of haplotypes (aka phasing)
+  possessive: true
+SIONlib:
+  long: Scalable I/O library for parallel access to task-local files.
+  possessive: true
+SIP:
+  long: SIP is a tool that makes it very easy to create Python bindings for C and
+    C++ libraries.
+  possessive: true
+SKESA:
+  long: SKESA is a de-novo sequence read assembler for cultured single isolate genomes
+    based on DeBruijn graphs.
+  possessive: true
+SMRT-Link:
+  long: PacBio’s open-source software suite is designed for use with Single Molecule,
+  possessive: true
+SNVoter-NanoMethPhase:
+  long: SNVoter - A top up tool to enhance SNV calling from Nanopore sequencing data
+    &
+  possessive: true
+SOAPdenovo2:
+  long: Short Oligonucleotide Analysis Package - novel short-read assembly
+  possessive: true
+SOCI:
+  long: Database access library for C++ that makes the illusion of embedding SQL queries
+    in the
+  possessive: true
+SPAdes:
+  long: Genome assembler for single-cell and isolates data sets
+  possessive: true
+SPECFEM3D:
+  long: SPECFEM3D Cartesian simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic,
+    poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra
+    (structured or not.) It can, for instance, model seismic waves propagating in
+    sedimentary basins or any other regional geological model following earthquakes.
+    It can also be used for non-destructive testing or for ocean acoustics.
+  possessive: true
+SPIDER:
+  long: System for Processing Image Data from Electron microscopy and Related fields
+  possessive: true
+SQLite:
+  long: 'SQLite: SQL Database Engine in a C Library'
+  possessive: true
+SQLplus:
+  long: SQL*Plus is an interactive and batch query tool that is installed with every
+    Oracle Database installation. It has a command-line user interface and a Windows
+    Graphical User Interface (GUI).
+  possessive: true
+SSAHA2:
+  long: Pairwise sequence alignment program designed for the efficient mapping of
+    sequencing
+  possessive: true
+STAR:
+  long: Fast universal RNA-seq aligner
+  possessive: true
+STAR-Fusion:
+  long: Processes the output generated by the STAR aligner to map junction reads and
+    spanning reads to a reference annotation set
+  possessive: true
+SUNDIALS:
+  long: 'SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers'
+  possessive: true
+SURVIVOR:
+  long: Tool set for simulating/evaluating SVs, merging and comparing SVs within and
+    among samples,
+  possessive: true
+SWIG:
+  long: SWIG is a software development tool that connects programs written in C and
+    C++ with  a variety of high-level programming languages.
+  possessive: true
+Salmon:
+  long: Salmon is a wicked-fast program to produce a highly-accurate,
+  possessive: true
+Sambamba:
+  long: Tools for working with SAM/BAM data
+  possessive: true
+ScaLAPACK:
+  long: The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines
+  possessive: true
+Scalasca:
+  long: Tool that supports the performance optimization of
+  possessive: true
+Score-P:
+  long: Measurement infrastructure is a highly scalable and easy-to-use
+  possessive: true
+SeqAn:
+  long: ''
+  possessive: true
+SeqAn3:
+  long: C++ library of efficient algorithms and data structures for the
+  possessive: true
+SeqKit:
+  long: Ultrafast toolkit for FASTA/Q file manipulation
+  possessive: true
+SeqMonk:
+  long: A tool to visualise and analyse high throughput mapped sequence data.
+  possessive: true
+SiBELia:
+  long: A comparative genomics tool for analysing genomic variations that correlate
+    with pathogens, or
+  possessive: true
+Siesta:
+  long: SIESTA is both a method and its computer program implementation, to perform
+    efficient electronic
+  possessive: true
+Siesta-Optical:
+  long: ''
+  possessive: true
+SignalP:
+  long: SignalP predicts the presence  and  location of signal peptide  cleavage sites
+  possessive: true
+Singularity:
+  long: ''
+  possessive: true
+Sniffles:
+  long: A fast structural variant caller for long-read sequencing.
+  possessive: true
+SortMeRNA:
+  long: SortMeRNA is a biological sequence analysis tool for filtering, mapping and
+    OTU-picking NGS reads.
+  possessive: true
+SourceTracker:
+  long: SourceTracker is a Bayesian approach to estimating the proportion of a novel
+    community that comes
+  possessive: true
+Spack:
+  long: Spack is a package manager for supercomputers, Linux, and macOS. It makes
+    installing scientific
+  possessive: true
+Spark:
+  long: Spark is Hadoop MapReduce done in memory
+  possessive: true
+SqueezeMeta:
+  long: fully automated metagenomics pipeline, from reads to bins.
+  possessive: true
+Stacks:
+  long: Stacks is a software pipeline for building loci from short-read sequences,
+    such as those generated on
+  possessive: true
+StringTie:
+  long: StringTie is a fast and highly efficient assembler of RNA-Seq alignments into
+    potential transcripts.
+  possessive: true
+Structure:
+  long: The program structure is a free software package for using multi-locus genotype
+    data to investigate
+  possessive: true
+Subread:
+  long: High performance read alignment, quantification and mutation discovery
+  possessive: true
+Subversion:
+  long: Subversion is an open source version control system.
+  possessive: true
+SuiteSparse:
+  long: SuiteSparse is a collection of libraries manipulate sparse matrices.
+  possessive: true
+SuperLU:
+  long: Solution of large, sparse, nonsymmetric systems of linear equations.
+  possessive: true
+Supernova:
+  long: Supernova is a software package for de novo assembly from Chromium Linked-Reads
+  possessive: true
+Szip:
+  long: ''
+  possessive: true
+TMHMM:
+  long: Prediction of transmembrane helices in proteins
+  possessive: true
+TSEBRA:
+  long: Transcript Selector for BRAKER
+  possessive: true
+TURBOMOLE:
+  long: Program Package For Electronic Structure Calculations.
+  possessive: true
+TWL-NINJA:
+  long: Nearly Infinite Neighbor Joining Application.
+  possessive: true
+Tcl:
+  long: Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming
+    language,
+  possessive: true
+TensorFlow:
+  long: An open-source software library for Machine Intelligence
+  possessive: true
+TensorRT:
+  long: NVIDIA TensorRT is a platform for high-performance deep learning inference
+  possessive: true
+Theano:
+  long: Theano is a Python library that allows you to define, optimize,
+  possessive: true
+Tk:
+  long: Tk is an open source, cross-platform widget toolchain that provides a library
+    of basic elements for
+  possessive: true
+TopHat:
+  long: TopHat is a fast splice junction mapper for RNA-Seq reads.
+  possessive: true
+TransDecoder:
+  long: TransDecoder identifies candidate coding regions within transcript sequences.
+  possessive: true
+Transrate:
+  long: ''
+  possessive: true
+TreeMix:
+  long: TreeMix is a method for inferring the patterns of population splits and mixtures
+    in the history of a
+  possessive: true
+Trilinos:
+  long: The Trilinos Project is an effort to develop algorithms and enabling technologies
+  possessive: true
+TrimGalore:
+  long: A wrapper of FastQC and cutadapt to automate quality and adapter trimming
+  possessive: true
+Trimmomatic:
+  long: Trimmomatic performs a variety of useful trimming tasks for illumina
+  possessive: true
+Trinity:
+  long: Trinity represents a novel method for the efficient and robust de novo reconstruction
+  possessive: true
+Trinotate:
+  long: C++ library of efficient algorithms and data structures for the
+  possessive: true
+Trycycler:
+  long: Tool for generating consensus long-read assemblies for bacterial genomes.
+  possessive: true
+TuiView:
+  long: TuiView is a lightweight raster GIS with powerful raster attribute table manipulation
+  possessive: true
+TurboVNC:
+  long: TurboVNC is a derivative of VNC (Virtual Network Computing) that is tuned
+    to provide
+  possessive: true
+UCX:
+  long: Unified Communication X
+  possessive: true
+UDUNITS:
+  long: UDUNITS supports conversion of unit specifications between formatted and binary
+    forms,  arithmetic manipulation of units, and conversion of values between compatible
+    scales of measurement.
+  possessive: true
+USEARCH:
+  long: USEARCH is a unique sequence analysis tool which offers search and clustering
+    algorithms that are
+  possessive: true
+Unicycler:
+  long: Assembly pipeline for bacterial genomes. It can assemble Illumina-only read
+    sets
+  possessive: true
+VASP:
+  long: The Vienna Ab initio Simulation Package (VASP) is a computer program for atomic
+    scale materials modelling, e.g. electronic structure calculations and quantum-mechanical
+    molecular dynamics, from first principles.
+  possessive: true
+VCF-kit:
+  long: VCF-kit is a command-line based collection of utilities for performing analysis
+    on
+  possessive: true
+VCFtools:
+  long: The aim of VCFtools is to provide
+  possessive: true
+VEP:
+  long: Variant Effect Predictor (VEP) determines the effect of your
+  possessive: true
+VESTA:
+  long: VESTA is a 3D visualization program for structural models, volumetric data
+    such as electron/nuclear densities, and crystal morphologies. Run 'VESTA-gui'
+    to launch.
+  possessive: true
+VIBRANT:
+  long: Virus Identification By iteRative ANnoTation
+  possessive: true
+VMD:
+  long: VMD is a molecular visualization program for displaying, animating, and analyzing
+    large biomolecular
+  possessive: true
+VSEARCH:
+  long: An open source alternative to the metagenomics tool USEARCH.
+  possessive: true
+VTK:
+  long: 'The Visualization Toolkit (VTK) is an open-source, freely available software
+    system for  3D computer graphics, image processing and visualization. VTK consists
+    of a C++ class library and several  interpreted interface layers including Tcl/Tk,
+    Java, and Python. VTK supports a wide variety of visualization  algorithms including:
+    scalar, vector, tensor, texture, and volumetric methods; and advanced modeling
+    techniques  such as: implicit modeling, polygon reduction, mesh smoothing, cutting,
+    contouring, and Delaunay triangulation.'
+  possessive: true
+VTune:
+  long: Intel VTune Amplifier XE is the premier performance profiler for C, C++, C#,
+    Fortran,  Assembly and Java.
+  possessive: true
+Valgrind:
+  long: 'Valgrind: Debugging and profiling tools'
+  possessive: true
+VarScan:
+  long: Variant calling and somatic mutation/CNV detection for next-generation sequencing
+    data
+  possessive: true
+Velvet:
+  long: Sequence assembler for very short reads
+  possessive: true
+VelvetOptimiser:
+  long: Perl script for optimising the three primary parameter options of the Velvet
+    de novo sequence assembler.
+  possessive: true
+ViennaRNA:
+  long: The Vienna RNA Package consists of a C code library and several
+  possessive: true
+Vim:
+  long: Vim is an advanced text editor that seeks to provide the power   of the de-facto
+    Unix editor 'Vi', with a more complete feature set.
+  possessive: true
+VirHostMatcher:
+  long: Tools for computing various oligonucleotide frequency (ONF) based distance/dissimialrity
+    measures.
+  possessive: true
+VirSorter:
+  long: 'VirSorter: mining viral signal from microbial genomic data.'
+  possessive: true
+VirtualGL:
+  long: VirtualGL is an open source toolkit that gives any Linux or
+  possessive: true
+VisIt:
+  long: VisIt is an Open Source, interactive, scalable, visualization, animation and
+    analysis tool.  This version supports interactive CPU-only rendering with the
+    VisIt GUI using the Mesa library. It does not support GPU rendering.  Use the
+    GALLIUM_DRIVER environment variable to choose a software renderer, it is recommended
+    to use  GALLIUM_DRIVER=swr  for best performance.
+  possessive: true
+WAAFLE:
+  long: Workflow to Annotate Assemblies and Find LGT Events.
+  possessive: true
+WhatsHap:
+  long: Tool for phasing genomic variants using DNA sequencing reads, also called
+    read-based phasing or haplotype assembly.
+  possessive: true
+Wise2:
+  long: Aligning proteins or protein HMMs to DNA
+  possessive: true
+XCONV:
+  long: Xconv is a program designed to convert model output into a format suitable
+    for use in various plotting packages. Xconv is designed to be simple to use with
+    a point and click, windows based interface.
+  possessive: true
+XGKS:
+  long: XGKS is a level 2C implementation of the ANSI Graphical Kernel System
+  possessive: true
+XHMM:
+  long: Calls copy number variation (CNV) from normalized read-depth data from exome
+    capture or other targeted sequencing experiments.
+  possessive: true
+XIOS:
+  long: XIOS stands for XML-IO-Server and is a library dedicated to I/O management
+    in climate codes. This version uses netCDF4 with the parallel HDF5 library, and
+    it contains a patch for various problems in the mesh connectivity algorithm
+  possessive: true
+XMDS2:
+  long: Fast integrator of stochastic partial differential equations.
+  possessive: true
+XSD:
+  long: CodeSynthesis XSD is an open-source, cross-platform W3C XML Schema to C++
+    data binding compiler.
+  possessive: true
+XZ:
+  long: 'xz: XZ utilities'
+  possessive: true
+Xerces-C++:
+  long: Xerces-C++ is a validating XML parser written in a portable
+  possessive: true
+YAXT:
+  long: Yet Another eXchange Tool - Library that performs halo exchange with MPI for
+    domain decomposed simulations.
+  possessive: true
+Yade:
+  long: Yade is an extensible open-source framework for discrete numerical models,
+  possessive: true
+Yasm:
+  long: 'Yasm: Complete rewrite of the NASM assembler with BSD license'
+  possessive: true
+ZeroMQ:
+  long: ZeroMQ looks like an embeddable networking library but acts like a concurrency
+    framework.
+  possessive: true
+Zip:
+  long: Zip is a compression and file packaging/archive utility.
+  possessive: true
+Zonation:
+  long: Spatial conservation prioritisation framework for large-scale conservation
+    planning.
+  possessive: true
+angsd:
+  long: Program for analysing NGS data.
+  possessive: true
+ant:
+  long: Apache Ant is a Java library and command-line tool whose mission is to drive
+    processes described in
+  possessive: true
+antiSMASH:
+  long: antiSMASH allows the rapid genome-wide identification, annotation and analysis
+    of secondary
+  possessive: true
+any2fasta:
+  long: Convert various sequence formats to FASTA
+  possessive: true
+argtable:
+  long: Argtable is an ANSI C library for parsing GNU style
+  possessive: true
+aria2:
+  long: aria2 is a lightweight multi-protocol & multi-source command-line download
+    utility.
+  possessive: true
+arpack-ng:
+  long: ARPACK is a collection of Fortran77 subroutines designed to solve large scale
+    eigenvalue problems.
+  possessive: true
+at-spi2-atk:
+  long: AT-SPI 2 toolkit bridge
+  possessive: true
+at-spi2-core:
+  long: ''
+  possessive: true
+attr:
+  long: Commands for Manipulating Filesystem Extended Attributes
+  possessive: true
+azul-zulu:
+  long: Java Development Kit (JDK), and a compliant implementation of the Java Standard
+    Edition (SE) specification.
+  possessive: true
+bamUtil:
+  long: Repository that contains several programs
+  possessive: true
+barrnap:
+  long: Barrnap predicts the location of ribosomal RNA genes in genomes.
+  possessive: true
+bcl2fastq2:
+  long: bcl2fastq Conversion Software both demultiplexes data and converts BCL files
+    generated by
+  possessive: true
+beagle-lib:
+  long: ''
+  possessive: true
+binutils:
+  long: 'binutils: GNU binary utilities'
+  possessive: true
+bioawk:
+  long: An extension to awk, adding the support of several common biological data
+    formats
+  possessive: true
+blasr_libcpp:
+  long: Blasr_libcpp is a library used by blasr and other executables such as samtoh5,
+    loadPulses for
+  possessive: true
+breseq:
+  long: breseq is a computational pipeline for the analysis of short-read re-sequencing
+    data
+  possessive: true
+bsddb3:
+  long: bsddb3 is a nearly complete Python binding of the
+  possessive: true
+bzip2:
+  long: bzip2 is a freely available, patent free, high-quality data compressor. It
+    typically
+  possessive: true
+c-ares:
+  long: c-ares is a C library for asynchronous DNS requests (including name resolves)
+  possessive: true
+cURL:
+  long: ''
+  possessive: true
+cairo:
+  long: Cairo is a 2D graphics library with support for multiple output devices.
+  possessive: true
+cdbfasta:
+  long: Fasta file indexing and retrival tool
+  possessive: true
+cdt:
+  long: ''
+  possessive: true
+chewBBACA:
+  long: A complete suite for gene-by-gene schema creation and strain identification..
+  possessive: true
+chopper:
+  long: Rust implementation of NanoFilt+NanoLyse
+  possessive: true
+cromwell:
+  long: Workflow Management System geared towards scientific workflows.
+  possessive: true
+ctags:
+  long: Ctags generates an index (or tag) file of language objects found in source
+    files that allows these
+  possessive: true
+ctffind:
+  long: ctffind is a program for finding CTFs of electron micrographs
+  possessive: true
+cuDNN:
+  long: The NVIDIA CUDA Deep Neural Network library (cuDNN) is a GPU-accelerated library
+    of primitives for     deep neural networks.
+  possessive: true
+cutadapt:
+  long: cutadapt removes adapter sequences
+  possessive: true
+cuteSV:
+  long: Fast and scalable long-read-based SV detection
+  possessive: true
+cwltool:
+  long: Common Workflow Language tool description reference implementation
+  possessive: true
+cyvcf2:
+  long: cython + htslib == fast VCF and BCF processing
+  possessive: true
+dammit:
+  long: de novo transcriptome annotator..
+  possessive: true
+deepTools:
+  long: deepTools is a suite of python tools particularly developed for the efficient
+    analysis of
+  possessive: true
+devtools:
+  long: R functions that simplify and expedite common tasks in package development.
+  possessive: true
+double-conversion:
+  long: Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+  possessive: true
+drep:
+  long: Rapid and accurate comparison and de-replication of microbial genomes
+  possessive: true
+dtcmp:
+  long: DTCMP Library provides pre-defined and user-defined
+  possessive: true
+duphold:
+  long: uphold your DUP and DEL calls
+  possessive: true
+duplex-tools:
+  long: Range of tools to support operations on Duplex Sequencing read pairs.
+  possessive: true
+eDNA:
+  long: A suite of tools to conduct metabarcoding analyses targeting any group of
+    organisms. Includes utilities
+  possessive: true
+ecCodes:
+  long: ecCodes is a package developed by ECMWF which provides an application programming
+    interface and
+  possessive: true
+eccodes:
+  long: 'ecCodes is a package developed by ECMWF which provides an application programming
+    interface and a set of tools for decoding and encoding messages in the following
+    formats:  - WMO FM-92 GRIB edition 1 and edition 2 - WMO FM-94 BUFR edition 3
+    and edition 4  - WMO GTS abbreviated header (only decoding)  A useful set of command
+    line tools provide quick access to the messages.'
+  possessive: true
+ectyper:
+  long: Standalone versatile serotyping module for Escherichia coli..
+  possessive: true
+edlib:
+  long: Lightweight, super fast library for sequence alignment using edit (Levenshtein)
+    distance.
+  possessive: true
+eggnog-mapper:
+  long: Tool for fast functional annotation of novel sequences (genes or proteins)
+  possessive: true
+ensmallen:
+  long: C++ header-only library for numerical optimization
+  possessive: true
+entrez-direct:
+  long: an advanced method for accessing the NCBI's set of interconnected databases
+  possessive: true
+exonerate:
+  long: Generic tool for pairwise sequence comparison
+  possessive: true
+expat:
+  long: Expat is an XML parser library written in C. It is a stream-oriented parser  in
+    which an application registers handlers for things the parser might find  in the
+    XML document (like start tags)
+  possessive: true
+fastStructure:
+  long: fastStructure is an algorithm for inferring population structure from large
+    SNP genotype data. It is based on a variational Bayesian framework for posterior
+    inference and is written in Python2.x.
+  possessive: true
+fastp:
+  long: A tool designed to provide fast all-in-one preprocessing for FastQ files.
+  possessive: true
+fastq-tools:
+  long: A collection of small and efficient programs for performing some common and
+  possessive: true
+fcGENE:
+  long: Format converting tool for genotype Data.
+  possessive: true
+fgbio:
+  long: A set of tools to analyze genomic data with a focus on Next Generation Sequencing.
+  possessive: true
+fineRADstructure:
+  long: A package for population structure inference from RAD-seq data
+  possessive: true
+flatbuffers:
+  long: 'FlatBuffers: Memory Efficient Serialization Library'
+  possessive: true
+flex:
+  long: Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,  sometimes
+    called a tokenizer, is a program which recognizes lexical patterns  in text.
+  possessive: true
+fmlrc:
+  long: Tool for performing  hybrid correction of long read sequencing
+  possessive: true
+fmt:
+  long: Formatting library providing a fast and safe alternative to C stdio and C++
+    iostreams.
+  possessive: true
+fontconfig:
+  long: ''
+  possessive: true
+forge:
+  long: Arm Forge combines Arm DDT, the leading debugger for time-saving high performance
+    application debugging, and Arm MAP, the trusted performance profiler for invaluable
+    optimization advice.
+  possessive: true
+foss:
+  long: GNU Compiler Collection (GCC) based compiler toolchain, including
+  possessive: true
+freetype:
+  long: ''
+  possessive: true
+funcx-endpoint:
+  long: funcX is a distributed Function as a Service (FaaS) platform that enables
+    flexible,
+  possessive: true
+fxtract:
+  long: Extract sequences from a fastx (fasta or fastq) file given a subsequence.
+  possessive: true
+g2clib:
+  long: Library contains GRIB2 encoder/decoder ('C' version).
+  possessive: true
+g2lib:
+  long: Library contains GRIB2 encoder/decoder and search/indexing routines.
+  possessive: true
+ga4gh:
+  long: A reference implementation of the GA4GH API
+  possessive: true
+geany:
+  long: A GTK+ based text editor with with basic features of an integrated development
+    environment.
+  possessive: true
+genometools:
+  long: 'GenomeTools: A Comprehensive Software Library for Efficient Processing of'
+  possessive: true
+gettext:
+  long: GNU 'gettext' is an important step for the GNU Translation Project, as it
+    is an asset on which we may build many other steps. This package offers to programmers,
+    translators, and even users, a well integrated set of tools and documentation
+  possessive: true
+gffread:
+  long: GFF/GTF parsing utility providing format conversions,
+  possessive: true
+giflib:
+  long: giflib is a library for reading and writing gif images.
+  possessive: true
+gimkl:
+  long: GNU Compiler Collection (GCC) based compiler toolchain with Intel MPI and
+    MKL
+  possessive: true
+gimpi:
+  long: GNU Compiler Collection (GCC) based compiler toolchain with Intel MPI.
+  possessive: true
+git:
+  long: Git is a free and open source distributed version control system designed
+  possessive: true
+globus-automate-client:
+  long: Client for the Globus Flows service.
+  possessive: true
+globus-compute-endpoint:
+  long: Globus Compute is a distributed Function as a Service (FaaS) platform that
+    enables flexible,
+  possessive: true
+gmsh:
+  long: Gmsh is a 3D finite element grid generator with a build-in CAD engine and
+    post-processor..
+  possessive: true
+gnuplot:
+  long: Portable interactive, function plotting utility
+  possessive: true
+gompi:
+  long: GNU Compiler Collection (GCC) based compiler toolchain,
+  possessive: true
+google-sparsehash:
+  long: An extremely memory-efficient hash_map implementation. 2 bits/entry overhead!
+    The SparseHash library
+  possessive: true
+googletest:
+  long: Google's C++ test framework
+  possessive: true
+gperf:
+  long: Pperfect hash function generator.
+  possessive: true
+grib_api:
+  long: The ECMWF GRIB API is an application program interface accessible from C,
+    FORTRAN and Python programs developed for encoding and decoding WMO FM-92 GRIB
+    edition 1 and edition 2 messages. A useful set of command line tools is also provided
+    to give quick access to GRIB messages.  Note that JPEG and Python support have
+    been disabled for this build.
+  possessive: true
+grive2:
+  long: Command line tool for Google Drive.
+  possessive: true
+gsort:
+  long: Tool to sort genomic files according to a genomefile.
+  possessive: true
+h5pp:
+  long: A simple C++17 wrapper for HDF5.
+  possessive: true
+help2man:
+  long: help2man produces simple manual pages from the '--help' and '--version' output
+    of other commands.
+  possessive: true
+hifiasm:
+  long: 'Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.'
+  possessive: true
+hunspell:
+  long: Spell checker and morphological analyzer library and program designed for
+    languages
+  possessive: true
+hwloc:
+  long: ''
+  possessive: true
+hypothesis:
+  long: Hypothesis is an advanced testing library for Python. It lets you write tests
+    which are parametrized
+  possessive: true
+icc:
+  long: Intel C and C++ compilers
+  possessive: true
+iccifort:
+  long: Intel C, C++ & Fortran compilers
+  possessive: true
+ifort:
+  long: Intel Fortran compiler
+  possessive: true
+iimpi:
+  long: Intel C/C++ and Fortran compilers, alongside Intel MPI.
+  possessive: true
+imkl:
+  long: Intel Math Kernel Library is a library of highly optimized,
+  possessive: true
+imkl-FFTW:
+  long: FFTW interfaces using Intel oneAPI Math Kernel Library
+  possessive: true
+impi:
+  long: Intel MPI Library, compatible with MPICH ABI
+  possessive: true
+intel:
+  long: Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel
+    Library (MKL).
+  possessive: true
+intel-compilers:
+  long: Intel C, C++ & Fortran compilers (classic and oneAPI)
+  possessive: true
+ipyrad:
+  long: ipyrad is an interactive toolkit for assembly and analysis of restriction-site
+    associated genomic
+  possessive: true
+ispc:
+  long: Intel SPMD Program Compilers; An open-source compiler for high-performance  SIMD
+    programming on the CPU. ispc is a compiler for a variant of the C programming
+    language,  with extensions for 'single program, multiple data' (SPMD) programming.  Under
+    the SPMD model, the programmer writes a program that generally appears  to be
+    a regular serial program, though the execution model is actually that  a number
+    of program instances execute in parallel on the hardware.
+  possessive: true
+jbigkit:
+  long: JBIG-KIT is a software implementation of the JBIG1 data compression standard
+  possessive: true
+jcvi:
+  long: Collection of Python libraries to parse bioinformatics files, or perform computation
+    related to assembly, annotation, and comparative genomics.
+  possessive: true
+jemalloc:
+  long: A general purpose malloc(3) implementation that emphasizes fragmentation avoidance
+    and
+  possessive: true
+jq:
+  long: Lightweight and flexible command-line JSON processor.
+  possessive: true
+json-c:
+  long: JSON-C implements a reference counting object model that allows you to easily
+    construct JSON objects
+  possessive: true
+jvarkit:
+  long: Java utilities for Bioinformatics
+  possessive: true
+kalign2:
+  long: Kalign is a fast multiple sequence alignment program for biological sequences.
+  possessive: true
+kallisto:
+  long: kallisto is a program for quantifying abundances of transcripts from RNA-Seq
+    data, or more generally
+  possessive: true
+kineto:
+  long: A CPU+GPU Profiling library that provides access to timeline traces and hardware
+    performance counters
+  possessive: true
+kma:
+  long: KMA is a mapping method designed to map raw reads directly against redundant
+    databases,
+  possessive: true
+libFLAME:
+  long: libFLAME is a portable library for dense matrix computations,
+  possessive: true
+libGLU:
+  long: The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL.
+  possessive: true
+libKML:
+  long: Reference implementation of OGC KML 2.2
+  possessive: true
+libarchive:
+  long: ''
+  possessive: true
+libcircle:
+  long: API for distributing embarrassingly parallel workloads using self-stabilization.
+  possessive: true
+libconfig:
+  long: A Library for processing structured configuration files
+  possessive: true
+libdeflate:
+  long: Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
+  possessive: true
+libdrm:
+  long: Direct Rendering Manager runtime library.
+  possessive: true
+libdwarf:
+  long: The DWARF Debugging Information Format is of interest to programmers working
+    on compilers
+  possessive: true
+libepoxy:
+  long: Library for handling OpenGL function pointer management
+  possessive: true
+libevent:
+  long: The libevent API provides a mechanism to execute a callback function when
+    a specific  event occurs on a file descriptor or after a timeout has been reached.  Furthermore,
+    libevent also support callbacks due to signals or regular timeouts.
+  possessive: true
+libffi:
+  long: The libffi library provides a portable, high level programming interface to
+    various calling
+  possessive: true
+libgcrypt:
+  long: Libgpg-error is a small library that defines common error values for all GnuPG
+    components.
+  possessive: true
+libgd:
+  long: GD is an open source code library for the dynamic creation of images by programmers.
+  possessive: true
+libgeotiff:
+  long: Library for reading and writing coordinate system information from/to GeoTIFF
+    files
+  possessive: true
+libglvnd:
+  long: libglvnd is a vendor-neutral dispatch layer for arbitrating OpenGL API calls
+    between multiple vendors.
+  possessive: true
+libgpg-error:
+  long: Libgpg-error is a small library that defines common error values for all GnuPG
+    components.
+  possessive: true
+libgpuarray:
+  long: Arrays on GPU device memory, for Theano
+  possessive: true
+libgtextutils:
+  long: ligtextutils is a dependency of fastx-toolkit and is provided via the same
+    upstream
+  possessive: true
+libiconv:
+  long: Libiconv converts from one character encoding to another through Unicode conversion
+  possessive: true
+libjpeg-turbo:
+  long: libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to accelerate
+    baseline JPEG
+  possessive: true
+libmatheval:
+  long: GNU libmatheval is a library (callable from C and Fortran) to parse
+  possessive: true
+libpciaccess:
+  long: Generic PCI access library.
+  possessive: true
+libpmi:
+  long: ''
+  possessive: true
+libpng:
+  long: libpng is the official PNG reference library
+  possessive: true
+libreadline:
+  long: The GNU Readline library provides a set of functions for use by applications
+    that
+  possessive: true
+libspatialite:
+  long: SpatiaLite is an open source library intended to extend the SQLite core to
+    support
+  possessive: true
+libtool:
+  long: GNU libtool is a generic library support script. Libtool hides the complexity
+    of using shared libraries
+  possessive: true
+libunistring:
+  long: This library provides functions for manipulating Unicode strings and for manipulating
+    C strings
+  possessive: true
+libunwind:
+  long: Define a portable and efficient C programming API to determine the call-chain
+    of a program.
+  possessive: true
+libvpx:
+  long: The WebM Project is dedicated to developing a high-quality, open video format
+    for the web that's freely available to everyone.
+  possessive: true
+libxc:
+  long: Libxc is a library of exchange-correlation functionals for density-functional
+    theory.  The aim is to provide a portable, well tested and reliable set of exchange
+    and correlation functionals.
+  possessive: true
+libxml2:
+  long: ''
+  possessive: true
+libxslt:
+  long: Libxslt is the XSLT C library developed for the GNOME project
+  possessive: true
+libxsmm:
+  long: LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications
+  possessive: true
+libzstd:
+  long: Fast lossless compression algorithm.
+  possessive: true
+lighttpd:
+  long: A web server.
+  possessive: true
+likwid:
+  long: Command line tools for Linux to support programmers in developing high
+  possessive: true
+lp_solve:
+  long: Mixed Integer Linear Programming (MILP) solver
+  possessive: true
+lwgrp:
+  long: The light-weight group library defines data structures and collective operations
+    to
+  possessive: true
+lz4:
+  long: LZ4 is lossless compression algorithm, providing compression speed at 400
+    MB/s per core.  It features an extremely fast decoder, with speed in multiple
+    GB/s per core.
+  possessive: true
+magma:
+  long: The MAGMA project aims to develop a dense linear algebra library similar to
+  possessive: true
+makedepend:
+  long: The makedepend package contains a C-preprocessor like utility to determine
+    build-time dependencies.
+  possessive: true
+manta:
+  long: Manta calls structural variants (SVs) and indels from mapped paired-end sequencing
+    reads.
+  possessive: true
+mapDamage:
+  long: tracks and quantifies DNA damage patterns among ancient
+  possessive: true
+meRanTK:
+  long: High performance toolkit for complete analysis of methylated RNA data.
+  possessive: true
+medaka:
+  long: Medaka is a tool to create a consensus sequence from nanopore sequencing data.
+  possessive: true
+megalodon:
+  long: Tool to extract high accuracy modified base and sequence variant calls from
+    raw nanopore reads
+  possessive: true
+metaWRAP:
+  long: Flexible pipeline for genome-resolved metagenomic data analysis.
+  possessive: true
+miRDeep2:
+  long: Completely overhauled tool which discovers microRNA genes by analyzing sequenced
+    RNAs
+  possessive: true
+midl:
+  long: The Met Office library is a collection of routines written in IDL at the Met
+    Office, originally written in PV-WAVE in the Hadley Centre in the early 1990s,
+    with development continuing to the present day. Its main purpose is to support
+    analysis and visualisation of PP data produced by the Unified Model (UM).
+  possessive: true
+mimalloc:
+  long: mimalloc is a general purpose allocator with excellent performance characteristics.
+  possessive: true
+miniasm:
+  long: Fast OLC-based de novo assembler for noisy long reads.
+  possessive: true
+minieigen:
+  long: A small wrapper for core parts of Eigen, c++ library for linear algebra.
+  possessive: true
+minimap2:
+  long: Minimap2 is a fast sequence mapping and alignment
+  possessive: true
+mjpegtools:
+  long: The mjpeg programs are a set of tools that can do recording of videos and
+    playback, simple cut-and-paste editing and the MPEG compression of audio and video
+    under Linux.
+  possessive: true
+mlpack:
+  long: Fast, and flexible C++ machine learning library with bindings to other languages
+  possessive: true
+mo_tidl:
+  long: The Met Office library is a collection of routines written in IDL at the Met
+    Office, originally written in PV-WAVE in the Hadley Centre in the early 1990s,
+    with development continuing to the present day. Its main purpose is to support
+    analysis and visualisation of PP data produced by the Unified Model (UM).
+  possessive: true
+modbam2bed:
+  long: A program to aggregate modified base counts stored in a modified-base BAM
+    file to a bedMethyl file.
+  possessive: true
+mpi4py:
+  long: This package provides Python bindings for the Message Passing Interface (MPI)
+    standard. It is implemented on top of the MPI-1/2/3 specification and exposes
+    an API which grounds on the standard MPI-2 C++ bindings.
+  possessive: true
+mpifileutils:
+  long: MPI-Based File Utilities For Distributed Systems
+  possessive: true
+muParser:
+  long: muParser is an extensible high performance math expression
+  possessive: true
+nano:
+  long: nano is a text editor.
+  possessive: true
+nanoQC:
+  long: Create fastQC-like plots for Oxford Nanopore sequencing data.
+  possessive: true
+nanofilt:
+  long: Filtering and trimming of long read sequencing data.
+  possessive: true
+nanoget:
+  long: Functions to extract information from Oxford Nanopore sequencing data and
+    alignments
+  possessive: true
+nanomath:
+  long: A few simple math function for other Oxford Nanopore processing scripts
+  possessive: true
+nanopolish:
+  long: Software package for signal-level analysis of Oxford Nanopore sequencing data.
+  possessive: true
+ncbi-vdb:
+  long: The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for
+  possessive: true
+nccmp:
+  long: nccmp compares two NetCDF files bitwise, semantically or with a user defined
+    tolerance (absolute or relative percentage). Parallel comparisons are done in
+    local memory without requiring temporary files. Highly recommended for regression
+    testing scientific models or datasets in a test-driven development environment.
+  possessive: true
+ncurses:
+  long: ''
+  possessive: true
+ncview:
+  long: Visual browser for netCDF format files.
+  possessive: true
+ne:
+  long: ne is a free (GPL'd) text editor based on the POSIX standard
+  possessive: true
+nearline:
+  long: NeSI nearline client provides 'End User' access to NeSI's archive filesystem
+    Nearline which is connected to a Tape library.
+  possessive: true
+netCDF:
+  long: NetCDF (network Common Data Form) is a set of software libraries
+  possessive: true
+netCDF-C++:
+  long: NetCDF (network Common Data Form) is a set of software libraries
+  possessive: true
+netCDF-C++4:
+  long: NetCDF (network Common Data Form) is a set of software libraries   and machine-independent
+    data formats that support the creation, access, and sharing of array-oriented   scientific
+    data.
+  possessive: true
+netCDF-Fortran:
+  long: NetCDF (network Common Data Form) is a set of software libraries   and machine-independent
+    data formats that support the creation, access, and sharing of array-oriented   scientific
+    data.
+  possessive: true
+nettle:
+  long: Nettle is a cryptographic library that is designed to fit easily
+  possessive: true
+networkx:
+  long: NetworkX is a Python package for the creation, manipulation, and study of
+    the structure, dynamics,
+  possessive: true
+nodejs:
+  long: Node.js is a platform built on Chrome's JavaScript runtime  for easily building
+    fast, scalable network applications. Node.js uses an  event-driven, non-blocking
+    I/O model that makes it lightweight and efficient,  perfect for data-intensive
+    real-time applications that run across distributed devices.
+  possessive: true
+nseg:
+  long: Used to mask nucleic acid sequences
+  possessive: true
+nsync:
+  long: nsync is a C library that exports various synchronization primitives, such
+    as mutexes
+  possessive: true
+nullarbor:
+  long: Reads to report pipeline for bacterial isolate NGS data.
+  possessive: true
+numactl:
+  long: ''
+  possessive: true
+ont-guppy-gpu:
+  long: Data processing toolkit that contains the Oxford Nanopore Technologies' basecalling
+    algorithms,
+  possessive: true
+padloc:
+  long: Prokaryotic Antiviral Defence LOCator
+  possessive: true
+pairtools:
+  long: CLI tools to process mapped Hi-C data
+  possessive: true
+panaroo:
+  long: A pangenome analysis pipeline.
+  possessive: true
+pandoc:
+  long: Almost universal document converter
+  possessive: true
+parallel-fastq-dump:
+  long: parallel fastq-dump wrapper
+  possessive: true
+parasail:
+  long: parasail is a SIMD C (C99) library containing implementations
+  possessive: true
+patchelf:
+  long: PatchELF is a small utility to modify the dynamic linker and RPATH of ELF
+    executables.
+  possessive: true
+pauvre:
+  long: Tools for plotting Oxford Nanopore and other long-read data.
+  possessive: true
+pfunit:
+  long: pFUnit is a unit testing framework enabling JUnit-like testing of serial  and
+    MPI-parallel software written in Fortran.
+  possessive: true
+phyx:
+  long: phyx performs phylogenetics analyses on trees and sequences.
+  possessive: true
+picard:
+  long: A set of tools (in Java) for working with next generation sequencing data
+    in the BAM format.
+  possessive: true
+pigz:
+  long: ''
+  possessive: true
+pixman:
+  long: Pixman is a low-level software library for pixel manipulation, providing features
+    such as image
+  possessive: true
+pkg-config:
+  long: ''
+  possessive: true
+pplacer:
+  long: Places query sequences on a fixed reference phylogenetic tree
+  possessive: true
+preseq:
+  long: Software for predicting library complexity and genome coverage in high-throughput
+    sequencing.
+  possessive: true
+prodigal:
+  long: Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
+  possessive: true
+prodigal-gv:
+  long: A fork of Prodigal meant to improve gene calling
+  possessive: true
+prokka:
+  long: Prokka is a software tool for the rapid annotation of prokaryotic genomes.
+  possessive: true
+proovread:
+  long: PacBio hybrid error correction through iterative short read consensus
+  possessive: true
+protobuf:
+  long: Google Protocol Buffers
+  possessive: true
+protobuf-python:
+  long: Python Protocol Buffers runtime library.
+  possessive: true
+psmc:
+  long: Infers population size history from a diploid sequence using the PSMC model.
+  possessive: true
+pstoedit:
+  long: pstoedit translates PostScript and PDF graphics into other vector formats.
+  possessive: true
+pullseq:
+  long: Utility program for extracting sequences from a fasta/fastq file
+  possessive: true
+purge_dups:
+  long: purge haplotigs and overlaps in an assembly based on read depth
+  possessive: true
+purge_haplotigs:
+  long: Pipeline to help with curating heterozygous diploid genome assemblies
+  possessive: true
+pv:
+  long: Monitors the progress of data through a unix pipeline.
+  possessive: true
+pyani:
+  long: Whole-genome classification using Average Nucleotide Identity
+  possessive: true
+pycoQC:
+  long: Computes metrics and generates interactive QC plots for Oxford Nanopore technologies
+    sequencing data.
+  possessive: true
+pymol-open-source:
+  long: PyMOL (open source version) molecular visualization system.
+  possessive: true
+pyspoa:
+  long: Python bindings to spoa.
+  possessive: true
+qcat:
+  long: Command-line tool for demultiplexing Oxford Nanopore reads from FASTQ files
+  possessive: true
+rDock:
+  long: rDock is a fast and versatile Open Source docking program that
+  possessive: true
+randfold:
+  long: Minimum free energy of folding randomization test software
+  possessive: true
+rasusa:
+  long: Randomly subsample sequencing reads to a specified coverage.
+  possessive: true
+razers3:
+  long: Tool for mapping millions of short genomic reads onto a reference genome.
+  possessive: true
+rclone:
+  long: ''
+  possessive: true
+re2c:
+  long: re2c is a free and open-source lexer generator for C and C++. Its main goal
+    is generating
+  possessive: true
+rkcommon:
+  long: ''
+  possessive: true
+rnaQUAST:
+  long: Tool for evaluating RNA-Seq assemblies using reference genome and gene database
+  possessive: true
+rsync:
+  long: rsync is an open source utility that provides fast incremental file transfer.  rsync
+    is freely available under the GNU General Public License
+  possessive: true
+rust-fmlrc:
+  long: FM-index Long Read Corrector (Rust implementation)
+  possessive: true
+samblaster:
+  long: samblaster is a fast and flexible program for marking duplicates in read-id
+    grouped paired-end SAM files.
+  possessive: true
+samclip:
+  long: Filter SAM file for soft and hard clipped alignments.
+  possessive: true
+sbt:
+  long: sbt is a build tool for Scala, Java, and more.
+  possessive: true
+seqmagick:
+  long: Seqmagick is a utility built in the spirit of imagemagick to expose the
+  possessive: true
+seqtk:
+  long: Seqtk is a fast and lightweight tool for processing sequences in the FASTA
+    or FASTQ format.
+  possessive: true
+shumlib:
+  long: Shumlib is the collective name for a set of libraries which are used by the
+    UM; the UK Met Office's Unified Model, that may be of use to external tools or
+    applications where identical functionality is desired. The hope of the project
+    is to enable developers to quickly and easily access parts of the UM code that
+    are commonly duplicated elsewhere, at the same time benefiting from any improvements
+    or optimisations that might be made in support of the UM itself.
+  possessive: true
+sismonr:
+  long: Simulation of In Silico Multi-Omic Networks R package.
+  possessive: true
+slow5tools:
+  long: Toolkit for converting (FAST5 <-> SLOW5), compressing, viewing, indexing
+  possessive: true
+smafa:
+  long: Smafa attempts to align or cluster pre-aligned biological sequences, handling
+    sequences
+  possessive: true
+smoove:
+  long: simplifies and speeds calling and genotyping SVs for short reads.
+  possessive: true
+snakemake:
+  long: The Snakemake workflow management system is a tool to create reproducible
+    and scalable data analyses.
+  possessive: true
+snaphu:
+  long: SNAPHU is an implementation of the Statistical-cost, Network-flow Algorithm
+    for Phase Unwrapping
+  possessive: true
+snappy:
+  long: Snappy is a compression/decompression library. It does not aim for maximum
+    compression, or compatibility with any other compression library; instead, it
+    aims for very high speeds and reasonable compression.
+  possessive: true
+snp-sites:
+  long: Finds SNP sites from a multi-FASTA alignment file.
+  possessive: true
+snpEff:
+  long: SnpEff is a variant annotation and effect prediction tool.
+  possessive: true
+somalier:
+  long: extract informative sites, evaluate relatedness, and
+  possessive: true
+spaln:
+  long: Stand-alone program that maps and aligns a set of cDNA or protein sequences
+    onto a whole genomic sequence in a single job.
+  possessive: true
+spdlog:
+  long: Fast C++ logging library.
+  possessive: true
+spglib:
+  long: Spglib is a C library for finding and handling crystal symmetries.
+  possessive: true
+splat:
+  long: Splat deploys (builds and installs) the components of heterogenous systems
+    such as cylc suites, described by splat config files, into target directory trees.
+  possessive: true
+spoa:
+  long: c++ implementation of the partial order alignment (POA) algorithm
+  possessive: true
+sratoolkit:
+  long: The SRA Toolkit, and the source-code SRA System Development
+  possessive: true
+srun-wrapper:
+  long: Provides an mpirun script which merely wraps the srun command.
+  possessive: true
+sublime:
+  long: Text editor with GUI
+  possessive: true
+swarm:
+  long: A robust and fast clustering method for amplicon-based studies.
+  possessive: true
+swissknife:
+  long: Perl module for reading and writing UniProtKB data in plain text format.
+  possessive: true
+tRNAscan-SE:
+  long: Transfer RNA detection
+  possessive: true
+tabix:
+  long: Generic indexer for TAB-delimited genome position files
+  possessive: true
+tabixpp:
+  long: C++ wrapper to tabix indexer
+  possessive: true
+tbb:
+  long: Intel(R) Threading Building Blocks (Intel(R) TBB) lets you easily write parallel
+    C++ programs that
+  possessive: true
+tbl2asn:
+  long: Command-line program that automates the creation of
+  possessive: true
+tmux:
+  long: tmux is a terminal multiplexer. It lets you switch easily
+  possessive: true
+trf:
+  long: Locates tandem repeats in DNA sequences.
+  possessive: true
+trimAl:
+  long: Tool for automated alignment trimming in large-scale phylogenetic analyses
+  possessive: true
+um2netcdf:
+  long: um2netcdf converts Unified Model output files in fieldsfile format into netCDF
+    format.
+  possessive: true
+unimap:
+  long: Fork of minimap2 optimized for assembly-to-reference
+  possessive: true
+unrar:
+  long: RAR is a powerful archive manager.
+  possessive: true
+util-linux:
+  long: Set of Linux utilities
+  possessive: true
+vcflib:
+  long: Genetic variant detector designed to find polymorphisms smaller than the length
+    of a short-read sequencing alignment.
+  possessive: true
+vg:
+  long: variation graph data structures, interchange formats, alignment, genotyping,
+    and variant calling methods
+  possessive: true
+wgsim:
+  long: Wgsim is a small tool for simulating sequence reads from a reference genome.
+  possessive: true
+wheel:
+  long: A built-package format for Python.
+  possessive: true
+wtdbg:
+  long: de novo sequence assembler for long noisy reads produced by PacBio or Oxford
+    Nanopore Technologies.
+  possessive: true
+wxWidgets:
+  long: widget toolkit and tools library for creating graphical user interfaces for
+    cross-platform applications.
+  possessive: true
+x264:
+  long: ''
+  possessive: true
+x265:
+  long: ''
+  possessive: true
+xbitmaps:
+  long: provides bitmaps for x
+  possessive: true
+xkbcommon:
+  long: keyboard keymap compiler and support library
+  possessive: true
+yacrd:
+  long: Chimeric Read Detector for long reads
+  possessive: true
+yajl:
+  long: Yet Another JSON Library. Why does the world need another C library for parsing
+    JSON? Good question.
+  possessive: true
+yak:
+  long: Yet another k-mer analyzer
+  possessive: true
+yaml-cpp:
+  long: YAML parser and emitter in C++
+  possessive: true
+zlib:
+  long: zlib is designed to be a free, general-purpose, legally unencumbered -- that
+    is,
+  possessive: true
+zstd:
+  long: Zstandard is a real-time compression algorithm, providing high compression
+    ratios.  It offers a very wide range of compression/speed trade-off, while being
+    backed by a very fast decoder.  It also offers a special mode for small data,
+    called dictionary compression, and can create dictionaries  from any sample set.
+  possessive: true
