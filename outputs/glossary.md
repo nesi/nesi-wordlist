@@ -2990,6 +2990,10 @@ Visual browser for netCDF format files.
 
 ne is a free (GPL'd) text editor based on the POSIX standard
 
+**nearline:**
+
+NeSI nearline client provides 'End User' access to NeSI's archive filesystem Nearline which is connected to a Tape library.
+
 **netCDF:**
 
 NetCDF (network Common Data Form) is a set of software libraries
