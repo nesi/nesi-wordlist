@@ -197,7 +197,6 @@ CRAMINO
 CRLF
 CTPL's
 CTPL
-CUDA's
 CUDA
 CUnit's
 CUnit
@@ -473,7 +472,6 @@ Gubbins's
 Gubbins
 Guile's
 Guile
-HDF's
 HDF
 HDF-EOS's
 HDF-EOS
@@ -1020,6 +1018,7 @@ SDL2's
 SDL2
 SEPP's
 SEPP
+SFTP
 SHAPEIT4's
 SHAPEIT4
 SIF
@@ -1696,6 +1695,7 @@ ncview's
 ncview
 ne's
 ne
+nearline's
 nearline
 netCDF's
 netCDF
@@ -1892,6 +1892,7 @@ swarm's
 swarm
 swissknife's
 swissknife
+symlink
 tRNAscan-SE's
 tRNAscan-SE
 tabix's
