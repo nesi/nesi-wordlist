@@ -1094,6 +1094,7 @@ Spack's
 Spack
 Spark's
 Spark
+SquashFS
 SqueezeMeta's
 SqueezeMeta
 Stacks's
@@ -1345,6 +1346,7 @@ dataset
 deepTools's
 deepTools
 deprioritised
+dereference
 devtools's
 devtools
 double-conversion's
@@ -1445,6 +1447,8 @@ gimpi's
 gimpi
 git's
 git
+glob
+globbing
 globus-automate-client's
 globus-automate-client
 globus-compute-endpoint's
