@@ -73,3 +73,5 @@ SSHFS:
   short: Secure SHell File System
 REANNZ: 
   short: Research Education Advanced Network New Zealand
+OOM: 
+  short: Out of Memory
