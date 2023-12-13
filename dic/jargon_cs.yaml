@@ -50,3 +50,7 @@ scalable:
 validator:
 benchmark: &benchmark
 benchmarking: *benchmark
+Bourne:
+authenticator:
+  plural: True
+  possessive: True
