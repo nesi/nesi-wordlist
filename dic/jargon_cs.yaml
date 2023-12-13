@@ -8,6 +8,8 @@ SquashFS:
 glob: &glob
   short: A pattern that specifies sets of filenames with wildcard characters, used by the Unix Bash shell.
 globbing: *glob
+symlink:
+  short: Symbolic Link
 nobackup:
 checkpointing:
 checksum:
