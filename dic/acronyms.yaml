@@ -8,6 +8,16 @@ CPU:
   long:  Slectronic circuitry executes instructions of a computer program.
   plural: True
   possessive: True
+OSX:
+  short: macOS
+UTF:
+  short: Unicode Transformation Format
+CRLF:
+  short: Carriage Return Line Feed
+LF:
+  short: Line Feed
+EOL:
+  short: End of Line
 CUDA:
   short: Compute Unified Device Architecture
 GPU:
@@ -36,6 +46,9 @@ NIWA:
   long:  Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
   possessive: True
 NZ:
+  short: New Zealand
+TZ:
+  short: Time Zone
 SCP: 
   short: Secure Copy Protocol
   long: Means of securely transferring files between over an SSH connection.
@@ -51,6 +64,10 @@ VPN:
   long: Method of extending access to a private network.
 WSL: 
   short: Windows Subsystem for Linux
+NZST: 
+  short: New Zealand Standard Time
+NZDT: 
+  short: New Zealand Daylight Time
 YAML:
   short: Yet Another Markup Language
 supercomputer: *hpc
