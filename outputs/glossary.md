@@ -362,6 +362,10 @@ A tool for quick quality assessment of cram and bam files, intended for long rea
 
 C++ Thread Pool Library
 
+**CUDA:**
+
+CUDA (formerly Compute Unified Device Architecture) is a parallel  computing platform and programming model created by NVIDIA and implemented by the  graphics processing units (GPUs) that they produce. CUDA gives developers access  to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
+
 **CUnit:**
 
 Automated testing framework for C.
@@ -844,7 +848,7 @@ Guile is the GNU Ubiquitous Intelligent Language for Extensions,
 
 **HDF:**
 
-A set of file formats designed to store and organize large amounts of data.
+HDF (also known as HDF4) is a library and multi-object file format for  storing and managing data between machines.
 
 **HDF-EOS:**
 
@@ -2989,10 +2993,6 @@ Visual browser for netCDF format files.
 **ne:**
 
 ne is a free (GPL'd) text editor based on the POSIX standard
-
-**nearline:**
-
-NeSI nearline client provides 'End User' access to NeSI's archive filesystem Nearline which is connected to a Tape library.
 
 **netCDF:**
 

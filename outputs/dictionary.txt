@@ -194,8 +194,10 @@ CPU's
 CPU
 CRAMINO's
 CRAMINO
+CRLF
 CTPL's
 CTPL
+CUDA's
 CUDA
 CUnit's
 CUnit
@@ -309,6 +311,7 @@ EMIRGE's
 EMIRGE
 ENMTML's
 ENMTML
+EOL
 ESMF's
 ESMF
 ETE's
@@ -470,6 +473,7 @@ Gubbins's
 Gubbins
 Guile's
 Guile
+HDF's
 HDF
 HDF-EOS's
 HDF-EOS
@@ -585,6 +589,7 @@ LDC's
 LDC
 LEfSe's
 LEfSe
+LF
 LINKS's
 LINKS
 LLVM's
@@ -756,6 +761,8 @@ NVHPC
 NWChem's
 NWChem
 NZ
+NZDT
+NZST
 Nano
 NanoComp's
 NanoComp
@@ -800,6 +807,7 @@ OSPRay's
 OSPRay
 OSU-Micro-Benchmarks's
 OSU-Micro-Benchmarks
+OSX
 OTF2's
 OTF2
 Octave's
@@ -1123,6 +1131,7 @@ TURBOMOLE's
 TURBOMOLE
 TWL-NINJA's
 TWL-NINJA
+TZ
 Tcl's
 Tcl
 TensorFlow's
@@ -1166,6 +1175,7 @@ UDUNITS's
 UDUNITS
 USEARCH's
 USEARCH
+UTF
 Unicycler's
 Unicycler
 VASP's
@@ -1686,7 +1696,6 @@ ncview's
 ncview
 ne's
 ne
-nearline's
 nearline
 netCDF's
 netCDF
