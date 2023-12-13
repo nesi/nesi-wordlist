@@ -150,6 +150,7 @@ BlenderPy's
 BlenderPy
 Boost's
 Boost
+Bourne
 Bowtie's
 Bowtie
 Bowtie2's
@@ -1269,6 +1270,10 @@ at-spi2-core's
 at-spi2-core
 attr's
 attr
+authenticators's
+authenticators
+authenticator's
+authenticator
 azul-zulu's
 azul-zulu
 bamUtil's
