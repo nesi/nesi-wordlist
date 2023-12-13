@@ -52,6 +52,8 @@ TZ:
 SCP: 
   short: Secure Copy Protocol
   long: Means of securely transferring files between over an SSH connection.
+SFTP:
+  short: Secure File Transfer Protocol 
 SSH:
   short: Secure Shell
   long: A network communication protocol that enables two computers to communicate
