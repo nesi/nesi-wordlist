@@ -2,6 +2,12 @@
 # Jargon
 eScience:
 nearline:
+dereference:
+SquashFS:
+  short: Compressed read-only file system for Linux.
+glob: &glob
+  short: A pattern that specifies sets of filenames with wildcard characters, used by the Unix Bash shell.
+globbing: *glob
 nobackup:
 checkpointing:
 checksum:
