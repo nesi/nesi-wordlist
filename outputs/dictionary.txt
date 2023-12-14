@@ -197,6 +197,7 @@ CRAMINO
 CRLF
 CTPL's
 CTPL
+CUDA's
 CUDA
 CUnit's
 CUnit
@@ -472,6 +473,7 @@ Gubbins's
 Gubbins
 Guile's
 Guile
+HDF's
 HDF
 HDF-EOS's
 HDF-EOS
@@ -1671,6 +1673,7 @@ muParser's
 muParser
 multithread
 multithreaded
+multithreading
 namespaces
 namespace
 nano's
@@ -1695,7 +1698,6 @@ ncview's
 ncview
 ne's
 ne
-nearline's
 nearline
 netCDF's
 netCDF
@@ -1904,6 +1906,7 @@ tbb
 tbl2asn's
 tbl2asn
 templating
+tmpfs
 tmux's
 tmux
 toolchains
