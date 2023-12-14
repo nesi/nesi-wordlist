@@ -40,6 +40,7 @@ templating:
 hyperthreading:
 multithread: &smp
 multithreaded: *smp
+multithreading: *smp
 XC:
 config:
 executable: &exe
@@ -59,6 +60,8 @@ validator:
 benchmark: &benchmark
 benchmarking: *benchmark
 Bourne:
+tmpfs:
+    short: Temporary file storage paradigm implemented in many Unix-like operating systems.
 authenticator:
   plural: True
   possessive: True
