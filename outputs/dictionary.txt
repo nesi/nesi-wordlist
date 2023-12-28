@@ -447,6 +447,7 @@ GUSHR's
 GUSHR
 Gaussian's
 Gaussian
+Gbps
 Gdk-Pixbuf's
 Gdk-Pixbuf
 GeneMark
@@ -1289,6 +1290,7 @@ authenticator's
 authenticator
 azul-zulu's
 azul-zulu
+backplane
 bamUtil's
 bamUtil
 barrnap's
