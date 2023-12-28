@@ -20,6 +20,10 @@ EOL:
   short: End of Line
 CUDA:
   short: Compute Unified Device Architecture
+GPG:
+  short: GNU Privacy Guard
+GNU:
+  short: GNU's Not Unix!
 GPU:
   short: Graphics Processing Unit
   plural: True
