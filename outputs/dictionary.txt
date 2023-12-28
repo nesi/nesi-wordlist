@@ -461,6 +461,8 @@ GetOrganelle's
 GetOrganelle
 GitHub's
 GitHub
+GitLab's
+GitLab
 Glib
 GlimmerHMM's
 GlimmerHMM
