@@ -414,10 +414,12 @@ GMP's
 GMP
 GMT's
 GMT
+GNU
 GOLD's
 GOLD
 GObject-Introspection's
 GObject-Introspection
+GPG
 GPGPUs
 GPGPU
 GPUs
