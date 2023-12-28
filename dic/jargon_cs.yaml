@@ -60,6 +60,9 @@ validator:
 benchmark: &benchmark
 benchmarking: *benchmark
 Bourne:
+backplane:
+Gbps:
+  short: Gigabit per second
 tmpfs:
     short: Temporary file storage paradigm implemented in many Unix-like operating systems.
 authenticator:
