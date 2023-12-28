@@ -12,6 +12,8 @@ Lmod:
   possessive: True
 JupyterHub:
   possessive: True
+GitLab:
+  possessive: True
 GitHub:
   possessive: True
 OpenMP: &omp
