@@ -10,8 +10,12 @@ CPU:
   possessive: True
 OSX:
   short: macOS
+GDB:
+  short: GNU Debugger
 UTF:
   short: Unicode Transformation Format
+CLI:
+  short: Command Line Interface
 CRLF:
   short: Carriage Return Line Feed
 LF:
@@ -96,5 +100,13 @@ SSHFS:
   short: Secure SHell File System
 REANNZ: 
   short: Research Education Advanced Network New Zealand
+QoS:
+  short: Quality of Service
+MD5:
+  short: Message-digest Algorithm
+SHA-1:
+  short: Secure Hash Algorithm 1
+SHA-256:
+  short: Secure Hash Algorithm 256
 OOM: 
   short: Out of Memory
