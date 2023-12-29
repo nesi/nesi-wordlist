@@ -789,6 +789,8 @@ NanoStat
 Nanopore
 NeSI's
 NeSI
+New Zealanders
+New Zealander
 Newton-X's
 Newton-X
 NextGenMap's
