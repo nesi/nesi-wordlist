@@ -11,6 +11,7 @@ globbing: *glob
 symlink:
   short: Symbolic Link
 nobackup:
+chiplets:
 checkpointing:
 checksum:
   plural: True
