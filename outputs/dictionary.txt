@@ -53,6 +53,8 @@ AdapterRemoval's
 AdapterRemoval
 Advisor's
 Advisor
+Allinea's
+Allinea
 AlphaFold's
 AlphaFold
 AlphaFold2DB's
