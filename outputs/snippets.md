@@ -386,6 +386,8 @@
 *[GOLD]: A genetic algorithm for docking flexible ligands into protein binding sites
 *[GObject-Introspection's]: GObject introspection is a middleware layer between C libraries
 *[GObject-Introspection]: GObject introspection is a middleware layer between C libraries
+*[GPFS's]: High-performance clustered file system software developed by IBM.
+*[GPFS]: High-performance clustered file system software developed by IBM.
 *[GRADS's]: The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
 *[GRADS]: The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
 *[GRASS's]: The Geographic Resources Analysis Support System - used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization
@@ -990,6 +992,8 @@
 *[Spack]: Spack is a package manager for supercomputers, Linux, and macOS. It makes installing scientific
 *[Spark's]: Spark is Hadoop MapReduce done in memory
 *[Spark]: Spark is Hadoop MapReduce done in memory
+*[Spectrum Scale's]: High-performance clustered file system software developed by IBM.
+*[Spectrum Scale]: High-performance clustered file system software developed by IBM.
 *[SqueezeMeta's]: fully automated metagenomics pipeline, from reads to bins.
 *[SqueezeMeta]: fully automated metagenomics pipeline, from reads to bins.
 *[Stacks's]: Stacks is a software pipeline for building loci from short-read sequences, such as those generated on

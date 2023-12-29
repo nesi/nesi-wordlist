@@ -770,6 +770,10 @@ A genetic algorithm for docking flexible ligands into protein binding sites
 
 GObject introspection is a middleware layer between C libraries
 
+**GPFS:**
+
+High-performance clustered file system software developed by IBM.
+
 **GRADS:**
 
 The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
@@ -1985,6 +1989,10 @@ Spack is a package manager for supercomputers, Linux, and macOS. It makes instal
 **Spark:**
 
 Spark is Hadoop MapReduce done in memory
+
+**Spectrum Scale:**
+
+High-performance clustered file system software developed by IBM.
 
 **SqueezeMeta:**
 
