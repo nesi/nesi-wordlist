@@ -49,6 +49,7 @@ HPC: &hpc
   long: Like a regular computer, but larger. Primarily used for heating data centers.
   plural: True
 HTTPS:
+HGX:
 MPI:
   short: Message Passing Interface
   long: A standardised message-passing standard designed to function on parallel computing architectures.
@@ -60,6 +61,8 @@ NIWA:
   short: National Institute of Water and Atmospheric Research
   long:  Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
   possessive: True
+TRES:
+  short: TRackable RESources
 NZ:
   short: New Zealand
 TZ:
