@@ -1351,6 +1351,7 @@ checksums
 checksum
 chewBBACA's
 chewBBACA
+chiplets
 chopper's
 chopper
 config
