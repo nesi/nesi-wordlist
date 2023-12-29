@@ -37,7 +37,8 @@ fileset:
   plural: True
 tooltip:
 templating:
-hyperthreading:
+hyperthreading: &hyperthread
+hyperthreaded: *hyperthread
 multithread: &smp
 multithreaded: *smp
 multithreading: *smp
