@@ -17,6 +17,7 @@ checksum:
 toolchain:
   plural: True
 precompiled:
+fairshare:
 namespace:
   plural: True
 runtime:
