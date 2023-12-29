@@ -177,6 +177,7 @@ CFITSIO's
 CFITSIO
 CGAL's
 CGAL
+CLI
 CMIP
 CMake's
 CMake
@@ -400,6 +401,7 @@ GD's
 GD
 GDAL's
 GDAL
+GDB
 GEMMA's
 GEMMA
 GEOS's
@@ -643,6 +645,7 @@ MCL's
 MCL
 MCR's
 MCR
+MD5
 MEGAHIT's
 MEGAHIT
 METABOLIC's
@@ -946,6 +949,7 @@ QIIME2's
 QIIME2
 QUAST's
 QUAST
+QoS
 Qt5's
 Qt5
 QuantumESPRESSO's
@@ -1028,6 +1032,8 @@ SDL2
 SEPP's
 SEPP
 SFTP
+SHA-1
+SHA-256
 SHAPEIT4's
 SHAPEIT4
 SIF
@@ -1500,6 +1506,7 @@ hunspell's
 hunspell
 hwloc's
 hwloc
+hyperthreaded
 hyperthreading
 hypothesis's
 hypothesis
