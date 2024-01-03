@@ -2,7 +2,7 @@
 # Acronyms
 ACL:
   short: Access Control List
-  plural: true
+  plural: True
 CPU:
   short: Central Processing Unit
   long:  Slectronic circuitry executes instructions of a computer program.
@@ -33,7 +33,7 @@ GPG:
 GPFS: &gpfs
   short: General Parallel File System
   long: High-performance clustered file system software developed by IBM.
-  possessive: true
+  possessive: True
 Spectrum Scale: *gpfs
 GNU:
   short: GNU's Not Unix!
@@ -124,6 +124,10 @@ SHA-256:
   short: Secure Hash Algorithm 256
 OOM: 
   short: Out of Memory
+GUI:
+  short: Graphical User Interface
+  long: A digital interface in which a user interacts with graphical components such as icons, buttons, and menus.
+  plural: True
 XVFB: 
   short: X Virtual FrameBuffer
   long: |
