@@ -932,6 +932,7 @@ Porechop's
 Porechop
 PostgreSQL's
 PostgreSQL
+PowerShell
 Prodigal's
 Prodigal
 ProtHint's
