@@ -8,6 +8,8 @@ CPU:
   long:  Slectronic circuitry executes instructions of a computer program.
   plural: True
   possessive: True
+LTS:
+  short: Long-Term Support
 OSX:
   short: macOS
 GDB:
