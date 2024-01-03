@@ -124,3 +124,9 @@ SHA-256:
   short: Secure Hash Algorithm 256
 OOM: 
   short: Out of Memory
+XVFB: 
+  short: X Virtual FrameBuffer
+  long: |
+    A display server implementing the X11 display server protocol, XVFB performs all graphical operations in virtual memory without showing any screen output.
+    This allows applications that 'require' a GUI to run in a command line environment. Can be invoked with `xvfb-run`.
+  
