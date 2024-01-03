@@ -614,6 +614,7 @@ LSD2's
 LSD2
 LTR_retriever's
 LTR_retriever
+LTS
 LUMPY's
 LUMPY
 LZO's
