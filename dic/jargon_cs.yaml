@@ -18,6 +18,8 @@ checksum:
 toolchain:
   plural: True
 precompiled:
+PowerShell:
+  short: Windows Command Line Shell
 fairshare:
 namespace:
   plural: True
