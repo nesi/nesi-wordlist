@@ -8,6 +8,8 @@ CPU:
   long:  Slectronic circuitry executes instructions of a computer program.
   plural: True
   possessive: True
+CWL:
+  short: Common Workflow Language
 LTS:
   short: Long-Term Support
 OSX:
@@ -128,6 +130,8 @@ GUI:
   short: Graphical User Interface
   long: A digital interface in which a user interacts with graphical components such as icons, buttons, and menus.
   plural: True
+GDC:
+  short: Genomics Data Carpentry
 XVFB: 
   short: X Virtual FrameBuffer
   long: |
