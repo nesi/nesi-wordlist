@@ -47,6 +47,7 @@ ARIBA's
 ARIBA
 ATK's
 ATK
+ATL
 AUGUSTUS's
 AUGUSTUS
 AdapterRemoval's
@@ -204,6 +205,7 @@ CUDA's
 CUDA
 CUnit's
 CUnit
+CWL
 Canu's
 Canu
 CapnProto's
@@ -403,6 +405,7 @@ GD
 GDAL's
 GDAL
 GDB
+GDC
 GEMMA's
 GEMMA
 GEOS's
@@ -452,6 +455,8 @@ GTK+'s
 GTK+
 GTS's
 GTS
+GUIs
+GUI
 GUSHR's
 GUSHR
 Gaussian's
@@ -852,6 +857,7 @@ OpenMP's
 OpenMP
 OpenMPI's
 OpenMPI
+OpenSSH
 OpenSSL's
 OpenSSL
 OpenSees's
@@ -1268,6 +1274,7 @@ XMDS2's
 XMDS2
 XSD's
 XSD
+XVFB
 XZ's
 XZ
 Xerces-C++'s
@@ -1958,6 +1965,7 @@ util-linux
 validator
 vcflib's
 vcflib
+vectorisation
 vg's
 vg
 walltimes

@@ -408,6 +408,8 @@
 *[GTK+]: GTK+ is the primary library used to construct user interfaces in GNOME.
 *[GTS's]: GTS stands for the GNU Triangulated Surface Library.  It is an Open Source Free Software Library intended to provide a set of useful  functions to deal with 3D surfaces meshed with interconnected triangles.
 *[GTS]: GTS stands for the GNU Triangulated Surface Library.  It is an Open Source Free Software Library intended to provide a set of useful  functions to deal with 3D surfaces meshed with interconnected triangles.
+*[GUIs]: A digital interface in which a user interacts with graphical components such as icons, buttons, and menus.
+*[GUI]: A digital interface in which a user interacts with graphical components such as icons, buttons, and menus.
 *[GeneMark-ES's]: Eukaryotic gene prediction suite with automatic training
 *[GeneMark-ES]: Eukaryotic gene prediction suite with automatic training
 *[GenomeThreader's]: GenomeThreader is a software tool to compute gene structure predictions.
@@ -1119,6 +1121,9 @@
 *[XMDS2]: Fast integrator of stochastic partial differential equations.
 *[XSD's]: CodeSynthesis XSD is an open-source, cross-platform W3C XML Schema to C++ data binding compiler.
 *[XSD]: CodeSynthesis XSD is an open-source, cross-platform W3C XML Schema to C++ data binding compiler.
+*[XVFB]: A display server implementing the X11 display server protocol, XVFB performs all graphical operations in virtual memory without showing any screen output.
+This allows applications that 'require' a GUI to run in a command line environment. Can be invoked with `xvfb-run`.
+
 *[XZ's]: xz: XZ utilities
 *[XZ]: xz: XZ utilities
 *[Xerces-C++'s]: Xerces-C++ is a validating XML parser written in a portable
