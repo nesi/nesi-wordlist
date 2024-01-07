@@ -3,6 +3,8 @@
 ACL:
   short: Access Control List
   plural: True
+ATL:
+  short: Automatic Tape Library
 CPU:
   short: Central Processing Unit
   long:  Slectronic circuitry executes instructions of a computer program.
