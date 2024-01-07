@@ -8,7 +8,8 @@ Slurm:
   possessive: True
 Glib: 
 Skylake:
-OpenSSL: A software library for applications that provide secure communications over computer networks.
+OpenSSL: 
+  short: A software library for applications that provide secure communications over computer networks.
 OpenSSH: 
   short: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
 Lmod:
