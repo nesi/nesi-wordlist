@@ -1876,6 +1876,7 @@ seqmagick's
 seqmagick
 seqtk's
 seqtk
+setgid
 shumlib's
 shumlib
 sismonr's
