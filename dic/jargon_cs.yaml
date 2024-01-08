@@ -70,6 +70,7 @@ Bourne:
 backplane:
 Gbps:
   short: Gigabit per second
+setgid:
 tmpfs:
     short: Temporary file storage paradigm implemented in many Unix-like operating systems.
 authenticator:
