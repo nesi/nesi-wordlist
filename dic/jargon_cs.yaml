@@ -76,3 +76,6 @@ tmpfs:
 authenticator:
   plural: True
   possessive: True
+tooltip:
+  plural: True
+  possessive: True
