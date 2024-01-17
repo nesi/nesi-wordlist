@@ -1950,6 +1950,9 @@ tmux's
 tmux
 toolchains
 toolchain
+tooltips's
+tooltips
+tooltip's
 tooltip
 transcriptomes
 transcriptome
