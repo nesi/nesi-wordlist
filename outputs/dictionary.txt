@@ -1366,6 +1366,7 @@ chewBBACA
 chiplets
 chopper's
 chopper
+collapsable
 config
 cromwell's
 cromwell
