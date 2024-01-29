@@ -5,11 +5,15 @@ ACL:
   plural: True
 ATL:
   short: Automatic Tape Library
+PFR:
+  short: Plant and Food Research
 UoA: 
   short: University of Auckland
+MWLR:
+  short: Manaaki Whenua Landcare Research
 CPU:
   short: Central Processing Unit
-  long:  Slectronic circuitry executes instructions of a computer program.
+  long:  Electronic circuitry that executes instructions of a computer program.
   plural: True
   possessive: True
 CWL:
@@ -140,8 +144,12 @@ GUI:
   plural: True
 HCS:
   short: High-Capacity Central File Storage
+WCRP:
+  short: World Climate Research Programme
 GDC:
   short: Genomics Data Carpentry
+UUID:
+  short: Universally Unique IDentifier
 XVFB: 
   short: X Virtual FrameBuffer
   long: |
