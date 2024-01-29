@@ -18,6 +18,10 @@ OSX:
   short: macOS
 GDB:
   short: GNU Debugger
+DTN: 
+  short: Data Transfer Node
+  plural: true
+  possessive: true
 DVS: 
   short: Data Virtualization Service
 UTF:
