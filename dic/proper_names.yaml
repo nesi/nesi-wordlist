@@ -2,12 +2,16 @@
 # Proper names
 Globus:
   possessive: True
+GlobusID:
 Jupyter:
   possessive: True
 Slurm:
   possessive: True
 Glib: 
 Skylake:
+AgResearch:
+  possessive: True
+  short: Crown Research Institute, agricultural science.
 OpenSSL: 
   short: A software library for applications that provide secure communications over computer networks.
 OpenSSH: 
