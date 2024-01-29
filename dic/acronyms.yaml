@@ -5,6 +5,8 @@ ACL:
   plural: True
 ATL:
   short: Automatic Tape Library
+UoA: 
+  short: University of Auckland
 CPU:
   short: Central Processing Unit
   long:  Slectronic circuitry executes instructions of a computer program.
@@ -136,6 +138,8 @@ GUI:
   short: Graphical User Interface
   long: A digital interface in which a user interacts with graphical components such as icons, buttons, and menus.
   plural: True
+HCS:
+  short: High-Capacity Central File Storage
 GDC:
   short: Genomics Data Carpentry
 XVFB: 
