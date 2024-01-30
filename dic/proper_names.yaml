@@ -3,6 +3,7 @@
 Globus:
   possessive: True
 GlobusID:
+GFortran:
 Jupyter:
   possessive: True
 Slurm:
