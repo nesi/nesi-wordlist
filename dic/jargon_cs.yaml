@@ -2,6 +2,7 @@
 # Jargon
 eScience:
 nearline:
+microarchitecture:
 dereference:
 SquashFS:
   short: Compressed read-only file system for Linux.
