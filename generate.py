@@ -45,12 +45,25 @@ def read_in(yaml_files):
         for key, val in yaml_list.items():
             # Coalese null
             val = val or {}
+
+            if type(val) is str:
+                val = {"short": val}
+
             # fill in defaults.
             for k, v in default_values.items():
                 if k not in val:
                     val[k] = v
             if key in word_list.keys():
-                print(f"Warning: Duplicate dictionary entry '{key}'.")
+                for k, v in val.items():
+                    if type(v) is bool:
+                        word_list[key][k] = any([word_list[key][k], v])
+                    elif type(v) is list:
+                        word_list[key][k] = word_list[key][k] + v
+                    else:
+                        word_list[key][k] = max([word_list[key][k], v], key=len)
+                print(f"warning: Duplicate dictionary entry '{key}', in {yaml_file} and 1 other.")
+                print(f"Merged into: {word_list[key]}")
+
             else:
                 word_list[key] = val
 

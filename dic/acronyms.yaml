@@ -2,47 +2,33 @@
 ACL:
   plural: true
   short: Access Control List
-ATL:
-  short: Automatic Tape Library
-CLI:
-  short: Command Line Interface
-CMIP:
-  short: Coupled Model Intercomparison Project
+ATL: Automatic Tape Library
+CLI: Command Line Interface
+CMIP: Coupled Model Intercomparison Project
 CPU:
   long: Electronic circuitry that executes instructions of a computer program.
   plural: true
   possessive: true
   short: Central Processing Unit
-CRI:
-  short: Crown Research Institute
-CRLF:
-  short: Carriage Return Line Feed
-CUDA:
-  short: Compute Unified Device Architecture
-CWL:
-  short: Common Workflow Language
+CRI: Crown Research Institute
+CRLF: Carriage Return Line Feed
+CUDA: Compute Unified Device Architecture
+CWL: Common Workflow Language
 DTN:
   plural: true
   possessive: true
   short: Data Transfer Node
-DVS:
-  short: Data Virtualization Service
-EOL:
-  short: End of Line
-FTE:
-  short: Full Time Equivalent
-GDB:
-  short: GNU Debugger
-GDC:
-  short: Genomics Data Carpentry
-GNU:
-  short: GNU's Not Unix!
+DVS: Data Virtualization Service
+EOL: End of Line
+FTE: Full Time Equivalent
+GDB: GNU Debugger
+GDC: Genomics Data Carpentry
+GNU: GNU's Not Unix!
 GPFS: &ref_0
   long: High-performance clustered file system software developed by IBM.
   possessive: true
   short: General Parallel File System
-GPG:
-  short: GNU Privacy Guard
+GPG: GNU Privacy Guard
 GPGPU:
   plural: true
   short: General Purpose Graphics Processing Unit
@@ -53,119 +39,85 @@ GUI:
   long: A digital interface in which a user interacts with graphical components such as icons, buttons, and menus.
   plural: true
   short: Graphical User Interface
-HCS:
-  short: High-Capacity Central File Storage
+HCS: High-Capacity Central File Storage
 HDF:
   long: A set of file formats designed to store and organize large amounts of data.
   short: Hierarchical Data Format
-HGX: null
+HGX:
 HPC: &ref_1
   long: Like a regular computer, but larger. Primarily used for heating data centers.
   plural: true
   short: High Performance Computing/Computer
-HTTPS: null
-IBM:
-  short: International Business Machines Corporation
-JSON:
-  short: JavaScript Object Notation
-KNP: null
-LF:
-  short: Line Feed
-LTS:
-  short: Long-Term Support
+HTTPS:
+IBM: International Business Machines Corporation
+JSON: JavaScript Object Notation
+KNP:
+LF: Line Feed
+LTS: Long-Term Support
 MBIE:
   possessive: true
   short: Ministry of Business, Innovation & Employment
-MD5:
-  short: Message-digest Algorithm
+MD5: Message-digest Algorithm 5
 MPI:
   long: A standardised message-passing standard designed to function on parallel computing architectures.
   short: Message Passing Interface
-MWLR:
-  short: Manaaki Whenua Landcare Research
+MWLR: Manaaki Whenua Landcare Research
 NIWA:
   long: Crown Research Institute, conducts research across a broad range of disciplines in the environmental sciences.
   possessive: true
   short: National Institute of Water and Atmospheric Research
-NZ:
-  short: New Zealand
-NZD:
-  short: New Zealand Dollar
-NZDT:
-  short: New Zealand Daylight Time
-NZST:
-  short: New Zealand Standard Time
+NZ: New Zealand
+NZD: New Zealand Dollar
+NZDT: New Zealand Daylight Time
+NZST: New Zealand Standard Time
 NeSI:
   long: New Zealand national high performance computing platform.
   possessive: true
   short: New Zealand eScience Infrastructure
-OOM:
-  short: Out of Memory
-OSX:
-  short: macOS
-PCIe:
-  short: Peripheral Component Interconnect Express
-PFR:
-  short: Plant and Food Research
+OOM: Out of Memory
+OSX: macOS
+PCIe: Peripheral Component Interconnect Express
+PFR: Plant and Food Research
 POSIX:
   long: A set of standard operating system interfaces based on the Unix operating system
   short: Portable Operating System Interface
-QoS:
-  short: Quality of Service
-REANNZ:
-  short: Research Education Advanced Network New Zealand
+QoS: Quality of Service
+REANNZ: Research Education Advanced Network New Zealand
 SCP:
   long: Means of securely transferring files between over an SSH connection.
   short: Secure Copy Protocol
-SFTP:
-  short: Secure File Transfer Protocol
-SHA-1:
-  short: Secure Hash Algorithm 1
-SHA-256:
-  short: Secure Hash Algorithm 256
-SIF:
-  short: Singularity Image Format
+SFTP: Secure File Transfer Protocol
+SHA-1: Secure Hash Algorithm 1
+SHA-256: Secure Hash Algorithm 256
+SIF: Singularity Image Format
 SSH:
   long: A network communication protocol that enables two computers to communicate
   short: Secure Shell
-SSHFS:
-  short: Secure SHell File System
-SSRF:
-  short: Strategic Science Investment Fund
+SSHFS: Secure SHell File System
+SSRF: Strategic Science Investment Fund
 Spectrum Scale: *ref_0
-TRES:
-  short: TRackable RESources
-TZ:
-  short: Time Zone
-UDF:
-  short: User Defined Function
-UI:
-  short: User Interface
-UTF:
-  short: Unicode Transformation Format
-UUID:
-  short: Universally Unique IDentifier
-UoA:
-  short: University of Auckland
+TRES: TRackable RESources
+TZ: Time Zone
+UDF: User Defined Function
+UI: User Interface
+UTF: Unicode Transformation Format
+UUID: Universally Unique IDentifier
+UoA: University of Auckland
 VM:
   plural: true
   possessive: true
   short: Virtual Machine
-VNC:
-  short: Virtual Network Computing
+VNC: Virtual Network Computing
 VPN:
   long: Method of extending access to a private network.
   short: Virtual Private Network
-WCRP:
-  short: World Climate Research Programme
-WSL:
-  short: Windows Subsystem for Linux
+WCRP: World Climate Research Programme
+WSL: Windows Subsystem for Linux
 XVFB:
   long: |
     A display server implementing the X11 display server protocol, XVFB performs all graphical operations in virtual memory without showing any screen output.
     This allows applications that 'require' a GUI to run in a command line environment. Can be invoked with `xvfb-run`.
   short: X Virtual FrameBuffer
-YAML:
-  short: Yet Another Markup Language
+YAML: Yet Another Markup Language
 supercomputer: *ref_1
 supercomputing: *ref_1

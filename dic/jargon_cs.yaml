@@ -1,11 +1,8 @@
 ---
 Bourne:
-Gbps:
-  short: Gigabit per second
-PowerShell:
-  short: Windows Command Line Shell
-SquashFS:
-  short: Compressed read-only file system for Linux.
+Gbps: Gigabit per second
+PowerShell: Windows Command Line Shell
+SquashFS: Compressed read-only file system for Linux.
 XC:
 authenticator:
   plural: true
@@ -18,8 +15,7 @@ checksum:
   plural: true
 chiplets:
 config:
-craype:
-  short: Cray Programming Environment
+craype: Cray Programming Environment
 dataset:
   plural: true
 dereference:
@@ -48,7 +44,6 @@ multithreading:
 namespace:
   plural: true
 nav:
-nearline:
 nobackup:
 parallelisation:
 precompiled:
@@ -66,18 +61,15 @@ stdout:
 subdirectory:
   plural: true
 sudo:
-symlink:
-  short: Symbolic Link
+symlink: Symbolic Link
 templating:
-tmpfs:
-  short: Temporary file storage paradigm implemented in many Unix-like operating systems.
+tmpfs: Temporary file storage paradigm implemented in many Unix-like operating systems.
 toolchain:
   plural: true
 tooltip:
   plural: true
   possessive: true
 validator:
-vectorisation:
-  short: A style of computer programming where operations are applied to whole arrays instead of individual elements.
+vectorisation: A style of computer programming where operations are applied to whole arrays instead of individual elements.
 walltime:
   plural: true

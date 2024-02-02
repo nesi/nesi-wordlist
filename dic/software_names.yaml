@@ -18,23 +18,19 @@ MacOS:
 PuTTY:
 OpenGL:
 GeneMark:
-FASTA:
-  short: Bioinformatics file format.
-AOCL:
-  short: AOCL is a set of numerical libraries optimized for AMD processors
+FASTA: Bioinformatics file format.
+AOCL: AOCL is a set of numerical libraries optimized for AMD processors
 Xming:
 FENSAP:
 FASTQ:
 Bioconductor:
-GTK:
-  short: open-source toolkit for creating graphical user interfaces
+GTK: open-source toolkit for creating graphical user interfaces
 LAPACK:
 Kraken:
 CentOS:
 cron:
 crontab:
 IOBUF:
-lz4:
 Keycloak:
 Jinja:
 ImagMagick:
@@ -46,6 +42,5 @@ AutoDock:
 GridRunner:
 Synda:
 PacBio:
-Cuda:
 Aspera:
 Keras:

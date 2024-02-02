@@ -1,6 +1,5 @@
 ---
-AgResearch:
-  short: Crown Research Institute, agricultural science.
+AgResearch: Crown Research Institute, agricultural science.
 Allinea:
 Amdahl:
 Aotearoa:
@@ -15,7 +14,6 @@ GitLab:
 Glib:
 Globus:
 GlobusID:
-Illumina:
 InfiniBand:
 Landcare:
 Lmod:
@@ -27,17 +25,14 @@ OMP: &ref_0
   short: Open Multi-Processing
 OneDrive:
 OpenMP: *ref_0
-OpenSSH:
-  short: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
-OpenSSL:
-  short: A software library for applications that provide secure communications over computer networks.
+OpenSSH: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
+OpenSSL: A software library for applications that provide secure communications over computer networks.
 Otago:
 Pletzer:
 Schrödinger:
 Skylake:
 Slurm:
-Tuakiri:
-  short: New Zealand federated identity and access management.
+Tuakiri: New Zealand federated identity and access management.
 Xeon:
 Xerces:
 Zealander:
