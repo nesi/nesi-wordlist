@@ -7,6 +7,9 @@ ATL:
   short: Automatic Tape Library
 PFR:
   short: Plant and Food Research
+MBIE:
+  short: Ministry of Business, Innovation & Employment
+  possessive: True
 UoA: 
   short: University of Auckland
 MWLR:
@@ -28,6 +31,20 @@ DTN:
   short: Data Transfer Node
   plural: true
   possessive: true
+VM:
+  short: Virtual Machine
+  plural: true
+  possessive: True
+FTE:
+  short: Full Time Equivalent 
+UI:
+  short: User Interface
+NZD: 
+  short: New Zealand Dollar
+SSRF:
+  short: Strategic Science Investment Fund
+CRI:
+  short: Crown Research Institute
 DVS: 
   short: Data Virtualization Service
 UTF:
