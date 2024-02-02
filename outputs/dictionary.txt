@@ -208,7 +208,6 @@ CRI
 CRLF
 CTPL's
 CTPL
-CUDA's
 CUDA
 CUnit's
 CUnit
@@ -264,6 +263,7 @@ CubeLib's
 CubeLib
 CubeWriter's
 CubeWriter
+Cuda
 Cufflinks's
 Cufflinks
 Cylc
@@ -882,7 +882,6 @@ OpenMP
 OpenMPI's
 OpenMPI
 OpenSSH
-OpenSSL's
 OpenSSL
 OpenSees's
 OpenSees
