@@ -1,3 +1,4 @@
+---
 WRF:
 Fortran:
 MobaXterm:
@@ -19,13 +20,13 @@ OpenGL:
 GeneMark:
 FASTA:
   short: Bioinformatics file format.
-AOCL: 
+AOCL:
   short: AOCL is a set of numerical libraries optimized for AMD processors
 Xming:
 FENSAP:
 FASTQ:
 Bioconductor:
-GTK: 
+GTK:
   short: open-source toolkit for creating graphical user interfaces
 LAPACK:
 Kraken:
@@ -34,3 +35,17 @@ cron:
 crontab:
 IOBUF:
 lz4:
+Keycloak:
+Jinja:
+ImagMagick:
+Illumina:
+conda:
+Jupyter:
+JupyterHub:
+AutoDock:
+GridRunner:
+Synda:
+PacBio:
+Cuda:
+Aspera:
+Keras:

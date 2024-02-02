@@ -1,16 +1,15 @@
 ---
-# Words not in the aspell dictionary for whatever reason
-"in situ":
-analytics:
-programme:
-  plural: True
-reproducibility:
 admonition:
-parallelise:
+analytics:
+annum:
 collapsable:
+customisable:
+in situ:
+parallelise:
 programmatically:
+programme:
+  plural: true
+reproducibility:
+requeued:
 unallocated:
 unmount:
-annum:
-customisable:
-requeued:

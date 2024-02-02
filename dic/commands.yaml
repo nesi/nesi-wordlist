@@ -1,5 +1,4 @@
 ---
-# Commands
-srun:
 Nano:
   checkcase: false
+srun:

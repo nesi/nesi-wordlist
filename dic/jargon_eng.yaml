@@ -1,7 +1,6 @@
 ---
-FEA:
-  short: Finite Element Analysis
+CAE: Computer Aided Engineering
 CFD:
   short: Computational Fluid Dynamics
-CAE:
-  Computer Aided Engineering
+FEA:
+  short: Finite Element Analysis

@@ -1,85 +1,83 @@
 ---
-# Jargon
-eScience:
-nearline:
-microarchitecture:
-dereference:
-SquashFS:
-  short: Compressed read-only file system for Linux.
-glob: &glob
-  short: A pattern that specifies sets of filenames with wildcard characters, used by the Unix Bash shell.
-globbing: *glob
-symlink:
-  short: Symbolic Link
-nobackup:
-chiplets:
-checkpointing:
-craype:
-  short: Cray Programming Environment
-checksum:
-  plural: True
-vectorisation:
-  short: A style of computer programming where operations are applied to whole arrays instead of individual elements.
-toolchain:
-  plural: True
-precompiled:
-PowerShell:
-  short: Windows Command Line Shell
-fairshare:
-namespace:
-  plural: True
-runtime:
-sudo:
-walltime:
-  plural: True
-libio:
-inode:
-  plural: True
-parallelisation:
-stdout:
-profiler:
-  plural: True
-  possessive: True
-stdin:
-stderr:
-fileset:
-  plural: True
-tooltip:
-templating:
-hyperthreading: &hyperthread
-hyperthreaded: *hyperthread
-multithread: &smp
-multithreaded: *smp
-multithreading: *smp
-XC:
-config:
-executable: &exe
-  plural: True
-dataset:  
-  plural: True
-filesystem:
-  plural: True
-localhost:
-repo:
-  plural: True
-subdirectory:  
-  plural: True
-exe: *exe
-scalable:
-validator:
-benchmark: &benchmark
-benchmarking: *benchmark
 Bourne:
-backplane:
 Gbps:
   short: Gigabit per second
-setgid:
-tmpfs:
-    short: Temporary file storage paradigm implemented in many Unix-like operating systems.
+PowerShell:
+  short: Windows Command Line Shell
+SquashFS:
+  short: Compressed read-only file system for Linux.
+XC:
 authenticator:
-  plural: True
-  possessive: True
-tooltip:
-  plural: True
-  possessive: True
+  plural: true
+  possessive: true
+backplane:
+benchmark:
+benchmarking:
+checkpointing:
+checksum:
+  plural: true
+chiplets:
+config:
+craype:
+  short: Cray Programming Environment
+dataset:
+  plural: true
+dereference:
+eScience:
+exe: &ref_1
+  plural: true
+executable: *ref_1
+fairshare:
+fileset:
+  plural: true
+filesystem:
+  plural: true
+glob: &ref_0
+  short: A pattern that specifies sets of filenames with wildcard characters, used by the Unix Bash shell.
+globbing: *ref_0
+hyperthreaded:
+hyperthreading:
+inode:
+  plural: true
+libio:
+localhost:
+microarchitecture:
+multithread:
+multithreaded:
+multithreading:
+namespace:
+  plural: true
 nav:
+nearline:
+nobackup:
+parallelisation:
+precompiled:
+profiler:
+  plural: true
+  possessive: true
+repo:
+  plural: true
+runtime:
+scalable:
+setgid:
+stderr:
+stdin:
+stdout:
+subdirectory:
+  plural: true
+sudo:
+symlink:
+  short: Symbolic Link
+templating:
+tmpfs:
+  short: Temporary file storage paradigm implemented in many Unix-like operating systems.
+toolchain:
+  plural: true
+tooltip:
+  plural: true
+  possessive: true
+validator:
+vectorisation:
+  short: A style of computer programming where operations are applied to whole arrays instead of individual elements.
+walltime:
+  plural: true

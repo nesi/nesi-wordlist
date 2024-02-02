@@ -1,49 +1,44 @@
 ---
-# Proper names
-Globus:
-GlobusID:
-GFortran:
-Jupyter:
-Slurm:
-Glib:
-Centos:
-Zealander:
-Schrödinger:
-Pletzer:
-OneDrive:
-Bruijn:
-Xerces:
-Illumina:
-Easybuild:
-Zendesk:
-Nvidia:
-Milan:
-Marsden:
-Otago:
-Amdahl:
-Landcare:
-Skylake:
 AgResearch:
   short: Crown Research Institute, agricultural science.
-OpenSSL: 
-  short: A software library for applications that provide secure communications over computer networks.
-OpenSSH: 
-  short: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
-Lmod:
-JupyterHub:
-GitLab:
-GitHub:
-OpenMP: &omp
-  short: Open Multi-Processing
-OMP: *omp
-Broadwell:
-Tuakiri: 
-  short: New Zealand federated identity and access management.
-InfiniBand:
 Allinea:
+Amdahl:
 Aotearoa:
-MathWorks:
-Zendesk:
-Otago:
 Apache:
+Broadwell:
+Bruijn:
+Centos:
+Easybuild:
+GFortran:
+GitHub:
+GitLab:
+Glib:
+Globus:
+GlobusID:
+Illumina:
+InfiniBand:
+Landcare:
+Lmod:
+Marsden:
+Milan:
 New Zealander:
+Nvidia:
+OMP: &ref_0
+  short: Open Multi-Processing
+OneDrive:
+OpenMP: *ref_0
+OpenSSH:
+  short: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
+OpenSSL:
+  short: A software library for applications that provide secure communications over computer networks.
+Otago:
+Pletzer:
+Schrödinger:
+Skylake:
+Slurm:
+Tuakiri:
+  short: New Zealand federated identity and access management.
+Xeon:
+Xerces:
+Zealander:
+Zendesk:
