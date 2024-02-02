@@ -174,16 +174,14 @@
 *[CONCOCT]: Program for unsupervised binning of metagenomic contigs by using nucleotide composition,
 *[CP2K's]: CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
 *[CP2K]: CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
-*[CPUs's]: Slectronic circuitry executes instructions of a computer program.
-*[CPUs]: Slectronic circuitry executes instructions of a computer program.
-*[CPU's]: Slectronic circuitry executes instructions of a computer program.
-*[CPU]: Slectronic circuitry executes instructions of a computer program.
+*[CPUs's]: Electronic circuitry that executes instructions of a computer program.
+*[CPUs]: Electronic circuitry that executes instructions of a computer program.
+*[CPU's]: Electronic circuitry that executes instructions of a computer program.
+*[CPU]: Electronic circuitry that executes instructions of a computer program.
 *[CRAMINO's]: A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 *[CRAMINO]: A tool for quick quality assessment of cram and bam files, intended for long read sequencing
 *[CTPL's]: C++ Thread Pool Library
 *[CTPL]: C++ Thread Pool Library
-*[CUDA's]: CUDA (formerly Compute Unified Device Architecture) is a parallel  computing platform and programming model created by NVIDIA and implemented by the  graphics processing units (GPUs) that they produce. CUDA gives developers access  to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
-*[CUDA]: CUDA (formerly Compute Unified Device Architecture) is a parallel  computing platform and programming model created by NVIDIA and implemented by the  graphics processing units (GPUs) that they produce. CUDA gives developers access  to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
 *[CUnit's]: Automated testing framework for C.
 *[CUnit]: Automated testing framework for C.
 *[Canu's]: Sequence assembler designed for high-noise single-molecule sequencing.
@@ -428,8 +426,7 @@
 *[Gubbins]: Genealogies Unbiased By recomBinations In Nucleotide Sequences
 *[Guile's]: Guile is the GNU Ubiquitous Intelligent Language for Extensions,
 *[Guile]: Guile is the GNU Ubiquitous Intelligent Language for Extensions,
-*[HDF's]: HDF (also known as HDF4) is a library and multi-object file format for  storing and managing data between machines.
-*[HDF]: HDF (also known as HDF4) is a library and multi-object file format for  storing and managing data between machines.
+*[HDF]: A set of file formats designed to store and organize large amounts of data.
 *[HDF-EOS's]: HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing file format for transfer of various types of data between different machines based upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites: Terra, Aqua and Aura.
 *[HDF-EOS]: HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing file format for transfer of various types of data between different machines based upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites: Terra, Aqua and Aura.
 *[HDF-EOS5's]: HDF-EOS (Hierarchical Data Format - Earth Observing System) is a self-describing file format for transfer of various types of data between different machines based upon HDF. HDF-EOS is a standard format to store data collected from EOS satellites: Terra, Aqua and Aura.
@@ -743,8 +740,6 @@
 *[OpenJPEG]: An open-source JPEG 2000 codec written in C
 *[OpenMPI's]: The Open MPI Project is an open source MPI-3 implementation. This version is built with CUDA support enabled.
 *[OpenMPI]: The Open MPI Project is an open source MPI-3 implementation. This version is built with CUDA support enabled.
-*[OpenSSL's]: The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
-*[OpenSSL]: The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
 *[OpenSees's]: OpenSees is a software framework for developing applications to simulate the performance of structural and geotechnical systems subjected to earthquakes.
 *[OpenSees]: OpenSees is a software framework for developing applications to simulate the performance of structural and geotechnical systems subjected to earthquakes.
 *[OpenSeesPy's]: OpenSees is a software framework for developing applications to simulate the performance of structural and geotechnical systems subjected to earthquakes.

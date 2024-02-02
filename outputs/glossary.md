@@ -352,7 +352,7 @@ CP2K is a freely available (GPL) program, written in Fortran 95, to perform atom
 
 **CPU:**
 
-Slectronic circuitry executes instructions of a computer program.
+Electronic circuitry that executes instructions of a computer program.
 
 **CRAMINO:**
 
@@ -361,10 +361,6 @@ A tool for quick quality assessment of cram and bam files, intended for long rea
 **CTPL:**
 
 C++ Thread Pool Library
-
-**CUDA:**
-
-CUDA (formerly Compute Unified Device Architecture) is a parallel  computing platform and programming model created by NVIDIA and implemented by the  graphics processing units (GPUs) that they produce. CUDA gives developers access  to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
 
 **CUnit:**
 
@@ -856,7 +852,7 @@ Guile is the GNU Ubiquitous Intelligent Language for Extensions,
 
 **HDF:**
 
-HDF (also known as HDF4) is a library and multi-object file format for  storing and managing data between machines.
+A set of file formats designed to store and organize large amounts of data.
 
 **HDF-EOS:**
 
@@ -1485,10 +1481,6 @@ An open-source JPEG 2000 codec written in C
 **OpenMPI:**
 
 The Open MPI Project is an open source MPI-3 implementation. This version is built with CUDA support enabled.
-
-**OpenSSL:**
-
-The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
 
 **OpenSees:**
 
