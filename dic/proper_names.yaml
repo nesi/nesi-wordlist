@@ -9,6 +9,7 @@ Jupyter:
 Slurm:
   possessive: True
 Glib: 
+Marsden:
 Skylake:
 AgResearch:
   possessive: True
