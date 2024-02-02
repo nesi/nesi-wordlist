@@ -1,49 +1,49 @@
 ---
 # Proper names
 Globus:
-  possessive: True
 GlobusID:
 GFortran:
 Jupyter:
-  possessive: True
 Slurm:
-  possessive: True
-Glib: 
+Glib:
+Centos:
+Zealander:
+Schrödinger:
+Pletzer:
+OneDrive:
+Bruijn:
+Xerces:
+Illumina:
+Easybuild:
+Zendesk:
+Nvidia:
+Milan:
 Marsden:
 Otago:
 Amdahl:
 Landcare:
 Skylake:
 AgResearch:
-  possessive: True
   short: Crown Research Institute, agricultural science.
 OpenSSL: 
   short: A software library for applications that provide secure communications over computer networks.
 OpenSSH: 
   short: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
 Lmod:
-  possessive: True
 JupyterHub:
-  possessive: True
 GitLab:
-  possessive: True
 GitHub:
-  possessive: True
 OpenMP: &omp
   short: Open Multi-Processing
-  possessive: True
 OMP: *omp
 Broadwell:
 Tuakiri: 
-  possessive: True
   short: New Zealand federated identity and access management.
 InfiniBand:
 Allinea:
-  possessive: True
 Aotearoa:
-  possessive: True
 MathWorks:
 Zendesk:
 Otago:
+Apache:
 New Zealander:
-  plural: true
