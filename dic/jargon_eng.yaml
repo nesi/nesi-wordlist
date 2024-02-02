@@ -1,5 +1,6 @@
 ---
-CAE: Computer Aided Engineering
+CAE: 
+  short: Computer Aided Engineering
 CFD:
   short: Computational Fluid Dynamics
 FEA:
