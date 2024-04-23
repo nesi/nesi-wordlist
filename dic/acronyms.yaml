@@ -82,6 +82,7 @@ POSIX:
   long: A set of standard operating system interfaces based on the Unix operating system
   short: Portable Operating System Interface
 QoS: Quality of Service
+   
 REANNZ: Research Education Advanced Network New Zealand
 SCP:
   long: Means of securely transferring files between over an SSH connection.
