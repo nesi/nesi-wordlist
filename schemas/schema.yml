@@ -1,17 +1,20 @@
 ---
-- long:
-    type: string
-  short:
-    type: string
-  checkcase:
-    type: boolean
-  plural:
-    type: boolean
-  possessive:
-    type: boolean
-  outputs:
-  - type: string
-    enum: [spellcheck, snippet, glossary]
+keywords:
+    type: Array
+    each:
+      long:
+        type: string
+      short:
+        type: string
+      checkcase:
+        type: boolean
+      plural:
+        type: boolean
+      possessive:
+        type: boolean
+      outputs:
+      - type: string
+        enum: [spellcheck, snippet, glossary]
 
 
       
