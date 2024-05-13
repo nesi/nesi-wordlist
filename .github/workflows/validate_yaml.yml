@@ -1,0 +1,21 @@
+---
+name: Validate YML
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+    
+jobs:
+  generate_outputs:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    - name: json-yaml-validate
+      uses: GrantBirki/json-yaml-validate@v2.7.1
+      with:
+        comment: True
+        yaml_schema: schemas/schema.yml
+        base_dir: dic
