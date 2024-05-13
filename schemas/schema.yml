@@ -1,5 +1,6 @@
 ---
-each:
+type: object
+properties:
   long:
     type: string
   short:
@@ -13,6 +14,3 @@ each:
   outputs:
   - type: string
     enum: [spellcheck, snippet, glossary]
-
-
-      
