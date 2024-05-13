@@ -17,5 +17,6 @@ jobs:
       uses: GrantBirki/json-yaml-validate@v2.7.1
       with:
         comment: True
-        yaml_schema: schemas/schema.yml
+        # yaml_schema: schemas/schema.yml # Does not support root level checking.
+        # TODO: nest dictionaries one deep.
         base_dir: dic
