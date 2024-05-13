@@ -1,6 +1,6 @@
 ---
 words:
-  property:
+  properties:
     long:
       type: string
     short:
