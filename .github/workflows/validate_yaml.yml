@@ -17,3 +17,5 @@ jobs:
       uses: GrantBirki/json-yaml-validate@v2.7.1
       with:
         comment: True
+        yaml_schema: schemas/schema.yml
+        base_dir: dic
