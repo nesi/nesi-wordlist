@@ -1,7 +1,6 @@
 ---
 words:
-  type: object
-  each:
+  property:
     long:
       type: string
     short:
