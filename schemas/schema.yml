@@ -1,6 +1,6 @@
 ---
 words:
-  properties:
+  match: /^[\w\-]+$/,
     long:
       type: string
     short:
