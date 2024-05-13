@@ -1,5 +1,6 @@
 ---
 words:
+  type: object
   each:
     long:
       type: string
