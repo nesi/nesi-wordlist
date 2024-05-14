@@ -11,7 +11,7 @@ GLOSSARY_FILE = "outputs/glossary.md"
 
 default_values = {
     "long": "",
-    "short: "",
+    "short": "",
     "checkcase": True,
     "plural": False,
     "possessive": False,
