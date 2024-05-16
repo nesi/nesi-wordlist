@@ -1,6 +1,6 @@
 #!/usr/bin/python3.9
 
-from ruamel.yaml import YAML
+import yaml
 import urllib.request
 import json
 
@@ -14,8 +14,5 @@ def main():
         data = json.load(url)
         for key, value in data.items():
             outdata[key] = {"long": value["description"], "possessive": True}
-        yaml = YAML()
         yaml.dump(outdata, open(OUTFILE, "w", encoding="utf-8"))
-
-
 main()
