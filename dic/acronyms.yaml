@@ -5,6 +5,7 @@ ACL:
 ATL: Automatic Tape Library
 CLI: Command Line Interface
 CMIP: Coupled Model Intercomparison Project
+CPE: Cray Programming Environment
 CPU:
   long: Electronic circuitry that executes instructions of a computer program.
   plural: true
