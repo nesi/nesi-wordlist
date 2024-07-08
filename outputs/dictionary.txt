@@ -105,6 +105,7 @@ BEEF's
 BEEF
 BGC-Bayesian-genomic-clines's
 BGC-Bayesian-genomic-clines
+BLAS
 BLAST's
 BLAST
 BLASTDB's
@@ -1137,6 +1138,7 @@ Salmon's
 Salmon
 Sambamba's
 Sambamba
+ScaLAPAC
 ScaLAPACK's
 ScaLAPACK
 Scalasca's
