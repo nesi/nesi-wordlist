@@ -3,6 +3,7 @@ ACL:
   plural: true
   short: Access Control List
 ATL: Automatic Tape Library
+BLAS: Basic Linear Algebra Subprograms
 CLI: Command Line Interface
 CMIP: Coupled Model Intercomparison Project
 CPE: Cray Programming Environment
@@ -55,6 +56,7 @@ JSON: JavaScript Object Notation
 KNP:
 LF: Line Feed
 LTS: Long-Term Support
+LAPACK: Linear Algebra PACKage
 MBIE:
   possessive: true
   short: Ministry of Business, Innovation & Employment
@@ -97,6 +99,7 @@ SSH:
   short: Secure Shell
 SSHFS: Secure SHell File System
 SSIF: Strategic Science Investment Fund
+ScaLAPAC: Scalable Linear Algebra PACKage
 Spectrum Scale: *ref_0
 TRES: TRackable RESources
 TZ: Time Zone
