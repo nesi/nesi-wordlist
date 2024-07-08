@@ -8,6 +8,8 @@ customisations:
 in situ:
 parallelise:
 programmatically:
+procurement:
+  plural: true
 programme:
   plural: true
 reproducibility:
