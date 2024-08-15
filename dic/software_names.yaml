@@ -41,6 +41,7 @@ JupyterHub:
 AutoDock:
 GridRunner:
 Synda:
+VSCode: Visual Studio Code
 PacBio:
 Aspera:
 Keras:
