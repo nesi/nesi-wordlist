@@ -3,6 +3,9 @@ ACL:
   plural: true
   short: Access Control List
 ATL: Automatic Tape Library
+AGDR: 
+   short: Aotearoa Genomic Data Repository
+   long: The Aotearoa Genomic Data Repository provides secure within-nation storage, management and sharing of non-human genomic data generated from biological and environmental samples originating in Aotearoa New Zealand.
 BLAS: Basic Linear Algebra Subprograms
 CLI: Command Line Interface
 CMIP: Coupled Model Intercomparison Project
