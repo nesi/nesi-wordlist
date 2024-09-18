@@ -18,6 +18,10 @@ ACTC converts independent triangles into triangle strips or fans.
 
  Suite of tools to handle gene annotations in any GTF/GFF format. 
 
+## AGDR:
+
+The Aotearoa Genomic Data Repository provides secure within-nation storage, management and sharing of non-human genomic data generated from biological and environmental samples originating in Aotearoa New Zealand.
+
 ## AGE:
 
 Alignment of sequences with structural variants.
