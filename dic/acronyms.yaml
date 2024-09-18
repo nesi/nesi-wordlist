@@ -21,6 +21,9 @@ DTN:
   possessive: true
   short: Data Transfer Node
 DVS: Data Virtualization Service
+DOI: 
+  short: Digital Object Identifier
+  long: A unique identifier that identifies digital objects. The object may change physical locations, but the DOI assigned to that object will never change.
 EOL: End of Line
 FTE: Full Time Equivalent
 GDB: GNU Debugger
