@@ -1331,6 +1331,7 @@ any quantity of CPUs and GPUs
   It features a wide variety of standard quantum chemical methods ranging from semiempirical methods to DFT to single-
  and multireference correlated ab initio methods.
  It can also treat environmental and relativistic effects.
+*[ORCID]: A nonproprietary alphanumeric code to uniquely identify authors and contributors of scholarly communication, bibliographic output and other user-supplied pieces of information.
 *[OSPRay's]: 
 OSPRay features interactive CPU rendering capabilities geared towards
 Scientific Visualization applications. Advanced shading effects such

@@ -909,6 +909,7 @@ OPARI2's
 OPARI2
 ORCA's
 ORCA
+ORCID
 OSPRay's
 OSPRay
 OSU-Micro-Benchmarks's
