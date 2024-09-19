@@ -1750,6 +1750,7 @@ json-c's
 json-c
 jvarkit's
 jvarkit
+kaitiaki
 kaitiakitanga
 kalign2's
 kalign2
