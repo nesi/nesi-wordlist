@@ -1409,6 +1409,8 @@ Xerces
 Xerces-C++'s
 Xerces-C++
 Xming
+Xorg
+Xquartz
 YAML
 YAXT's
 YAXT
