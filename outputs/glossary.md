@@ -2410,6 +2410,10 @@ Spack is a package manager for supercomputers, Linux, and macOS. It makes instal
 
 Spark is Hadoop MapReduce done in memory
 
+## SpectrA:
+
+C++ library for large scale eigenvalue problems, built on top of Eigen, an open source linear algebra library.
+
 ## Spectrum Scale:
 
 High-performance clustered file system software developed by IBM.

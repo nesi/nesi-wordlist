@@ -1859,6 +1859,8 @@ in  amino acid  sequences  from  different organisms
  and all of these builds can coexist on the same machine.
 *[Spark's]: Spark is Hadoop MapReduce done in memory
 *[Spark]: Spark is Hadoop MapReduce done in memory
+*[SpectrA's]: C++ library for large scale eigenvalue problems, built on top of Eigen, an open source linear algebra library.
+*[SpectrA]: C++ library for large scale eigenvalue problems, built on top of Eigen, an open source linear algebra library.
 *[Spectrum Scale's]: High-performance clustered file system software developed by IBM.
 *[Spectrum Scale]: High-performance clustered file system software developed by IBM.
 *[SqueezeMeta's]: fully automated metagenomics pipeline, from reads to bins.

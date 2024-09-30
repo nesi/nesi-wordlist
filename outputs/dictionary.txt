@@ -1241,6 +1241,8 @@ Spack's
 Spack
 Spark's
 Spark
+SpectrA's
+SpectrA
 Spectrum Scale's
 Spectrum Scale
 SquashFS
@@ -2012,6 +2014,7 @@ pod5
 pplacer's
 pplacer
 precompiled
+prepending
 preseq's
 preseq
 procurements
