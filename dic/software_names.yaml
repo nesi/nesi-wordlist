@@ -46,3 +46,5 @@ VSCode: Visual Studio Code
 PacBio:
 Aspera:
 Keras:
+Xorg: Free and open-source implementation of the X Window System.
+Xquartz: Open-source effort to develop a version of the X.Org X Window System that runs on macOS.
