@@ -3830,6 +3830,10 @@ PanGenome Graph Builder(pggb)
 
 pangenome graph evaluator
 
+## phonopy:
+
+Phonopy is an open source package of phonon calculations based on the supercell approach.
+
 ## phyx:
 
 phyx performs phylogenetics analyses on trees and sequences.

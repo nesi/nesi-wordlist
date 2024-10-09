@@ -1999,6 +1999,8 @@ pggb's
 pggb
 pgge's
 pgge
+phonopy's
+phonopy
 phylogenetics
 phylogenetic
 phyx's
@@ -2076,6 +2078,7 @@ rclone's
 rclone
 re2c's
 re2c
+recurse
 refs's
 refs
 repos
