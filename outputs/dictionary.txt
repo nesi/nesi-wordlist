@@ -2094,6 +2094,7 @@ rstudio's
 rstudio
 rstudio-server's
 rstudio-server
+rsync
 runtime
 rust-fmlrc's
 rust-fmlrc
