@@ -52,6 +52,7 @@ profiler:
   possessive: true
 repo:
   plural: true
+recurse:
 runtime:
 scalable:
 setgid:
