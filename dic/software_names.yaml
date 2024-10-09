@@ -1,5 +1,5 @@
 ---
-WRF:
+WRF: Weather Research Forecasting Model
 Fortran:
 MobaXterm:
 Conda:
@@ -28,7 +28,7 @@ GTK: open-source toolkit for creating graphical user interfaces
 LAPACK:
 Kraken:
 CentOS:
-cron:
+cron: A job scheduler on Unix-like operating systems
 crontab:
 IOBUF:
 Keycloak:
@@ -37,8 +37,8 @@ Jinja:
 ImagMagick:
 Illumina:
 conda:
-Jupyter:
-JupyterHub:
+Jupyter: A web-based interactive computing platform
+JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
 AutoDock:
 GridRunner:
 Synda:
@@ -46,5 +46,6 @@ VSCode: Visual Studio Code
 PacBio:
 Aspera:
 Keras:
+rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
 Xorg: Free and open-source implementation of the X Window System.
 Xquartz: Open-source effort to develop a version of the X.Org X Window System that runs on macOS.
