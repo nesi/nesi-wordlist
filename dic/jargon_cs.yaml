@@ -4,6 +4,8 @@ Gbps: Gigabit per second
 PowerShell: Windows Command Line Shell
 SquashFS: Compressed read-only file system for Linux.
 XC:
+autoscale:
+autoscaling:
 authenticator:
   plural: true
   possessive: true
