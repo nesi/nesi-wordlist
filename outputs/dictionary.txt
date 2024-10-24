@@ -392,6 +392,7 @@ FragGeneScan's
 FragGeneScan
 FreeBayes's
 FreeBayes
+FreeIPA
 FreeSurfer's
 FreeSurfer
 FreeXL's
