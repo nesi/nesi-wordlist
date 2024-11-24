@@ -85,6 +85,9 @@ NeSI:
   short: New Zealand eScience Infrastructure
 OOM: Out of Memory
 OSX: macOS
+OTP: 
+    short: One Time Password 
+    long: An automatically generated numeric code that authenticates a user for a single login.
 ORCID:
   long: A nonproprietary alphanumeric code to uniquely identify authors and contributors of scholarly communication, bibliographic output and other user-supplied pieces of information.
   short: Open Researcher and Contributor ID
