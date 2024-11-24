@@ -10,6 +10,7 @@ authenticator:
   plural: true
   possessive: true
 backplane:
+backend: Part of a computer system or application that is not directly accessed by the user.
 benchmark:
 benchmarking:
 checkpointing:
