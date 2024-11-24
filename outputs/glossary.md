@@ -1761,6 +1761,10 @@ OSU Micro-Benchmarks for MPI
 
  The Open Trace Format 2 is a highly scalable, memory efficient event trace data format plus support library
 
+## OTP:
+
+An automatically generated numeric code that authenticates a user for a single login.
+
 ## OpenBLAS:
 
 OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.

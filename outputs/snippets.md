@@ -1350,6 +1350,7 @@ interactively, enabling new insights into data exploration.
  The Open Trace Format 2 is a highly scalable, memory efficient event trace data format plus support library
 *[OTF2]: 
  The Open Trace Format 2 is a highly scalable, memory efficient event trace data format plus support library
+*[OTP]: An automatically generated numeric code that authenticates a user for a single login.
 *[OpenBLAS's]: OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 *[OpenBLAS]: OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 *[OpenBabel's]: Open Babel is a chemical toolbox designed to speak the many
