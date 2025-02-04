@@ -1,7 +1,14 @@
 ---
 ctrl:
+  outputs: ["spellcheck"]
 deprioritised:
+  outputs: ["spellcheck"]
 lockdown:
+  outputs: ["spellcheck"]
 onboarding:
+  outputs: ["spellcheck"]
 rollout:
+  outputs: ["spellcheck"]
 Ancil: Short for Ancilliary
+md:
+  outputs: ["spellcheck"]
