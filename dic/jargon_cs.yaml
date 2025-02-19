@@ -39,6 +39,9 @@ hyperthreading:
 inode:
   plural: true
 libio:
+linker:
+  short: A program used with a compiler or assembler to provide links to the libraries needed for an executable program.
+  plural: true
 localhost:
 microarchitecture:
 multithread:
