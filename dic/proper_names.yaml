@@ -1,5 +1,7 @@
 ---
-AgResearch: Crown Research Institute, agricultural science.
+AgResearch:
+  short: Crown Research Institute, agricultural science.
+  possessive: true
 Allinea:
 Amdahl:
 Aotearoa:
