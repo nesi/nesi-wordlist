@@ -278,6 +278,7 @@ Delft3D_FM's
 Delft3D_FM
 Delly's
 Delly
+DevOps
 Dorado's
 Dorado
 Doxygen's
