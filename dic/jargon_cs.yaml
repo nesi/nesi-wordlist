@@ -22,6 +22,7 @@ craype: Cray Programming Environment
 dataset:
   plural: true
 dereference:
+DevOps: Development and Operations
 eScience:
 exe: &ref_1
   plural: true
