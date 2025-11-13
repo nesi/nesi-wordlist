@@ -53,6 +53,8 @@ namespace:
 nav:
 nobackup:
 parallelisation:
+pragma:
+  plural: true
 precompiled:
 profiler:
   plural: true

@@ -1,53 +1,55 @@
 ---
-WRF: Weather Research Forecasting Model
-Fortran:
-MobaXterm:
-Conda:
-RStudio:
-Cylc:
-DCV:
-Dask:
-Nanopore:
-Miniconda:
-CESM:
-WinSCP:
-MKL:
-Nsight:
-OpenACC:
-MacOS:
-PuTTY:
-OpenGL:
-OnDemand: Open OnDemand
-GeneMark:
-FASTA: Bioinformatics file format.
-FreeIPA: 
 AOCL: AOCL is a set of numerical libraries optimized for AMD processors
-Xming:
-FENSAP:
-FASTQ:
+Aspera:
+AutoDock:
 Bioconductor:
-GTK: open-source toolkit for creating graphical user interfaces
-LAPACK:
-Kraken:
 CentOS:
+CESM:
+conda:
+Conda:
 cron: A job scheduler on Unix-like operating systems
 crontab:
-IOBUF:
-Keycloak:
-Kibana: Kibana is a source-available data visualization dashboard software for Elasticsearch.
-Jinja:
-ImagMagick:
+Cylc:
+Dask:
+DCV:
+FASTA: Bioinformatics file format.
+FASTQ:
+FENSAP:
+Fortran:
+FreeIPA: 
+GeneMark:
+GridRunner:
+GTK: open-source toolkit for creating graphical user interfaces
 Illumina:
-conda:
+ImagMagick:
+IOBUF:
+Jinja:
 Jupyter: A web-based interactive computing platform
 JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
-AutoDock:
-GridRunner:
+Keras:
+Keycloak:
+Kibana: Kibana is a source-available data visualization dashboard software for Elasticsearch.
+Kraken:
+LAPACK:
+lmod:
+MacOS:
+Miniconda:
+MKL:
+MobaXterm:
+Nanopore:
+Nsight:
+OnDemand: Open OnDemand
+OpenACC:
+OpenGL:
+PacBio:
+pthread:
+PuTTY:
+RStudio:
+rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
 Synda:
 VSCode: Visual Studio Code
-PacBio:
-Aspera:
-Keras:
-rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
+WinSCP:
+WRF: Weather Research Forecasting Model
+Xming:
 Xorg: Free and open-source implementation of the X Window System.
 Xquartz: Open-source effort to develop a version of the X.Org X Window System that runs on macOS.
