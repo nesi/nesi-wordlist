@@ -5,6 +5,7 @@ AutoDock:
 Bioconductor:
 CentOS:
 CESM:
+CIME:
 conda:
 Conda:
 cron: A job scheduler on Unix-like operating systems
@@ -24,6 +25,7 @@ Illumina:
 ImagMagick:
 IOBUF:
 Jinja:
+Julia+Pluto.ji:
 Jupyter: A web-based interactive computing platform
 JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
 Keras:
@@ -42,11 +44,13 @@ OnDemand: Open OnDemand
 OpenACC:
 OpenGL:
 PacBio:
+Pluto.ji:
 pthread:
 PuTTY:
 RStudio:
 rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
 Synda:
+schedmd:
 VSCode: Visual Studio Code
 WinSCP:
 WRF: Weather Research Forecasting Model

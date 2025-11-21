@@ -35,6 +35,8 @@ filesystem:
 glob: &ref_0
   short: A pattern that specifies sets of filenames with wildcard characters, used by the Unix Bash shell.
 globbing: *ref_0
+hostname:
+  plural: true
 hyperthreaded:
 hyperthreading:
 inode:
