@@ -43,6 +43,7 @@ Jupyter: A web-based interactive computing platform
 JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
 AutoDock:
 GridRunner:
+gfortran: GNU Fortran compiler.
 Synda:
 VSCode: Visual Studio Code
 PacBio:
