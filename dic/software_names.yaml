@@ -5,6 +5,7 @@ MobaXterm:
 Conda:
 RStudio:
 Cylc:
+cylc:
 DCV:
 Dask:
 Nanopore:
