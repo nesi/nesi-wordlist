@@ -1338,6 +1338,7 @@ ctffind
 ctrl
 cuDNN's
 cuDNN
+curation
 customisable
 customisations
 cutadapt's
