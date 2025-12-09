@@ -50,6 +50,9 @@ VSCode: Visual Studio Code
 PacBio:
 Aspera:
 Keras:
+NumPy:
+Matplotlib:
+SciPy: 
 rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
 Xorg: Free and open-source implementation of the X Window System.
 Xquartz: Open-source effort to develop a version of the X.Org X Window System that runs on macOS.
