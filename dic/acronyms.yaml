@@ -99,6 +99,7 @@ POSIX:
 QoS: Quality of Service
    
 REANNZ: Research Education Advanced Network New Zealand
+RDC: Research Developer Cloud
 SCP:
   long: Means of securely transferring files between over an SSH connection.
   short: Secure Copy Protocol
@@ -128,6 +129,7 @@ VNC: Virtual Network Computing
 VPN:
   long: Method of extending access to a private network.
   short: Virtual Private Network
+VRAM: Virtual RAM
 WCRP: World Climate Research Programme
 WSL: Windows Subsystem for Linux
 XVFB:

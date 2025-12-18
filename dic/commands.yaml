@@ -2,3 +2,5 @@
 Nano:
   checkcase: false
 srun:
+sbatch:
+env:
