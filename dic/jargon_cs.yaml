@@ -57,7 +57,8 @@ nobackup:
 parallelisation:
 pragma:
   plural: true
-precompiled:
+precompiled: Sofware that is already compiled before you get hold of it.
+preprocessor: A program that processes its input data to produce output that is used as input in another program.
 profiler:
   plural: true
   possessive: true

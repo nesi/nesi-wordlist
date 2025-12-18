@@ -11,6 +11,8 @@ Conda:
 cron: A job scheduler on Unix-like operating systems
 crontab:
 Cylc:
+cylc:
+DCV:
 Dask:
 DCV:
 FASTA: Bioinformatics file format.
@@ -48,6 +50,17 @@ Pluto.ji:
 pthread:
 PuTTY:
 RStudio:
+AutoDock:
+GridRunner:
+gfortran: GNU Fortran compiler.
+Synda:
+VSCode: Visual Studio Code
+PacBio:
+Aspera:
+Keras:
+NumPy:
+Matplotlib:
+SciPy: 
 rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
 Synda:
 schedmd:
