@@ -854,7 +854,9 @@ so other databases could be implemented in the future.
  because of the strength of its underlying mathematical models. In the past, this strength
  came at significant computational expense, but in the new HMMER3 project, HMMER is now
  essentially as fast as BLAST.
+*[HPCs's]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[HPCs]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[HPC's]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[HPC]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[HTSeq's]: HTSeq is a Python library to facilitate processing and analysis
  of data from high-throughput sequencing (HTS) experiments.
@@ -3069,9 +3071,13 @@ perform quality-control on BAM/CRAM/BCF/VCF/GVCF
 *[sratoolkit]: The SRA Toolkit, and the source-code SRA System Development
  Kit (SDK), will allow you to programmatically access data housed within SRA
  and convert it from the SRA format
+*[supercomputers's]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[supercomputers]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[supercomputer's]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[supercomputer]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[supercomputings's]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[supercomputings]: Like a regular computer, but larger. Primarily used for heating data centers.
+*[supercomputing's]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[supercomputing]: Like a regular computer, but larger. Primarily used for heating data centers.
 *[swarm's]: A robust and fast clustering method for amplicon-based studies.
 The purpose of swarm is to provide a novel clustering algorithm that handles massive sets of amplicons. Results of traditional clustering algorithms are strongly input-order dependent, and rely on an arbitrary global clustering threshold. swarm results are resilient to input-order changes and rely on a small local linking threshold d, representing the maximum number of differences between two amplicons.
