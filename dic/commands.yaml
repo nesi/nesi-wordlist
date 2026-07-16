@@ -1,6 +1,16 @@
----
 Nano:
   checkcase: false
-srun:
-sbatch:
+PWD:
+bashrc:
+csh:
+dirname:
 env:
+gzip:
+htop:
+mkdir:
+mpirun:
+sacct:
+sbatch:
+srun:
+taskset:
+wmake: OpenFOAM build command

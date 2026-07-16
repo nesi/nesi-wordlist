@@ -1,26 +1,35 @@
----
 admonition:
 analytics:
 annum:
 backfill:
+barcode:
+  plural: true
 collapsable:
+curation:
 customisable:
 customisations:
+designee:
 findable:
 in situ:
-onboarded:
+linkable:
 onboard:
+onboarded:
 parallelise:
+precomputed:
 prepend:
 prepending:
-programmatically:
 procurement:
   plural: true
+programmatically:
 programme:
   plural: true
+  possessive: true
 reproducibility:
+requestor:
 requeued:
+spacebar:
+synonymously:
 unallocated:
 unmount:
-barcode:
-curation:
+webpage:
+  plural: true

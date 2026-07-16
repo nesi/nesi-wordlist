@@ -1,52 +1,107 @@
----
 Bourne:
+Cyber:
+DevOps: Development and Operations
 Gbps: Gigabit per second
+KMP: Intel OpenMP environment variable prefix, e.g. KMP_AFFINITY
+LALR: LALR parser
+MEM: Slurm sacct field
+MaxRSS: Slurm sacct field
 PowerShell: Windows Command Line Shell
+ReqMem: Slurm sacct field
+ReqNodeNotAvail: Slurm job reason code
 SquashFS: Compressed read-only file system for Linux.
+TMPDIR:
+TotalCPU: Slurm sacct field
 XC:
-autoscale:
-autoscaling:
+Xmx: Java JVM heap size flag
+auth:
 authenticator:
   plural: true
   possessive: true
+autoclean:
+autocleaner:
+autocleaning:
+autocomplete:
+autocompleting:
+autodelete:
+autodeletion:
+automagically:
+autoscale:
+autoscaling:
+backend:
+  plural: true
+  short: Part of a computer system or application that is not directly accessed by
+    the user.
+backfilled:
+backfilling:
+backgrounded:
 backplane:
-backend: Part of a computer system or application that is not directly accessed by the user.
 benchmark:
 benchmarking:
+bytecode:
+centric:
 checkpointing:
 checksum:
   plural: true
 chiplets:
+codec:
+  plural: true
+conf: Common file extension
 config:
 craype: Cray Programming Environment
+customizable:
 dataset:
   plural: true
-dereference:
-DevOps: Development and Operations
-eScience:
-exe: &ref_1
+datatype:
   plural: true
-executable: *ref_1
+deallocating:
+deployable:
+dereference:
+deserialization:
+distro:
+  plural: true
+eScience:
+exe: &id001
+  plural: true
+executable: *id001
 fairshare:
+fanout:
 fileset:
   plural: true
 filesystem:
   plural: true
-glob: &ref_0
-  short: A pattern that specifies sets of filenames with wildcard characters, used by the Unix Bash shell.
-globbing: *ref_0
+frontend:
+geospatial:
+glob: &id002
+  short: A pattern that specifies sets of filenames with wildcard characters, used
+    by the Unix Bash shell.
+globbing: *id002
+hashbang:
+heredoc:
 hostname:
+  plural: true
+hypergraph:
+hyperthread:
   plural: true
 hyperthreaded:
 hyperthreading:
+in silico:
 inode:
   plural: true
+interprocess:
+jobid:
 libio:
+lifecycle:
 linker:
-  short: A program used with a compiler or assembler to provide links to the libraries needed for an executable program.
   plural: true
+  short: A program used with a compiler or assembler to provide links to the libraries
+    needed for an executable program.
 localhost:
+manpages:
 microarchitecture:
+mmap:
+multicast:
+multicore:
 multithread:
 multithreaded:
 multithreading:
@@ -54,36 +109,68 @@ namespace:
   plural: true
 nav:
 nobackup:
+nodelist:
 parallelisation:
+parallelising:
+parallelizable:
+params:
+postprocessing:
 pragma:
   plural: true
+precalculating:
 precompiled: Sofware that is already compiled before you get hold of it.
-preprocessor: A program that processes its input data to produce output that is used as input in another program.
+precompiler:
+preprocessor: A program that processes its input data to produce output that is used
+  as input in another program.
+procs:
 profiler:
   plural: true
   possessive: true
+quantised:
+readonly:
+reconfiguring:
+recurse:
+relinking:
+repartitioning:
 repo:
   plural: true
-recurse:
+reportable:
 roadmap:
 runtime:
+  plural: true
+runtypes:
 scalable:
 setgid:
+shabang:
 stderr:
 stdin:
 stdout:
+subcritical:
 subdirectory:
   plural: true
+subgrid:
+subtree:
+  plural: true
 sudo:
-symlink: Symbolic Link
+symlink:
+  plural: true
+  short: Symbolic Link
 templating:
+timeframe:
+tmp:
 tmpfs: Temporary file storage paradigm implemented in many Unix-like operating systems.
+tokenizer:
+  plural: true
 toolchain:
   plural: true
 tooltip:
   plural: true
   possessive: true
+transcoding:
+txt: Common file extension
 validator:
-vectorisation: A style of computer programming where operations are applied to whole arrays instead of individual elements.
+vectorisation: A style of computer programming where operations are applied to whole
+  arrays instead of individual elements.
+vectorize:
 walltime:
   plural: true

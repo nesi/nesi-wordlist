@@ -1,14 +1,114 @@
+ANI: Average Nucleotide Identity
+Archaea:
+BCF: Binary Call Format
+Cladogram:
+  plural: true
+Clairvoyante:
+CpG:
+EDirect: NCBI Entrez Direct
+EIGENSTRAT:
+EMMAX:
+GBS: Genotyping By Sequencing
+GCTA:
+GFF: General Feature Format
+GSNAP:
+GTF: Gene Transfer Format
+MAF: Minor Allele Frequency
+MEGAX: MEGA-X, phylogenetics software
+MNase:
+NanoMethPhase:
+Phylogram:
+  plural: true
+RADseq:
+RNAseq:
+Regrafting:
+Rotamer:
+  plural: true
+SMRT: Single Molecule Real-Time sequencing
+SPR: Subtree Pruning and Regrafting
+StrVCTVRE:
+Subunit:
+  plural: true
+VOGDB:
+VariantEffectPredictor:
+amplicon:
+  plural: true
+archaeal:
+barcoding:
 basecaller:
+basecalling:
+bioinformatic:
+bioinformatics:
+biomolecular:
 biomolecule:
   plural: true
+cDNA:
+contig:
+  plural: true
+dbxref:
+ddRAD:
+demultiplex:
+demultiplexing:
+dereplication:
+dfam: Dfam repeat element database
+eggnogdb:
+fastsimcoal:
 genomic:
   plural: true
 genotype:
   plural: true
 genotyping:
+homolog:
+  plural: true
+indel:
+  plural: true
+isoform:
+  plural: true
+kilobase:
+  plural: true
+kmer:
+  plural: true
+ligand:
+  plural: true
+megabase:
+  plural: true
+megablast:
+metagenome:
+  plural: true
 metagenomic:
+  plural: true
+methylation:
+microRNA:
+  plural: true
+minimizer:
+mitogenome:
+multimer:
+  plural: true
+nucleotide:
+  plural: true
+ortholog:
+  plural: true
+paralog:
+  plural: true
+paralogous:
+phenotype:
   plural: true
 phylogenetic:
   plural: true
+phylogeny:
+  plural: true
+phylogeography:
+pseudogene:
+  plural: true
+rRNA:
+refseq:
+rereplication:
+resequencing:
+sORF:
+subsampling:
+transcriptional:
 transcriptome:
   plural: true
+transposable:
+unmapped:
+waterman: As in the Smith-Waterman algorithm

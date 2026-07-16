@@ -13,6 +13,12 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
+    - name: Check YAML key order
+      run: |
+        for file in dic/*.yml dic/*.yaml; do
+          python3 sort_yaml_keys.py "$file"
+        done
+        git diff --exit-code -- dic
     - name: json-yaml-validate
       uses: GrantBirki/json-yaml-validate@v2.7.1
       with:

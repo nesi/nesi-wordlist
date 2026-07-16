@@ -1,4 +1,44 @@
----
 CAE: Computer Aided Engineering
 CFD: Computational Fluid Dynamics
 FEA: Finite Element Analysis
+Fock: As in Hartree-Fock
+GBW: ORCA quantum chemistry wavefunction file format
+GGA: Generalized Gradient Approximation
+GPW: Gaussian Plane Wave method, used in CP2K
+GTH: Goedecker-Teter-Hutter pseudopotentials
+Hartree: As in Hartree-Fock
+Intercomparison:
+KPAR: VASP parallelization parameter
+Multiphysics:
+Wavefunction:
+automata:
+convolutional:
+coupler:
+  plural: true
+discretization:
+eigendecomposition:
+eigenproblems:
+electromagnetics:
+functionals:
+gridding:
+isovalue:
+iteratively:
+kpoints: k-points, common in DFT/solid-state physics
+mesoscale:
+mesoscopic:
+metadynamics:
+multigrid:
+multireference:
+nanoscale:
+nanostructures:
+nonbonded:
+optimality:
+orthorhombic:
+parameterisation:
+pseudopotentials:
+rasterization:
+semiempirical:
+tos: CMIP variable name for Sea Surface Temperature
+ultrasoft:
+underflows:
+vibrational:

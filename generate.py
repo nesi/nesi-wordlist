@@ -86,8 +86,8 @@ def pluralise(k, v):
         if re.search('[sxz]$', k) or re.search('[^aeioudgkprt]h$', k):
             yield re.sub('$', 'es', k), v
         # Make it plural by removing y from end adding ies to end
-        elif re.search('[aeiou]y$', k):
-            yield re.sub('y$', 'ies', k)
+        elif re.search('[^aeiou]y$', k):
+            yield re.sub('y$', 'ies', k), v
         # Make the plural of word by adding s in end
         else:
             yield k + "s", v

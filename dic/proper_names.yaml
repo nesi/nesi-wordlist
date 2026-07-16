@@ -1,48 +1,80 @@
----
 AgResearch:
-  short: Crown Research Institute, agricultural science.
   possessive: true
+  short: Crown Research Institute, agricultural science.
 Allinea:
 Amdahl:
+  possessive: true
 Aotearoa:
   possessive: true
 Apache:
+Bitbucket:
 Broadwell:
 Bruijn:
+CORBA:
 Centos:
+DeepMind:
+DeepSeek:
+EMBnet:
 Easybuild:
+Ehrenfest:
+Ensembl:
+Entrez:
+GFDL: Geophysical Fluid Dynamics Laboratory
 GFortran:
+Galerkin:
+GenBank:
 GitHub:
 GitLab:
+Gitea:
 Glib:
 Globus:
 GlobusID:
 InfiniBand:
+Jarzynski:
 Landcare:
 Lmod:
+MNIST:
+MSDOS: MS-DOS
 Marsden:
+Meta:
+  possessive: true
 Milan:
+MkDocs:
 MyNeSI: NeSI account and allocation portal.
+NIST:
+NOAA:
+NVLink:
+Nelle:
+  possessive: true
 New Zealander:
 Nvidia:
-NVLink:
-OMP: &ref_0
+OMP: &id001
   short: Open Multi-Processing
 OneDrive:
-OpenMP: *ref_0
-OpenSSH: A suite of secure networking utilities based on the Secure Shell (SSH) protocol, which provides a secure channel over an unsecured network.
-OpenSSL: A software library for applications that provide secure communications over computer networks.
+OpenMP: *id001
+OpenSSH: A suite of secure networking utilities based on the Secure Shell (SSH) protocol,
+  which provides a secure channel over an unsecured network.
+OpenSSL: A software library for applications that provide secure communications over
+  computer networks.
 Otago:
+PKWARE:
+  possessive: true
 Pletzer:
+PyPI:
 Schrödinger:
   possessive: true
 Skylake:
 Slurm:
   possessive: true
-Tuakiri: New Zealand federated identity and access management.
+Tuakiri:
+  possessive: true
+  short: New Zealand federated identity and access management.
+Versity:
+Voronoi:
 WEKA: Parallel Filesystem
 Xeon:
 Xerces:
 Zealander:
 Zendesk:
-
+bioRxiv:
+eResearch:

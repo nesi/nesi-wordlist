@@ -1,72 +1,73 @@
----
 AOCL: AOCL is a set of numerical libraries optimized for AMD processors
 Aspera:
 AutoDock:
+BigFile: Part of Bio-DB-BigFile
 Bioconductor:
-CentOS:
 CESM:
 CIME:
-conda:
+CentOS:
 Conda:
-cron: A job scheduler on Unix-like operating systems
-crontab:
 Cylc:
-cylc:
 DCV:
 Dask:
-DCV:
+Dockerfile:
+  plural: true
 FASTA: Bioinformatics file format.
 FASTQ:
 FENSAP:
 Fortran:
-FreeIPA: 
+FreeIPA:
+GTK: open-source toolkit for creating graphical user interfaces
 GeneMark:
 GridRunner:
-GTK: open-source toolkit for creating graphical user interfaces
-Illumina:
-ImageMagick:
 IOBUF:
+Illumina:
+  possessive: true
+ImageMagick:
 Jinja:
 Jupyter: A web-based interactive computing platform
-JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
+JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances
+  of the single-user Jupyter notebook server.
 Keras:
 Keycloak:
 Kibana: Kibana is a source-available data visualization dashboard software for Elasticsearch.
 Kraken:
 Kubernetes:
 LAPACK:
-lmod:
-MacOS:
-Miniconda:
 MKL:
+MacOS:
+Matplotlib:
+Miniconda:
 MobaXterm:
 Nanopore:
+  possessive: true
 Nsight:
+NumPy:
 OnDemand: Open OnDemand
 OpenACC:
 OpenGL:
 PacBio:
 Pluto.ji:
-pthread:
 PuTTY:
 RStudio:
-AutoDock:
-GridRunner:
-gfortran: GNU Fortran compiler.
+SciPy:
 Synda:
 VSCode: Visual Studio Code
-PacBio:
-Aspera:
-Keras:
-NumPy:
-Matplotlib:
-SciPy: 
-rsync: rsync is a utility for transferring and synchronizing files between a computer and a storage drive and across networked computers
-Synda:
-schedmd:
-VSCode: Visual Studio Code
-WinSCP:
 WRF: Weather Research Forecasting Model
+WinSCP:
 Xming:
 Xorg: Free and open-source implementation of the X Window System.
-Xquartz: Open-source effort to develop a version of the X.Org X Window System that runs on macOS.
+Xquartz: Open-source effort to develop a version of the X.Org X Window System that
+  runs on macOS.
+conda:
+cron: A job scheduler on Unix-like operating systems
+crontab:
+cylc:
+funcX: Former name of the Globus Compute service
+gfortran: GNU Fortran compiler.
+libstdc: libstdc++, the GNU Standard C++ Library
+lmod:
+pthread:
+rsync: rsync is a utility for transferring and synchronizing files between a computer
+  and a storage drive and across networked computers
+schedmd:
