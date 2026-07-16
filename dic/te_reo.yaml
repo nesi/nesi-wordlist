@@ -10,33 +10,33 @@ kia:
 Kirikiriroa:
 Kuhukuhu: to enter/go in/join # Uni of Waikato IT hub
 Mahuika:
-  possessive: True
+  possessive: true
 Manaaki:
 Māui:
-  possessive: True
+  possessive: true
 mihi:
 ngā:
 nga:  #Annoyingly pyspell doesn't acnowledge macrons? Hopefully this is temporary.
 ora:
-Ōtautahi: 
-  possessive: True
-Otautahi: 
-  possessive: True
-Ōtepoti: 
-  possessive: True
-Otepoti: 
-  possessive: True
+Ōtautahi:
+  possessive: true
+Otautahi:
+  possessive: true
+Ōtepoti:
+  possessive: true
+Otepoti:
+  possessive: true
 Tāmaki:
-  possessive: True
+  possessive: true
 Tamaki:
-  possessive: True
+  possessive: true
 taonga: precious or treasured
-Tauranga: 
-  possessive: True
-Te Whanganui-a-Tara: 
-  possessive: True
-Waikato: 
-  possessive: True
+Tauranga:
+  possessive: true
+Te Whanganui-a-Tara:
+  possessive: true
+Waikato:
+  possessive: true
 whānau: family
 whanau:  #Annoyingly pyspell doesn't acnowledge macrons? Hopefully this is temporary.
 Whenua:
