@@ -24,10 +24,9 @@ GeneMark:
 GridRunner:
 GTK: open-source toolkit for creating graphical user interfaces
 Illumina:
-ImagMagick:
+ImageMagick:
 IOBUF:
 Jinja:
-Julia+Pluto.ji:
 Jupyter: A web-based interactive computing platform
 JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances of the single-user Jupyter notebook server.
 Keras:
