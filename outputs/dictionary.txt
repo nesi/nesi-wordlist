@@ -76,6 +76,7 @@ Amdahl
 Anaconda3's
 Anaconda3
 Ancil
+Aotearoa's
 Aotearoa
 Apache
 Apptainer's
@@ -179,6 +180,7 @@ CFITSIO's
 CFITSIO
 CGAL's
 CGAL
+CIME
 CLI
 CMIP
 CMake's
@@ -548,7 +550,6 @@ IRkernel
 ISA-L's
 ISA-L
 Illumina
-ImagMagick
 ImageMagick's
 ImageMagick
 Infernal's
@@ -590,6 +591,7 @@ Kent_tools
 Keras
 Keycloak
 Kibana
+Kirikiriroa
 KmerGenie's
 KmerGenie
 KorfSNAP's
@@ -599,6 +601,8 @@ Kraken2's
 Kraken2
 KronaTools's
 KronaTools
+Kubernetes
+Kuhukuhu
 LAME's
 LAME
 LAMMPS's
@@ -880,6 +884,10 @@ OpenSlide
 OrthoFinder's
 OrthoFinder
 Otago
+Otautahi's
+Otautahi
+Otepoti's
+Otepoti
 PALEOMIX's
 PALEOMIX
 PAML's
@@ -939,6 +947,7 @@ PlasMAAG
 Pletzer
 Pluto's
 Pluto
+Pluto.ji
 PnetCDF's
 PnetCDF
 Porechop's
@@ -1106,6 +1115,7 @@ Sambamba
 ScaLAPAC
 ScaLAPACK's
 ScaLAPACK
+Schrödinger's
 Schrödinger
 SciPy
 SeisSol's
@@ -1123,6 +1133,7 @@ Siesta
 SignalP's
 SignalP
 Skylake
+Slurm's
 Slurm
 Sniffles's
 Sniffles
@@ -1176,9 +1187,14 @@ TURBOMOLE
 TWL-NINJA's
 TWL-NINJA
 TZ
+Tamaki's
 Tamaki
+Tauranga's
+Tauranga
 Tcl's
 Tcl
+Te Whanganui-a-Tara's
+Te Whanganui-a-Tara
 TensorFlow's
 TensorFlow
 TensorRT's
@@ -1204,6 +1220,8 @@ TuiView's
 TuiView
 TurboVNC's
 TurboVNC
+Tāmaki's
+Tāmaki
 UCC's
 UCC
 UCC-CUDA's
@@ -1244,6 +1262,7 @@ VMD's
 VMD
 VNC
 VPN
+VRAM
 VSCode
 VSEARCH's
 VSEARCH
@@ -1277,6 +1296,8 @@ WFA2's
 WFA2
 WRF
 WSL
+Waikato's
+Waikato
 WhatsHap's
 WhatsHap
 Whenua
@@ -1341,6 +1362,7 @@ autoscaling
 azul-zulu's
 azul-zulu
 backend
+backfill
 backplane
 bakta's
 bakta
@@ -1461,6 +1483,7 @@ ensmallen's
 ensmallen
 entrez-direct's
 entrez-direct
+env
 exes
 exe
 executables
@@ -1558,6 +1581,8 @@ haplocheck
 hapū
 hifiasm's
 hifiasm
+hostnames
+hostname
 hwloc's
 hwloc
 hyperthreaded
@@ -1708,6 +1733,7 @@ likwid's
 likwid
 linkers
 linker
+lmod
 localhost
 lockdown
 lp_solve's
@@ -1858,6 +1884,8 @@ pod5's
 pod5
 pplacer's
 pplacer
+pragmas
+pragma
 precompiled
 prepend
 prepending
@@ -1885,6 +1913,7 @@ psmc's
 psmc
 pstoedit's
 pstoedit
+pthread
 pullseq's
 pullseq
 purge_dups's
@@ -1932,11 +1961,13 @@ samblaster's
 samblaster
 samclip's
 samclip
+sbatch
 sbt's
 sbt
 sc-RNA's
 sc-RNA
 scalable
+schedmd
 screen_assembly's
 screen_assembly
 seqmagick's
@@ -2035,6 +2066,7 @@ validator
 vcflib's
 vcflib
 vectorisation
+venv
 verkko's
 verkko
 vg's
@@ -2047,6 +2079,7 @@ wannier90's
 wannier90
 wgsim's
 wgsim
+whanau
 wheel's
 wheel
 whānau
@@ -2078,3 +2111,7 @@ zlib's
 zlib
 zstd's
 zstd
+Ōtautahi's
+Ōtautahi
+Ōtepoti's
+Ōtepoti
