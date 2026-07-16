@@ -2,21 +2,41 @@
 # Maori
 # While 'mi_NZ' dictionaries exist, not all spellcheckers can handle multiple.
 # Easier to just impliment through a word list.
-Māui:
-  possessive: True
-Mahuika:
-  possessive: True
-ngā:
-nga:  #Annoyingly pyspell doesn't acnowledge macrons? Hopefully this is temporary.
-mihi:
-kia:
-ora:
-Manaaki:
-Whenua:
-Tamaki:
+hapū: kinship group
+iwi: tribe
 kaitiaki: Guardian
 kaitiakitanga: Guardianship
-iwi: tribe
-hapū: kinship group
-whānau: family
+kia:
+Kirikiriroa:
+Kuhukuhu: to enter/go in/join # Uni of Waikato IT hub
+Mahuika:
+  possessive: true
+Manaaki:
+Māui:
+  possessive: true
+mihi:
+ngā:
+nga:  #Annoyingly pyspell doesn't acnowledge macrons? Hopefully this is temporary.
+ora:
+Ōtautahi:
+  possessive: true
+Otautahi:
+  possessive: true
+Ōtepoti:
+  possessive: true
+Otepoti:
+  possessive: true
+Tāmaki:
+  possessive: true
+Tamaki:
+  possessive: true
 taonga: precious or treasured
+Tauranga:
+  possessive: true
+Te Whanganui-a-Tara:
+  possessive: true
+Waikato:
+  possessive: true
+whānau: family
+whanau:  #Annoyingly pyspell doesn't acnowledge macrons? Hopefully this is temporary.
+Whenua:

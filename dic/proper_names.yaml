@@ -5,6 +5,7 @@ AgResearch:
 Allinea:
 Amdahl:
 Aotearoa:
+  possessive: true
 Apache:
 Broadwell:
 Bruijn:
@@ -34,8 +35,10 @@ OpenSSL: A software library for applications that provide secure communications 
 Otago:
 Pletzer:
 Schrödinger:
+  possessive: true
 Skylake:
 Slurm:
+  possessive: true
 Tuakiri: New Zealand federated identity and access management.
 WEKA: Parallel Filesystem
 Xeon:
