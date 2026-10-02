@@ -15,6 +15,7 @@ jobs:
       uses: actions/checkout@v4
     - name: Check YAML key order
       run: |
+        shopt -s nullglob
         for file in dic/*.yml dic/*.yaml; do
           python3 sort_yaml_keys.py "$file"
         done

@@ -1,6 +1,8 @@
 name: Generate Outputs
 on:
   push:
+    branches:
+      - main
     paths:
       - dic/*.y*ml
   workflow_dispatch:
