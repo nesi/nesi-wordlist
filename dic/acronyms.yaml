@@ -183,7 +183,7 @@ RDC: Research Developer Cloud
 REANNZ:
   possessive: true
   short: Research Education Advanced Network New Zealand
-RHEL:
+RHEL: Red Hat Enterprise Linux
 RPA: Random Phase Approximation
 RRBS: Reduced Representation Bisulfite Sequencing
 RSS: Resident Set Size (memory)
@@ -255,12 +255,9 @@ WSL: Windows Subsystem for Linux
 XCB: X protocol C-language Binding
 XVFB:
   long: 'A display server implementing the X11 display server protocol, XVFB performs
-    all graphical operations in virtual memory without showing any screen output.
-
-    This allows applications that ''require'' a GUI to run in a command line environment.
-    Can be invoked with `xvfb-run`.
-
-    '
+        all graphical operations in virtual memory without showing any screen output.
+        This allows applications that require a GUI to run in a command line environment.
+        Can be invoked with `xvfb-run`'
   short: X Virtual FrameBuffer
 YAML: Yet Another Markup Language
 supercomputer: *id002
