@@ -1,3 +1,4 @@
+Alloc:
 Bourne:
 Cyber:
 DevOps: Development and Operations
@@ -40,6 +41,7 @@ benchmark:
 benchmarking:
 bytecode:
 centric:
+checkpointed:
 checkpointing:
 checksum:
   plural: true
