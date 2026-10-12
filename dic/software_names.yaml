@@ -36,7 +36,6 @@ Kraken:
 Kubernetes:
 LAPACK:
 MKL:
-MacOS:
 Matplotlib:
 Miniconda:
 MobaXterm:
@@ -53,7 +52,7 @@ PuTTY:
 RStudio:
 SciPy:
 Synda:
-VSCode: Visual Studio Code
+VS Code: Visual Studio Code
 WRF: Weather Research Forecasting Model
 Waldur:
 WinSCP:
@@ -69,6 +68,7 @@ funcX: Former name of the Globus Compute service
 gfortran: GNU Fortran compiler.
 libstdc: libstdc++, the GNU Standard C++ Library
 lmod:
+macOS:
 pthread:
 rsync: rsync is a utility for transferring and synchronizing files between a computer
   and a storage drive and across networked computers
