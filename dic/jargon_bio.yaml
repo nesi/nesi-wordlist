@@ -1,114 +1,185 @@
 ANI: Average Nucleotide Identity
-Archaea:
-BCF: Binary Call Format
-Cladogram:
-  plural: true
+Archaea: &id001
+  short: Single-celled prokaryotes, a domain of life separate from bacteria
+BCF:
+  short: Binary Variant Call Format (binary VCF)
 Clairvoyante:
+  short: Deep-learning variant caller for single-molecule sequencing, predecessor
+    of Clair3
 CpG:
+  short: Cytosine-phosphate-guanine dinucleotide (methylation site)
+Dfam: Dfam repeat element database
 EDirect: NCBI Entrez Direct
 EIGENSTRAT:
+  short: EIGENSOFT method and file format for correcting population stratification
 EMMAX:
+  short: Efficient Mixed-Model Association eXpedited
 GBS: Genotyping By Sequencing
 GCTA:
+  short: Genome-wide Complex Trait Analysis
 GFF: General Feature Format
 GSNAP:
+  short: Genomic Short-read Nucleotide Alignment Program
 GTF: Gene Transfer Format
-MAF: Minor Allele Frequency
-MEGAX: MEGA-X, phylogenetics software
+MAF:
+  short: Multiple Alignment Format (also Minor Allele Frequency)
+MEGAX:
+  short: MEGA X (Molecular Evolutionary Genetics Analysis), phylogenetics software
 MNase:
+  short: Micrococcal nuclease
 NanoMethPhase:
-Phylogram:
-  plural: true
+  short: Tool for phasing methylation from nanopore sequencing
 RADseq:
+  short: Restriction-site associated DNA sequencing
 RNAseq:
-Regrafting:
-Rotamer:
-  plural: true
+  short: RNA sequencing
+RefSeq:
+  short: NCBI Reference Sequence database
 SMRT: Single Molecule Real-Time sequencing
 SPR: Subtree Pruning and Regrafting
 StrVCTVRE:
-Subunit:
-  plural: true
+  short: Tool that scores how likely structural variants are to cause disease
 VOGDB:
+  short: Virus Orthologous Groups database
 VariantEffectPredictor:
+  short: Ensembl tool that predicts the effects of variants (VEP)
+Waterman: As in the Smith-Waterman algorithm
 amplicon:
   plural: true
-archaeal:
+  short: A DNA fragment copied many times by PCR
+archaeal: *id001
 barcoding:
-basecaller:
-basecalling:
-bioinformatic:
-bioinformatics:
+  short: Identifying samples or species by a short DNA sequence
+basecaller: &id002
+  short: Converting raw sequencer signal into nucleotide sequences
+basecalling: *id002
+bioinformatic: &id003
+  short: Using computing to collect, store and analyse biological data
+bioinformatics: *id003
 biomolecular:
+  short: Relating to biomolecules
 biomolecule:
   plural: true
+  short: A molecule made by living organisms, such as a protein or nucleic acid
 cDNA:
+  short: Complementary DNA
+cladogram:
+  plural: true
+  short: Branching diagram of evolutionary relationships
 contig:
   plural: true
+  short: Continuous sequence assembled from overlapping reads
 dbxref:
+  short: Database cross-reference
 ddRAD:
-demultiplex:
-demultiplexing:
+  short: Double-digest restriction-site associated DNA sequencing
+demultiplex: &id004
+  short: Separating pooled sequencing reads by sample, usually by barcode
+demultiplexing: *id004
 dereplication:
-dfam: Dfam repeat element database
+  short: Collapsing identical sequences into one
 eggnogdb:
+  short: eggNOG orthology and functional annotation database
 fastsimcoal:
+  short: Software for simulating and inferring population demography
 genomic:
   plural: true
+  short: Relating to a genome
 genotype:
   plural: true
+  short: The genetic makeup of an organism at given loci
 genotyping:
+  short: Determining the genotype of individuals
 homolog:
   plural: true
+  short: Gene related to another by shared ancestry
 indel:
   plural: true
+  short: An insertion or deletion of bases in a sequence
 isoform:
   plural: true
+  short: One of several forms of a protein or transcript from the same gene
 kilobase:
   plural: true
+  short: One thousand bases (kb)
 kmer:
   plural: true
+  short: A substring of length k from a sequence (k-mer)
 ligand:
   plural: true
+  short: Molecule that binds to a target, such as a protein
 megabase:
   plural: true
+  short: One million bases (Mb)
 megablast:
-metagenome:
+  short: BLAST mode for fast alignment of very similar sequences
+metagenome: &id005
   plural: true
-metagenomic:
-  plural: true
+  short: The combined genomes of a community of organisms sampled directly from the
+    environment
+metagenomic: *id005
 methylation:
+  short: Addition of a methyl group, such as to DNA bases
 microRNA:
   plural: true
+  short: Small non-coding RNA that regulates gene expression
 minimizer:
+  short: Representative k-mer used to index sequences, as in minimap2
 mitogenome:
+  short: The mitochondrial genome
 multimer:
   plural: true
+  short: Protein complex made of several chains
 nucleotide:
   plural: true
+  short: A building block of DNA or RNA
 ortholog:
   plural: true
+  short: Gene in different species descended from one ancestral gene
 paralog:
   plural: true
+  short: Gene related to another by duplication within a genome
 paralogous:
+  short: Related by gene duplication
 phenotype:
   plural: true
-phylogenetic:
+  short: The observable traits of an organism
+phylogenetic: &id006
   plural: true
-phylogeny:
-  plural: true
+  short: The evolutionary history and relationships of organisms
+phylogeny: *id006
 phylogeography:
+  short: Study of how genetic lineages are distributed geographically
+phylogram:
+  plural: true
+  short: Branching diagram whose branch lengths show amount of change
 pseudogene:
   plural: true
+  short: Non-functional copy of a gene
 rRNA:
-refseq:
+  short: Ribosomal RNA
+regrafting:
+  short: As in subtree pruning and regrafting (SPR), a tree search move
 rereplication:
+  short: Restoring the counts of dereplicated sequences
 resequencing:
+  short: Sequencing an organism with a known reference genome to find variants
+rotamer:
+  plural: true
+  short: One of the preferred conformations of an amino acid side chain
 sORF:
+  short: Small open reading frame
 subsampling:
+  short: Selecting a random subset of data, such as reads
+subunit:
+  plural: true
+  short: A single chain in a protein complex
 transcriptional:
+  short: Relating to transcription of DNA into RNA
 transcriptome:
   plural: true
+  short: The full set of RNA transcripts in a cell or sample
 transposable:
+  short: As in transposable elements, sequences that can move within a genome
 unmapped:
-waterman: As in the Smith-Waterman algorithm
+  short: Reads that did not align to the reference

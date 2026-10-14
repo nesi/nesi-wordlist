@@ -1,16 +1,29 @@
 Nano:
   checkcase: false
-PWD:
+  short: Simple terminal text editor
+PWD: Current working directory
 bashrc:
+  short: Bash start-up file (~/.bashrc) run for each interactive shell
 csh:
+  short: C shell
 dirname:
+  short: Command that strips the last component from a path
 env:
+  short: Command that shows or sets environment variables
 gzip:
+  short: File compression program and format
 htop:
+  short: Interactive process viewer
 mkdir:
+  short: Command to make a directory
 mpirun:
+  short: Command to launch an MPI program
 sacct:
+  short: Slurm command to show accounting data for jobs
 sbatch:
+  short: Slurm command to submit a batch script
 srun:
+  short: Slurm command to run a job step or interactive job
 taskset:
+  short: Command to set or show which CPUs a process may run on
 wmake: OpenFOAM build command

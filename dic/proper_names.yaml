@@ -1,57 +1,88 @@
 AgResearch:
   possessive: true
-  short: Crown Research Institute, agricultural science.
+  short: Former Crown Research Institute for agricultural science, now part of the
+    Bioeconomy Science Institute.
 Allinea:
+  short: Maker of the DDT debugger and MAP profiler, now Arm Forge/Linaro Forge
 Amdahl:
   possessive: true
+  short: As in Amdahl's law, the limit on speedup from parallelising
 Aotearoa:
   possessive: true
 Apache:
+  short: Apache Software Foundation, or its web server
 Bitbucket:
+  short: Git repository hosting service
 Broadwell:
+  short: Intel CPU microarchitecture
 Bruijn:
+  short: As in de Bruijn graph, used in sequence assembly
 CORBA:
-Centos:
+  short: Common Object Request Broker Architecture
 DeepMind:
+  short: Google's AI research lab
 DeepSeek:
+  short: AI company and its large language models
 EMBnet:
-Easybuild:
+  short: European Molecular Biology Network
 Ehrenfest:
+  short: As in Ehrenfest molecular dynamics
 Ensembl:
+  short: Genome database and browser
 Entrez:
+  short: NCBI database search system
 GFDL: Geophysical Fluid Dynamics Laboratory
-GFortran:
 Galerkin:
+  short: As in the Galerkin method for solving differential equations
 GenBank:
+  short: NIH genetic sequence database
 GitHub:
+  short: Git repository hosting service
 GitLab:
+  short: Git repository hosting service
 Gitea:
-Glib:
+  short: Self-hosted Git service
 Globus:
+  short: Research data transfer and sharing service
 GlobusID:
 InfiniBand:
+  short: High-speed, low-latency network used in HPC clusters
 Jarzynski:
+  short: As in the Jarzynski equality in statistical mechanics
 Landcare:
+  short: Manaaki Whenua - Landcare Research, former Crown Research Institute
 Lmod:
+  short: Environment module system used to load software
 MNIST:
+  short: Modified National Institute of Standards and Technology database of handwritten
+    digits
 MSDOS: MS-DOS
 Marsden:
+  short: Marsden Fund, Royal Society Te Apārangi research grants
 Meta:
   possessive: true
+  short: Technology company, publisher of the Llama models
 Milan:
+  short: AMD EPYC 7003 series (Zen 3) CPU generation
 MkDocs:
-MyNeSI: NeSI account and allocation portal.
+  short: Static site generator used to build these docs
 NIST:
+  short: National Institute of Standards and Technology
 NOAA:
+  short: National Oceanic and Atmospheric Administration
+NVIDIA:
+  short: GPU manufacturer
 NVLink:
+  short: NVIDIA high-speed GPU-to-GPU interconnect
 Nearline:
+  short: Former REANNZ (NeSI) tape storage service, replaced by Freezer
 Nelle:
   possessive: true
 New Zealander:
-Nvidia:
 OMP: &id001
   short: Open Multi-Processing
 OneDrive:
+  short: Microsoft cloud file storage
 OpenMP: *id001
 OpenSSH: A suite of secure networking utilities based on the Secure Shell (SSH) protocol,
   which provides a secure channel over an unsecured network.
@@ -60,22 +91,34 @@ OpenSSL: A software library for applications that provide secure communications 
 Otago:
 PKWARE:
   possessive: true
+  short: Company that created the ZIP file format
 Pletzer:
 PyPI:
+  short: Python Package Index
 Schrödinger:
   possessive: true
+  short: As in the Schrödinger equation; also a molecular modelling software company
 Skylake:
+  short: Intel CPU microarchitecture
 Slurm:
   possessive: true
+  short: Workload manager that schedules jobs on the cluster
 Tuakiri:
   possessive: true
   short: New Zealand federated identity and access management.
 Versity:
+  short: Storage software that powers Freezer
 Voronoi:
+  short: As in Voronoi diagram, a partition of space by nearest point
 WEKA: Parallel Filesystem
 Xeon:
+  short: Intel server CPU line
 Xerces:
+  short: Apache XML parser library
 Zealander:
 Zendesk:
+  short: Support ticketing system
 bioRxiv:
+  short: Preprint server for biology
 eResearch:
+  short: Research that uses advanced computing, data and networks

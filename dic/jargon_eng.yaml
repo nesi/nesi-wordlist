@@ -2,43 +2,84 @@ CAE: Computer Aided Engineering
 CFD: Computational Fluid Dynamics
 FEA: Finite Element Analysis
 Fock: As in Hartree-Fock
-GBW: ORCA quantum chemistry wavefunction file format
+GBW:
+  short: Geometry-Basis-Wavefunction, ORCA's checkpoint file format
 GGA: Generalized Gradient Approximation
-GPW: Gaussian Plane Wave method, used in CP2K
+GPW:
+  short: Gaussian and Plane Waves method, used in CP2K
 GTH: Goedecker-Teter-Hutter pseudopotentials
 Hartree: As in Hartree-Fock
 Intercomparison:
-KPAR: VASP parallelization parameter
+  short: As in the Coupled Model Intercomparison Project (CMIP)
+KPAR:
+  short: VASP parallelisation parameter
 Multiphysics:
-Wavefunction:
+  short: Simulating several coupled physical processes together
 automata:
+  short: Plural of automaton, as in cellular automata
 convolutional:
+  short: As in convolutional neural network
 coupler:
   plural: true
-discretization:
+  short: Software that exchanges data between components of a coupled model
+discretisation:
+  short: Dividing a continuous problem into discrete elements or steps
 eigendecomposition:
-eigenproblems:
+  short: Factoring a matrix into its eigenvalues and eigenvectors
+eigenproblem:
+  plural: true
+  short: Problem of finding eigenvalues and eigenvectors
 electromagnetics:
+  short: Study and simulation of electromagnetic fields
 functionals:
+  short: Functions of functions, as in DFT exchange-correlation functionals
 gridding:
+  short: Interpolating data onto a regular grid
 isovalue:
+  short: The value an isosurface or contour is drawn at
 iteratively:
-kpoints: k-points, common in DFT/solid-state physics
+  short: By repeating a process until it converges
+kpoints:
+  short: VASP KPOINTS input file, which defines the k-point mesh
 mesoscale:
+  short: Intermediate scale, as in mesoscale weather systems
 mesoscopic:
+  short: Between atomic and macroscopic scales
 metadynamics:
+  short: Enhanced-sampling molecular dynamics method
 multigrid:
+  short: Solver method that uses a hierarchy of grids
 multireference:
+  short: Quantum chemistry methods that use several reference states
 nanoscale:
-nanostructures:
+  short: On the scale of nanometres
+nanostructure:
+  plural: true
+  short: Structure with features on the nanometre scale
 nonbonded:
+  short: Interactions between atoms that are not bonded, such as van der Waals
 optimality:
+  short: Being optimal
 orthorhombic:
+  short: Crystal system with three unequal perpendicular axes
 parameterisation:
-pseudopotentials:
-rasterization:
+  short: Representing a process with simplified parameters
+pseudopotential:
+  plural: true
+  short: Effective potential that replaces core electrons in electronic structure
+    calculations
+rasterisation: &id001
+  short: Converting vector graphics or geometry into pixels
+rasteriser: *id001
 semiempirical:
+  short: Quantum chemistry methods that use fitted parameters
 tos: CMIP variable name for Sea Surface Temperature
 ultrasoft:
-underflows:
+  short: As in ultrasoft pseudopotentials
+underflow:
+  plural: true
+  short: When a number is too small to represent in floating point
 vibrational:
+  short: Relating to molecular vibrations
+wavefunction:
+  short: Quantum mechanical description of a system's state

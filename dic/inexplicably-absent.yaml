@@ -1,10 +1,9 @@
 admonition:
 analytics:
 annum:
-backfill:
 barcode:
   plural: true
-collapsable:
+collapsible:
 curation:
 customisable:
 customisations:
@@ -14,7 +13,6 @@ in situ:
 linkable:
 onboard:
 onboarded:
-parallelise:
 precomputed:
 prepend:
 prepending:
