@@ -1,75 +1,117 @@
 AOCL: AOCL is a set of numerical libraries optimized for AMD processors
 Aspera:
+  short: IBM high-speed file transfer software
 AutoDock:
+  short: Molecular docking software
 BigFile: Part of Bio-DB-BigFile
 Bioconductor:
+  short: R packages for bioinformatics
 CESM:
+  short: Community Earth System Model
 CIME:
+  short: Common Infrastructure for Modeling the Earth
 CentOS:
-Conda:
+  short: Linux distribution based on Red Hat Enterprise Linux
 Cylc:
+  short: Workflow engine for cycling systems such as weather forecasting
 DCV:
+  short: Amazon DCV (formerly NICE DCV), a remote display protocol
 Dask:
+  short: Python library for parallel computing
 Dockerfile:
   plural: true
+  short: Text file with instructions to build a container image
 FASTA: Bioinformatics file format.
 FASTQ:
+  short: Text file format for sequence reads with per-base quality scores
 FENSAP:
+  short: As in Ansys FENSAP-ICE, in-flight icing simulation software
 Fortran:
+  short: Programming language used for scientific computing
 FreeIPA:
+  short: Identity and access management software
 GTK: open-source toolkit for creating graphical user interfaces
 GeneMark:
+  short: Gene prediction software
 GraphicsMagick:
+  possessive: true
+  short: Image processing software
 GridRunner:
+  short: HPC GridRunner, runs many small commands as Slurm jobs
 IOBUF:
+  short: Cray I/O buffering library
 Illumina:
   possessive: true
-ImageMagick:
+  short: DNA sequencing company and its short-read technology
 Jinja:
+  short: Python templating engine
 Jupyter: A web-based interactive computing platform
 JupyterHub: Is a multi-user Hub that spawns, manages, and proxies multiple instances
   of the single-user Jupyter notebook server.
 Keras:
+  short: Python deep-learning API
 Keycloak:
+  short: Identity and access management software
 Kibana: Kibana is a source-available data visualization dashboard software for Elasticsearch.
 Kraken:
+  short: Taxonomic classifier for sequencing reads
 Kubernetes:
-LAPACK:
+  short: Container orchestration system
 MKL:
+  short: Intel oneAPI Math Kernel Library (oneMKL)
 Matplotlib:
+  short: Python plotting library
 Miniconda:
+  short: Minimal conda installer
 MobaXterm:
+  short: Windows terminal with SSH and X11 server
 Nanopore:
   possessive: true
+  short: Oxford Nanopore long-read sequencing technology
 Nsight:
+  short: NVIDIA GPU profiling tools
 NumPy:
+  short: Python library for numerical arrays
 OnDemand: Mahuika OnDemand, built on Open OnDemand.
 OpenACC:
+  short: Directive-based programming model for GPUs
 OpenGL:
+  short: Graphics rendering API
 PacBio:
-Pluto.ji:
+  short: Pacific Biosciences long-read sequencing technology
+Pluto.jl:
+  short: Reactive notebooks for Julia
 PuTTY:
+  short: Windows SSH client
 RStudio:
+  short: Integrated development environment for R
+SchedMD:
+  short: Company that develops and supports Slurm
 SciPy:
+  short: Python library for scientific computing
 Synda:
+  short: Tool for downloading climate data from ESGF (deprecated)
 VS Code: Visual Studio Code
-WRF: Weather Research Forecasting Model
-Waldur:
+WRF:
+  short: Weather Research and Forecasting Model
+Waldur: An open-source cloud management platform used for the REANNZ HPC Portal
 WinSCP:
-Xming:
-Xorg: Free and open-source implementation of the X Window System.
-Xquartz: Open-source effort to develop a version of the X.Org X Window System that
+  short: Windows file transfer client
+XQuartz: Open-source effort to develop a version of the X.Org X Window System that
   runs on macOS.
+Xming:
+  short: X11 server for Windows
+Xorg: Free and open-source implementation of the X Window System.
 conda:
+  short: Package and environment manager
 cron: A job scheduler on Unix-like operating systems
 crontab:
-cylc:
+  short: Table of scheduled commands run by cron
 funcX: Former name of the Globus Compute service
 gfortran: GNU Fortran compiler.
 libstdc: libstdc++, the GNU Standard C++ Library
-lmod:
 macOS:
+oneMKL:
+  short: Intel oneAPI Math Kernel Library
 pthread:
-rsync: rsync is a utility for transferring and synchronizing files between a computer
-  and a storage drive and across networked computers
-schedmd:
+  short: POSIX threads

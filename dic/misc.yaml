@@ -1,8 +1,6 @@
-Ancil: Short for Ancilliary
-ctrl:
 deprioritised:
 lockdown:
 md:
+  short: Markdown file extension
 onboarding:
 rollout:
-venv: Virtual environment

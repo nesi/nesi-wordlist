@@ -1,174 +1,279 @@
 Alloc:
+  short: Slurm sacct field, short for AllocCPUS (number of allocated CPUs)
 Bourne:
+  short: As in the Bourne shell (sh)
 Cyber:
+  short: As in cyber security
 DevOps: Development and Operations
-Gbps: Gigabit per second
+FairShare:
+  short: Slurm priority factor based on a project's recent usage relative to its allocation
+Gbps:
+  short: Gigabits per second
 KMP: Intel OpenMP environment variable prefix, e.g. KMP_AFFINITY
-LALR: LALR parser
-MEM: Slurm sacct field
+LALR:
+  short: Look-Ahead LR parser
+MEM:
+  short: Memory usage column (%MEM) in top/htop
 MaxRSS: Slurm sacct field
-PowerShell: Windows Command Line Shell
+PowerShell:
+  short: Microsoft command-line shell and scripting language
 ReqMem: Slurm sacct field
 ReqNodeNotAvail: Slurm job reason code
 SquashFS: Compressed read-only filesystem for Linux.
 TMPDIR:
+  short: Environment variable for the job's temporary directory
 TotalCPU: Slurm sacct field
 XC:
-Xmx: Java JVM heap size flag
+  short: Exchange-correlation (functional); also the Cray XC supercomputer series
+Xmx:
+  short: Java option that sets the maximum heap size
 auth:
+  short: Short for authentication
 authenticator:
   plural: true
   possessive: true
-autoclean:
-autocleaner:
-autocleaning:
-autocomplete:
-autocompleting:
-autodelete:
-autodeletion:
+  short: App or device that generates codes for multi-factor authentication
+autoclean: &id001
+  short: Automatic deletion of files that have not been accessed for a set time
+autocleaner: *id001
+autocleaning: *id001
+autocomplete: &id002
+  short: Suggesting or completing text as you type, for example with Tab in the shell
+autocompleting: *id002
+autodelete: *id001
+autodeletion: *id001
 automagically:
-autoscale:
-autoscaling:
+autoscale: &id003
+  short: Adding or removing computing resources automatically to match demand
+autoscaling: *id003
 backend:
   plural: true
   short: Part of a computer system or application that is not directly accessed by
     the user.
-backfilled:
-backfilling:
+backfill: &id004
+  short: Slurm scheduling that starts smaller jobs early if they won't delay higher-priority
+    jobs
+backfilled: *id004
+backfilling: *id004
 backgrounded:
+  short: Running a process in the background of a shell
 backplane:
-benchmark:
-benchmarking:
+  short: Circuit board that connects components or nodes in a chassis
+benchmark: &id005
+  short: A standard test used to measure and compare performance
+benchmarking: *id005
 bytecode:
+  short: Compiled intermediate code run by a virtual machine
 centric:
-checkpointed:
-checkpointing:
+checkpointed: &id006
+  short: Saving a program's state so it can be restarted from that point
+checkpointing: *id006
 checksum:
   plural: true
+  short: Value computed from data to check it hasn't changed
 chiplets:
+  short: Small dies combined in one processor package
 codec:
   plural: true
+  short: Software or hardware that encodes and decodes data, such as video
 conf: Common file extension
 config:
+  short: Short for configuration
 craype: Cray Programming Environment
-customizable:
 dataset:
   plural: true
+  short: A collection of related data
 datatype:
   plural: true
+  short: The kind of value a variable can hold
 deallocating:
+  short: Releasing memory or resources that were allocated
 deployable:
+  short: Ready to be installed and run in production
 dereference:
-deserialization:
+  short: Access the value a pointer or reference points to
+deserialisation:
+  short: Converting stored or transmitted data back into objects
 distro:
   plural: true
+  short: Linux distribution
 eScience:
-exe: &id001
+  short: Computationally intensive science using networked infrastructure
+exe: &id007
   plural: true
-executable: *id001
-fairshare:
+executable: *id007
 fanout:
+  short: Distributing one input or message to many destinations
 fileset:
   plural: true
+  short: Part of a GPFS (Spectrum Scale) filesystem with its own quota
 filesystem:
   plural: true
+  short: How files are stored and organised on a storage device
 frontend:
+  plural: true
+  short: Part of a computer system or application that the user interacts with directly.
 geospatial:
-glob: &id002
+  short: Relating to data with a geographic location
+glob: &id008
   short: A pattern that specifies sets of filenames with wildcard characters, used
     by the Unix Bash shell.
-globbing: *id002
-hashbang:
+globbing: *id008
+hashbang: &id011
+  short: 'The #! line at the start of a script that names the interpreter to run it
+    (shebang)'
 heredoc:
+  short: Shell syntax (<<) that passes a block of text to a command as input
 hostname:
   plural: true
+  short: Name that identifies a computer on a network
 hypergraph:
+  short: A graph whose edges can join more than two vertices
 in silico:
+  short: Performed by computer simulation
 inode:
   plural: true
+  short: Filesystem record that describes a file; quotas often limit the number of
+    inodes
 interprocess:
+  short: Between processes, as in interprocess communication
 jobid:
+  short: Slurm job ID
 libio:
+  short: Input/output library
 lifecycle:
+  short: The stages something goes through, from creation to retirement
 linker:
   plural: true
   short: A program used with a compiler or assembler to provide links to the libraries
     needed for an executable program.
 localhost:
+  short: Hostname for the computer you're on (127.0.0.1)
 manpages:
+  short: Manual pages, read with the man command
 microarchitecture:
+  short: How a processor design is implemented in hardware
 mmap:
+  short: System call that maps a file into memory
 multicast:
+  short: Sending data to a group of network destinations at once
 multicore:
-multithread:
-multithreaded:
-multithreading:
+  short: Having more than one processor core
+multithread: &id009
+  short: Running several threads of execution within one process, sharing its memory
+multithreaded: *id009
+multithreading: *id009
 namespace:
   plural: true
+  short: A container that keeps names separate from those in other containers
 nav:
+  short: Site navigation menu
 nobackup:
+  short: Mahuika filesystem for working data, not backed up and automatically cleaned
 nodelist:
-parallelisation:
-parallelising:
-parallelizable:
+  short: List of nodes allocated to a Slurm job
+parallelisable: &id010
+  short: Dividing work so that parts of it can run at the same time
+parallelisation: *id010
+parallelise: *id010
+parallelising: *id010
 params:
+  short: Short for parameters
 postprocessing:
+  short: Analysing or converting results after a computation
 pragma:
   plural: true
+  short: 'Compiler directive, such as an OpenMP #pragma'
 precalculating:
-precompiled: Sofware that is already compiled before you get hold of it.
+  short: Calculating values in advance for later use
+precompiled:
+  short: Software that is already compiled before you get hold of it.
 precompiler:
+  short: Program that processes source code before compilation
 preprocessor: A program that processes its input data to produce output that is used
   as input in another program.
 procs:
+  short: Short for processes or processors
 profiler:
   plural: true
   possessive: true
+  short: Tool that measures where a program spends time or memory
 quantised:
+  short: Restricted to discrete values; in machine learning, stored at lower numerical
+    precision
 readonly:
+  short: Can be read but not changed
 reconfiguring:
+  short: Changing a configuration
 recurse:
+  short: Apply an operation to a directory and everything below it
 relinking:
+  short: Linking compiled objects again, for example against a new library
 repartitioning:
+  short: Dividing data or a domain into new partitions
 repo:
   plural: true
+  short: Short for repository (version control)
 reportable:
 roadmap:
 runtime:
   plural: true
+  short: The time a program runs, or the environment that supports it while running
 runtypes:
+  short: CP2K calculation types (RUN_TYPE), such as energy or geo_opt
 scalable:
+  short: Able to use more resources efficiently as the problem grows
 setgid:
-shabang:
+  short: Permission bit; on a directory, new files inherit its group
+shabang: *id011
 stderr:
+  short: Standard error
 stdin:
+  short: Standard input
 stdout:
+  short: Standard output
 subcritical:
+  short: Below a critical threshold
 subdirectory:
   plural: true
+  short: A directory inside another directory
 subgrid:
+  short: Smaller than one grid cell of a model, as in subgrid-scale processes
 subtree:
   plural: true
+  short: Part of a tree structure, such as a directory and everything below it
 sudo:
+  short: Command to run another command with administrator privileges (not available
+    to users on the cluster)
 symlink:
   plural: true
   short: Symbolic Link
 templating:
+  short: Generating text or files from templates with placeholders
 timeframe:
 tmp:
+  short: Short for temporary, as in the /tmp directory
 tmpfs: Temporary file storage paradigm implemented in many Unix-like operating systems.
-tokenizer:
+tokeniser:
   plural: true
+  short: Splits text into tokens for processing, such as by a language model
 toolchain:
   plural: true
+  short: A compiler with matched libraries, used to build software
 tooltip:
   plural: true
   possessive: true
+  short: Text that appears when you hover over an element
 transcoding:
+  short: Converting data, such as video, from one encoding to another
 txt: Common file extension
 validator:
+  short: Tool that checks data or code against rules
 vectorisation: A style of computer programming where operations are applied to whole
   arrays instead of individual elements.
-vectorize:
+vectorise:
+  short: Rewrite code to operate on whole arrays at once, often with SIMD instructions
+venv: Virtual environment
 walltime:
   plural: true
+  short: Real time a job runs, limited by --time

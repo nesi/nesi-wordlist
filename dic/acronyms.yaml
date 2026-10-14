@@ -1,4 +1,5 @@
-ABI: Auckland Bioengineering Institute
+ABI:
+  short: Application Binary Interface
 ACL:
   plural: true
   short: Access Control List
@@ -32,11 +33,14 @@ CPU:
   plural: true
   possessive: true
   short: Central Processing Unit
-CRI: Crown Research Institute
+CRI:
+  plural: true
+  short: Crown Research Institute
 CRLF: Carriage Return Line Feed
 CUDA: Compute Unified Device Architecture
 CWL: Common Workflow Language
-DFT: Discrete Fourier Transform
+DFT:
+  short: Density Functional Theory
 DFTB: Density Functional Tight Binding
 DOI:
   long: A unique identifier that identifies digital objects. The object may change
@@ -53,7 +57,9 @@ EOL: End of Line
 ESGF: Earth System Grid Federation
 FCS: NCBI Foreign Contamination Screening
 FCS-GX: NCBI tool for screening contamination in genome assemblies
-FFT: Fast Fourier Transform
+FFT:
+  plural: true
+  short: Fast Fourier Transform
 FTE: Full Time Equivalent
 FaaS: Function as a Service
 GDB: GNU Debugger
@@ -67,9 +73,9 @@ GPFS: &id001
 GPG: GNU Privacy Guard
 GPGPU:
   plural: true
-  short: General Purpose Graphics Processing Unit
+  short: General-Purpose computing on Graphics Processing Units
 GPL:
-  long: Copyleft software licence released by GNU.
+  long: Copyleft software licence published by the Free Software Foundation.
   short: GNU General Public License
 GPU:
   plural: true
@@ -88,24 +94,30 @@ GVCF: Genomic VCF
 HCA:
   plural: true
   short: Host Channel Adapter
-HCS: High-Capacity Central File Storage
+HCS:
+  short: High Capacity Storage
 HDF:
   long: A set of file formats designed to store and organize large amounts of data.
   short: Hierarchical Data Format
 HGX:
+  short: NVIDIA GPU server platform
 HMM:
   plural: true
   short: Hidden Markov Model
 HPC: &id002
-  long: Like a regular computer, but larger. Primarily used for heating data centers.
+  long: Using many networked computers (nodes) together to run calculations that are
+    too large or slow for a single computer.
   plural: true
   possessive: true
   short: High Performance Computing/Computer
 HTTPS:
+  short: Hypertext Transfer Protocol Secure
 IBM: International Business Machines Corporation
 IMAP:
   plural: true
+  short: Internet Message Access Protocol
 IMAPS:
+  short: IMAP over TLS/SSL
 IMG: JGI Integrated Microbial Genomes database
 INSDC: International Nucleotide Sequence Database Collaboration
 IaC: Infrastructure as Code
@@ -114,19 +126,21 @@ JVM: Java Virtual Machine
 KEA: GDAL raster format
 KNP:
 Kerberos:
+  short: Network authentication protocol
 LAPACK: Linear Algebra PACKage
 LDA: Local Density Approximation
 LDAP:
   plural: true
+  short: Lightweight Directory Access Protocol
 LDAPS:
+  short: LDAP over TLS/SSL
 LF: Line Feed
+LLM: Large Language Model
 LLNL: Lawrence Livermore National Laboratory
-LMM: Large Language Model
 LTS: Long-Term Support
 LZW: Lempel-Ziv-Welch compression algorithm
 LiDAR: Light Detection and Ranging
 MB:
-  plural: true
   short: Megabyte
 MBIE:
   possessive: true
@@ -142,13 +156,15 @@ MWLR: Manaaki Whenua Landcare Research
 NCBI: National Center for Biotechnology Information
 NGC: NVIDIA GPU Cloud
 NIWA:
-  long: Crown Research Institute, conducts research across a broad range of disciplines
-    in the environmental sciences.
+  long: Former Crown Research Institute for environmental science. Merged into Earth
+    Sciences New Zealand on 1 July 2025.
   possessive: true
   short: National Institute of Water and Atmospheric Research
 NTLM:
+  short: NT LAN Manager
 NUMA: Non-Uniform Memory Access
-NVMe: Non-Volatile Memory express
+NVMe:
+  short: Non-Volatile Memory Express
 NZ: New Zealand
 NZD: New Zealand Dollar
 NZDT: New Zealand Daylight Time
@@ -184,12 +200,15 @@ RPA: Random Phase Approximation
 RRBS: Reduced Representation Bisulfite Sequencing
 RSS: Resident Set Size (memory)
 RTMP:
+  short: Real-Time Messaging Protocol
 RTSP:
+  short: Real Time Streaming Protocol
 SCP:
-  long: Means of securely transferring files between over an SSH connection.
+  long: Means of securely transferring files between computers over an SSH connection.
   short: Secure Copy Protocol
 SDK: Software Development Kit
-SFTP: Secure File Transfer Protocol
+SFTP:
+  short: SSH File Transfer Protocol
 SHA: Secure Hash Algorithm
 SHA-1: Secure Hash Algorithm 1
 SHA-256: Secure Hash Algorithm 256
@@ -207,7 +226,8 @@ SSD:
 SSH:
   long: A network communication protocol that enables two computers to communicate
   short: Secure Shell
-SSHFS: Secure SHell File System
+SSHFS:
+  short: SSH Filesystem
 SSIF: Strategic Science Investment Fund
 SSL: Secure Sockets Layer
 SV:
@@ -218,20 +238,22 @@ SVG: Scalable Vector Graphics
 SVM: Support Vector Machine
 SVR: Support Vector Regression
 SYSV: System V
-ScaLAPAC: Scalable Linear Algebra PACKage
 Spectrum Scale: *id001
 TCP: Transmission Control Protocol
 TLS: Transport Layer Security
 TRES: TRackable RESources
 TZ: Time Zone
-UDF: User Defined Function
+UDF:
+  plural: true
+  short: User Defined Function
 UI: User Interface
 UTF: Unicode Transformation Format
 UUID: Universally Unique IDentifier
 UX: User Experience
 UoA: University of Auckland
 VCF:
-  long: File format for storing genetic sequences
+  long: Text file format for storing gene sequence variations, such as SNPs and indels,
+    relative to a reference genome.
   short: Variant Call Format
 VHDL: VHSIC Hardware Description Language
 VM:
@@ -242,19 +264,20 @@ VNC: Virtual Network Computing
 VPN:
   long: Method of extending access to a private network.
   short: Virtual Private Network
-VRAM: Virtual RAM
+VRAM:
+  short: Video RAM
 WCAG: Web Content Accessibility Guidelines
 WCRP: World Climate Research Programme
 WMO: World Meteorological Organization
 WSL: Windows Subsystem for Linux
 XCB: X protocol C-language Binding
-XVFB:
-  long: A display server implementing the X11 display server protocol, XVFB performs
-    all graphical operations in virtual memory without showing any screen output.
-    This allows applications that require a GUI to run in a command line environment.
-    Can be invoked with `xvfb-run`'
+Xvfb:
+  long: A display server that implements the X11 protocol but draws to virtual memory
+    instead of a screen, so applications that need a GUI can run from the command
+    line. Start it with xvfb-run.
   short: X Virtual FrameBuffer
-YAML: Yet Another Markup Language
+YAML:
+  short: YAML Ain't Markup Language
 supercomputer: *id002
 supercomputing: *id002
 vCPU:
