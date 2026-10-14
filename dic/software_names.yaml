@@ -43,7 +43,7 @@ Nanopore:
   possessive: true
 Nsight:
 NumPy:
-OnDemand: Open OnDemand
+OnDemand: Mahuika OnDemand, built on Open OnDemand.
 OpenACC:
 OpenGL:
 PacBio:

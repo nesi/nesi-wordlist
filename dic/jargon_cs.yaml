@@ -10,7 +10,7 @@ MaxRSS: Slurm sacct field
 PowerShell: Windows Command Line Shell
 ReqMem: Slurm sacct field
 ReqNodeNotAvail: Slurm job reason code
-SquashFS: Compressed read-only file system for Linux.
+SquashFS: Compressed read-only filesystem for Linux.
 TMPDIR:
 TotalCPU: Slurm sacct field
 XC:
@@ -83,10 +83,6 @@ heredoc:
 hostname:
   plural: true
 hypergraph:
-hyperthread:
-  plural: true
-hyperthreaded:
-hyperthreading:
 in silico:
 inode:
   plural: true

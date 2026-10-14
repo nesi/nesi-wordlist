@@ -1,7 +1,7 @@
 Nano:
   checkcase: false
-PWD:
-bashrc:
+PWD: Current working directory
+bashrc: 
 csh:
 dirname:
 env:

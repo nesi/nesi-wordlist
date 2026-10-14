@@ -8,6 +8,10 @@ Editing any of these files should trigger regeneration of the outputs.
 ## Adding Words
 
 Choose a category file from `dic/` (or add a new one if required).
+
+Don't add a word that the support docs ask writers to avoid (the "Not" column in
+[Names and terms](https://github.com/nesi/support-docs/blob/main/docs/FORMAT.md#names-and-terms), for example `MyNeSI`, `GiB`,
+`OTP` or `hyperthreading`). Leaving it out of the dictionary is what makes the spellcheck flag it.
 The yaml files are dictionaries, where the key is the word in question, and the parameters are as below.
 
 ### Parameters
@@ -56,7 +60,7 @@ Example entry and alias.
 | `acronyms.yaml`             | You know what an                                          |                                   |
 | `commands.yaml`             | Command line commands.                                    | `mv`, `scp` etc                   |
 | `inexplicably-absent.yaml`  | Words that aren't in aspell but really should be.         |                                   |
-| `jargon.yaml`               | Technical Jargon                                          | `Hyperthreading`, `Supercomputer` |
+| `jargon.yaml`               | Technical Jargon                                          | `Multithreading`, `Supercomputer` |
 | `misc.yaml`                 |                                                           |                                   |
 | `proper_names.yaml`         | Companies, people, etc                                    | `ZenDesk`, `Google`               |
 | `software_names.yaml`       | Software not in our module list.                          |                                   |

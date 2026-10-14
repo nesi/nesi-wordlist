@@ -61,7 +61,7 @@ GDC: Genomics Data Carpentry
 GIS: Geographic Information System
 GNU: GNU's Not Unix!
 GPFS: &id001
-  long: High-performance clustered file system software developed by IBM.
+  long: High-performance clustered filesystem software developed by IBM.
   possessive: true
   short: General Parallel File System
 GPG: GNU Privacy Guard
@@ -85,7 +85,6 @@ GUI:
   plural: true
   short: Graphical User Interface
 GVCF: Genomic VCF
-GiB: Gibibyte
 HCA:
   plural: true
   short: Host Channel Adapter
@@ -156,7 +155,8 @@ NZDT: New Zealand Daylight Time
 NZISM: New Zealand Information Security Manual
 NZST: New Zealand Standard Time
 NeSI:
-  long: New Zealand national high performance computing platform.
+  long: Former provider of New Zealand's national high performance computing platform,
+    integrated into REANNZ on 1 July 2025.
   possessive: true
   short: New Zealand eScience Infrastructure
 OOM: Out of Memory
@@ -166,10 +166,6 @@ ORCID:
     of information.
   short: Open Researcher and Contributor ID
 OSX: macOS
-OTP:
-  long: An automatically generated numeric code that authenticates a user for a single
-    login.
-  short: One Time Password
 PCIe: Peripheral Component Interconnect Express
 PFR: Plant and Food Research
 PMI: Process Management Interface
@@ -182,7 +178,7 @@ QoS: Quality of Service
 RDC: Research Developer Cloud
 REANNZ:
   possessive: true
-  short: Research Education Advanced Network New Zealand
+  short: Research and Education Advanced Network New Zealand
 RHEL: Red Hat Enterprise Linux
 RPA: Random Phase Approximation
 RRBS: Reduced Representation Bisulfite Sequencing
@@ -200,7 +196,7 @@ SHA-256: Secure Hash Algorithm 256
 SIF: Singularity Image Format
 SLA: Service Level Agreement
 SMP: Symmetric MultiProcessing
-SMT: Simultaneous MultiThreading
+SMT: Simultaneous multithreading
 SNP:
   plural: true
   short: Single Nucleotide Polymorphism
@@ -228,7 +224,6 @@ TCP: Transmission Control Protocol
 TLS: Transport Layer Security
 TRES: TRackable RESources
 TZ: Time Zone
-TiB: Tebibyte
 UDF: User Defined Function
 UI: User Interface
 UTF: Unicode Transformation Format
